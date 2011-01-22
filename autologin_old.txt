@@ -1,0 +1,1907 @@
+**全球卫星自动定位系统0.26版
+**Autologin Alias TXT File
+**Copyright 2005.3.15 by lorna@CQ
+**
+**
+**
+**大草原
+#**大草原牛皮大帐;#al w_back {#t+ autologin;s;s;s;s;s;set look;l;place}
+#**大草原神风营;#al w_back {#t+ autologin;s;s;s;s;set look;l;place}
+#**大草原疾风营;#al w_back {#t+ autologin;s;s;s;set look;l;place}
+#**大草原营门;#al w_back {#t+ autologin;s;s;set look;l;place}
+**
+**
+**桃花岛
+**
+#**桃花岛墓道;#al w_back {#t+ smjob_in;time}
+#**桃花岛山冈;#al w_back {#t+ autologin;n;n;set look;l;place}
+#**桃花岛海滨;#al w_back {#t+ autologin;bthd;set look;l;place}
+#**桃花岛内室;#al w_back {s;s;e;e;#3 s;#t+ autologin;set look;l;place}
+#**桃花岛积翠亭;#al w_back {thdout {bthd;dj do;setdo {bcj;ta;setdo {autostart}}}}
+**
+**终南山
+**
+#**终南山后堂;#al w_back {outgm}
+#**终南山红花丛;#al w_back {s;e;s;enter;e;e;#t+ autologin;set look;l;place}
+#**终南山悬崖;#al w_back {n;enter;e;e;#t+ autologin;set look;l;place}
+**
+**长安城
+**
+#**中原石路;#al w_back {w;s;d;d;e;#2 ne;#6 e;#2 s;e;n;ta;setdo {autostart}}
+#**中原万神殿;#al w_back {s;d;e;e;dujiang;e;#9 s;e;n;ta;setdo {autostart}}
+#**长安城官道;#al w_back {#t+ autologin;s;w;nw;set look;l;place}
+#**长安城大道;#al w_back {#t+ autologin;s;set look;l;place}
+#**长安城土路;#al w_back {sw;su;sw;sd;sw;#7 s;te;walk {catodz;te;walk {autostart}}}
+#**长安城陕晋渡口;#al w_back {#t+ autologin;n;n;e;se;set look;l;place}
+#**长安城北大街;#al w_back {#t+ autologin;s;set look;l;place}
+#**长安城聚豪客栈;#al w_back {e;s;walk {catodz;walk {autostart};te};te}
+#**长安城聚豪酒楼;#al w_back {w;s;walk {catodz;walk {autostart};te};te}
+#**长安城酒楼二楼;#al w_back {d;w;s;walk {catodz;walk {autostart};te};te}
+#**长安城裁缝铺;#al w_back {e;s;s;walk {catodz;walk {autostart};te};te}
+#**长安城织布坊;#al w_back {w;s;s;walk {catodz;walk {autostart};te};te}
+#**长安城市集;#al w_back {walk {e;e;#3 s;catodz;walk {autostart};te};te}
+#**长安城黑市;#al w_back {e;e;e;#3 s;walk {catodz;walk {autostart};te};te}
+#**长安城民居;#al w_back {#t+ autologin;n;e;s;set look;l;place}
+#**长安城戏院;#al w_back {n;w;#3 s;walk {catodz;walk {autostart};te};te}
+#**长安城土嫖馆;#al w_back {n;w;w;#3 s;walk {catodz;walk {autostart};te};te}
+#**长安城杂货铺;#al w_back {n;w;w;w;#3 s;walk {catodz;walk {autostart};te};te}
+#**长安城内街;#al w_back {#t+ autologin;s;set look;l;place}
+#**长安城酒馆;#al w_back {n;e;#3 s;walk {catodz;walk {autostart};te};te}
+#**长安城东大街;#al w_back {#t+ autologin;w;set look;l;place}
+#**长安城万红楼;#al w_back {s;w;walk {catodz;walk {autostart};te};te}
+#**长安城茶馆;#al w_back {s;w;w;walk {catodz;walk {autostart};te};te}
+#**长安城赌场;#al w_back {n;w;walk {catodz;walk {autostart};te};te}
+#**长安城清池;#al w_back {n;w;w;walk {catodz;walk {autostart};te};te}
+#**长安城水果店;#al w_back {s;w;w;w;walk {catodz;walk {autostart};te};te}
+#**长安城花店;#al w_back {n;w;w;w;walk {catodz;walk {autostart};te};te}
+#**长安城兵营;#al w_back {n;n;w;w;w;w;walk {catodz;walk {autostart};te};te}
+#**长安城李家大院;#al w_back {e;s;#4 w;walk {catodz;walk {autostart};te};te}
+#**长安城帐房;#al w_back {s;e;s;#4 w;walk {catodz;walk {autostart};te};te}
+#**长安城正厅;#al w_back {#t+ autologin;n;n;e;s;e;set look;l;place}
+#**长安城卧室;#al w_back {#t+ autologin;e;set look;l;place}
+#**长安城长乐门;#al w_back {#5 w;walk {catodz;walk {autostart};te};te}
+#**长安城兵营大门;#al w_back {n;n;w;w;w;w;walk {catodz;walk {autostart};te};te}
+#**长安城钟楼;#al w_back {walk {catodz;walk {autostart};te};te}
+#**长安城珠宝行;#al w_back {n;e;walk {catodz;walk {autostart};te};te}
+#**长安城南大街;#al w_back {#t+ autologin;n;set look;l;place}
+#**长安城威信钱庄;#al w_back {e;n;walk {catodz;walk {autostart};te};te}
+#**长安城当铺;#al w_back {w;n;walk {catodz;walk {autostart};te};te}
+#**长安城德文堂;#al w_back {e;n;n;walk {catodz;walk {autostart};te};te}
+#**长安城兵器铺;#al w_back {w;n;n;walk {catodz;walk {autostart};te};te}
+#**长安城镜湖;#al w_back {e;n;n;n;walk {catodz;walk {autostart};te};te}
+#**长安城假山;#al w_back {e;e;n;n;n;walk {catodz;walk {autostart};te};te}
+#**长安城永宁门;#al w_back {#4 n;walk {catodz;walk {autostart};te};te}
+#**长安城西大街;#al w_back {#t+ autologin;e;set look;l;place}
+#**长安城衙门;#al w_back {s;e;e;walk {catodz;walk {autostart};te};te}
+#**长安城衙门正厅;#al w_back {s;s;e;e;walk {catodz;walk {autostart};te};te}
+#**长安城驿站;#al w_back {s;e;e;e;walk {catodz;walk {autostart};te};te}
+#**长安城清真寺;#al w_back {s;#4 e;walk {catodz;walk {autostart};te};te}
+#**长安城大殿;#al w_back {s;s;#4 e;walk {catodz;walk {autostart};te};te}
+#**长安城后殿;#al w_back {#3 s;#4 e;walk {catodz;walk {autostart};te};te}
+#**长安城城隍庙;#al w_back {n;#4 e;walk {catodz;walk {autostart};te};te}
+#**长安城虎威镖局;#al w_back {n;e;e;e;walk {catodz;walk {autostart};te};te}
+#**长安城镖局大厅;#al w_back {n;n;e;e;e;walk {catodz;walk {autostart};te};te}
+#**长安城将军府;#al w_back {n;e;e;walk {catodz;walk {autostart};te};te}
+#**长安城厢房;#al w_back {e;n;e;e;walk {catodz;walk {autostart};te};te}
+#**长安城卧室;#al w_back {#t+ autologin;e;set look;l;place}
+#**长安城宴厅;#al w_back {#t+ autologin;s;w;set look;l;place}
+#**长安城后门;#al w_back {n;n;n;e;e;walk {catodz;walk {autostart};te};te}
+#**长安城后花园;#al w_back {open door;n;n;n;n;e;e;walk {walk {catodz;walk {autostart};te};te};te}
+#**长安城凉亭;#al w_back {e;open door;n;n;n;n;e;e;walk {walk {catodz;walk {autostart};te};te};te}
+#**长安城鼓楼;#al w_back {se;walk {catodz;walk {autostart};te};te}
+#**长安城安定门;#al w_back {#5 e;walk {catodz;walk {autostart};te};te}
+#**长安城北门城楼;#al w_back {d;#4 s;walk {catodz;walk {autostart};te};te}
+#**长安城北城墙;#al w_back {#9 e;#5 w;walk {d;#4 s;walk {catodz;walk {autostart};te};te};te}
+#**长安城了望台;#al w_back {#t+ autologin;w;w;e;set look;l;place}
+#**长安城东城墙;#al w_back {#7 s;#4 n;walk {d;#5 w;walk {catodz;walk {autostart};te};te};te}
+#**长安城西城墙;#al w_back {#7 s;#4 n;walk {d;#5 e;walk {catodz;walk {autostart};te};te};te}
+#**长安城南城墙;#al w_back {#9 e;#5 w;walk {d;#4 n;walk {catodz;walk {autostart};te};te};te}
+#**长安城南门城楼;#al w_back {d;#4 n;walk {catodz;walk {autostart};te};te}
+#**长安城西门城楼;#al w_back {d;#5 e;walk {catodz;walk {autostart};te};te}
+#**长安城东门城楼;#al w_back {d;#5 w;walk {catodz;walk {autostart};te};te}
+#**长安城箭楼;#al w_back {#t+ autologin;w;n;set look;l;place}
+#**长安城长街;#al w_back {#t+ autologin;#5 w;set look;l;place}
+#**长安城柏树林;#al w_back {#t+ autologin;#5 w;set look;l;place}
+#**长安城温泉;#al w_back {#t+ autologin;#5 w;set look;l;place}
+#**长安城安远门;#al w_back {#4 s;walk {catodz;walk {autostart};te};te}
+**
+**长乐帮
+**
+#**长乐帮大门;#al w_back {s;w;nw;nw;walk {clbtodz;walk {autostart};te};te}
+#**长乐帮卧室;#al w_back {s;s;s;out;s;w;nw;nw;walk {clbtodz;walk {autostart};te};te}
+#**长乐帮大厅;#al w_back {w;w;s;out;s;w;nw;nw;walk {clbtodz;walk {autostart};te};te}
+#**长乐帮走廊;#al w_back {s;out;s;w;nw;nw;walk {clbtodz;walk {autostart};te};te}
+#**长乐帮西走廊;#al w_back {e;s;out;s;w;nw;nw;walk {clbtodz;walk {autostart};te};te}
+#**长乐帮睡房;#al w_back {s;e;s;out;s;w;nw;nw;walk {clbtodz;walk {autostart};te};te}
+#**长乐帮柴房;#al w_back {n;e;s;out;s;w;nw;nw;walk {clbtodz;walk {autostart};te};te}
+#**长乐帮小厅;#al w_back {s;s;out;s;w;nw;nw;walk {clbtodz;walk {autostart};te};te}
+#**长乐帮小屋;#al w_back {n;w;s;out;s;w;nw;nw;walk {clbtodz;walk {autostart};te};te}
+#**长乐帮厨房;#al w_back {n;w;w;s;out;s;w;nw;nw;walk {clbtodz;walk {autostart};te};te}
+#**长乐帮花园;#al w_back {w;s;s;out;s;w;nw;nw;walk {clbtodz;walk {autostart};te};te}
+#**长乐帮八角亭;#al w_back {w;w;s;s;out;s;w;nw;nw;walk {clbtodz;walk {autostart};te};te}
+#**长乐帮甬道;#al w_back {s;w;s;s;out;s;w;nw;nw;walk {clbtodz;walk {autostart};te};te}
+#**长乐帮石室;#al w_back {w;s;w;s;s;out;s;w;nw;nw;walk {clbtodz;walk {autostart};te};te}
+#**长乐帮大驿道;#al w_back {sw;nw;walk {clbtodz;walk {autostart};te};te}
+#**长乐帮青石路;#al w_back {w;nw;nw;walk {clbtodz;walk {autostart};te};te}
+#**长乐帮东走廊;#al w_back {#3 w;e;s;out;s;w;nw;nw;walk {clbtodz;walk {autostart};te};te}
+**
+**大理城
+**
+#**大理城西门;#al w_back {walk {xmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城西点苍山;#al w_back {ed;walk {xmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城西点苍十九峰;#al w_back {sd;ed;sd;ed;walk {xmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城西怒江;#al w_back {ne;ed;walk {xmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城西轿子雪山;#al w_back {nd;ne;ed;walk {xmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城西虎跳峡;#al w_back {e;ne;ed;walk {xmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城西梅里雪山;#al w_back {se;e;ne;ed;walk {xmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城西天池;#al w_back {ne;se;e;ne;ed;walk {xmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城西天池半山;#al w_back {d;ne;se;e;ne;ed;walk {xmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城西宁浪泸沽湖;#al w_back {ne;e;ne;ed;walk {xmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城西玉龙雪山;#al w_back {nd;ne;e;ne;ed;walk {xmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城西应乐峰南;#al w_back {s;sd;ed;sd;ed;walk {xmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城西应乐峰北;#al w_back {su;sd;s;sd;ed;sd;ed;walk {xmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城西应乐峰;#al w_back {sd;s;sd;ed;sd;ed;walk {xmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城南门;#al w_back {n;n;e;walk {zhutod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城南山路;#al w_back {n;n;n;e;walk {zhutod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城南下关风;#al w_back {nd;n;n;n;e;walk {zhutod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城南安宁温泉;#al w_back {w;nd;n;n;n;e;walk {zhutod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城南大观楼;#al w_back {nw;nd;n;n;n;e;walk {zhutod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城南荷花池;#al w_back {e;nw;nd;n;n;n;e;walk {zhutod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城南游园会;#al w_back {e;e;nw;nd;n;n;n;e;walk {zhutod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城南土林;#al w_back {n;nw;nd;n;n;n;e;walk {zhutod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城南秀山;#al w_back {nd;n;nw;nd;n;n;n;e;walk {zhutod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城南西双版纳;#al w_back {walk {ne;nd;n;nw;nd;n;n;n;e;zhutod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城南澜沧江边;#al w_back {#t+ autologin;e;e;ne;se;w;ne;set look;l;place}
+#**大理城南海埂南;#al w_back {s;nd;nw;nd;n;n;n;e;walk {zhutod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城南海埂北;#al w_back {s;nd;nw;nd;n;n;n;e;walk {zhutod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城南海埂;#al w_back {s;nd;nw;nd;n;n;n;e;walk {zhutod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城东门;#al w_back {walk {dmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城东山路;#al w_back {w;walk {dmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城东山间小路;#al w_back {nw;wd;wd;sw;w;walk {dmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城东拈花寺;#al w_back {nw;nw;wd;wd;sw;w;walk {dmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城东寺间小路;#al w_back {s;out;nw;nw;wd;wd;sw;w;walk {dmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城东大殿;#al w_back {s;s;out;nw;nw;wd;wd;sw;w;walk {dmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城东后院;#al w_back {s;s;s;out;nw;nw;wd;wd;sw;w;walk {dmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城东西山森林;#al w_back {nw;w;walk {dmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城东望海楼;#al w_back {s;nw;w;walk {dmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城东路南大叠水;#al w_back {n;nw;w;walk {dmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城东石林;#al w_back {w;n;nw;w;walk {dmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城东澄江抚仙湖;#al w_back {n;n;nw;w;walk {dmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城东阳宗海;#al w_back {w;n;n;nw;w;walk {dmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城东燕子洞口;#al w_back {out;nd;n;n;nw;w;walk {dmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城东燕子洞;#al w_back {nd;n;n;nw;w;walk {dmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城东第一天;#al w_back {up;out;nd;n;n;nw;w;walk {dmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城东第二天;#al w_back {up;up;out;nd;n;n;nw;w;walk {dmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城东第三天;#al w_back {up;up;up;out;nd;n;n;nw;w;walk {dmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城东观景楼边;#al w_back {w;w;up;up;up;out;nd;n;n;nw;w;walk {dmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城东观景楼;#al w_back {w;w;up;up;up;out;nd;n;n;nw;w;walk {dmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城东洞顶;#al w_back {d;w;w;up;up;up;out;nd;n;n;nw;w;walk {dmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城东燕子窝;#al w_back {w;d;w;w;up;up;up;out;nd;n;n;nw;w;walk {dmtod;walk {dtodz;walk {autostart};te};te};te}
+#**大理城大道;#al w_back {walk {#10 n;w;s;walk {cdtodz;walk {autostart};te};te};te}
+#**大理城北门;#al w_back {walk {#11 n;w;s;walk {cdtodz;walk {autostart};te};te};te}
+#**大理城蝴蝶泉;#al w_back {sw;#3 n;walk {#6 n;w;s;walk {cdtodz;walk {autostart};te};te};te}
+#**大理城蝴蝶会;#al w_back {w;sw;#3 n;walk {#6 n;w;s;walk {cdtodz;walk {autostart};te};te};te}
+#**大理城洱海园;#al w_back {w;w;sw;walk {#6 n;w;s;walk {cdtodz;walk {autostart};te};te};te}
+#**大理城灵山一会;#al w_back {wd;w;w;sw;walk {#6 n;w;s;walk {cdtodz;walk {autostart};te};te};te}
+#**大理城鸡足山上;#al w_back {wd;wd;w;w;sw;walk {#6 n;w;s;walk {cdtodz;walk {autostart};te};te};te}
+#**大理城鸡足山;#al w_back {wd;wd;wd;w;w;sw;#3 n;walk {#6 n;w;s;walk {cdtodz;walk {autostart};te};te};te}
+#**大理城道旁田野;#al w_back {e;ne;walk {#7 n;w;s;walk {cdtodz;walk {autostart};te};te};te}
+#**大理城山岗;#al w_back {e;e;ne;walk {#7 n;w;s;walk {cdtodz;walk {autostart};te};te};te}
+#**玉虚观山岗;#al w_back {e;e;ne;walk {#7 n;w;s;walk {cdtodz;walk {autostart};te};te};te}
+#**玉虚观玉虚观门;#al w_back {out;e;se;e;e;ne;walk {#7 n;w;s;walk {cdtodz;walk {autostart};te};te};te}
+#**玉虚观玉虚观;#al w_back {out;e;se;e;e;ne;walk {#7 n;w;s;walk {cdtodz;walk {autostart};te};te};te}
+#**大理城书房;#al w_back {e;out;e;se;e;e;ne;walk {#7 n;w;s;walk {cdtodz;walk {autostart};te};te};te}
+#**大理城睡房;#al w_back {w;out;e;se;e;e;ne;walk {#7 n;w;s;walk {cdtodz;walk {autostart};te};te};te}
+#**大理城太和北街;#al w_back {n;walk {dtodz;walk {autostart};te};te}
+#**大理城城中心;#al w_back {n;n;walk {dtodz;walk {autostart};te};te}
+#**大理城北大街;#al w_back {#5 e;#3 w;n;walk {dtodz;walk {autostart};te};te}
+#**大理城茶馆;#al w_back {#3 e;n;walk {dtodz;walk {autostart};te};te}
+#**大理城大理钱庄;#al w_back {s;w;n;walk {dtodz;walk {autostart};te};te}
+#**大理城赌场;#al w_back {s;w;w;n;walk {dtodz;walk {autostart};te};te}
+#**大理城作坊;#al w_back {#3 w;n;walk {dtodz;walk {autostart};te};te}
+#**大理城风味小吃店;#al w_back {e;n;n;walk {dtodz;walk {autostart};te};te}
+#**大理城云雪楼;#al w_back {w;n;n;walk {dtodz;walk {autostart};te};te}
+#**大理城裁缝店;#al w_back {e;e;e;n;n;walk {dtodz;walk {autostart};te};te}
+#**大理城当铺;#al w_back {w;w;w;n;n;walk {dtodz;walk {autostart};te};te}
+#**大理城青石街;#al w_back {s;#2 e;#6 n;#2 w;n;n;n;walk {dtodz;walk {autostart};te};te}
+#**大理城豆腐坊;#al w_back {n;w;n;n;walk {dtodz;walk {autostart};te};te}
+#**大理城迎宾馆;#al w_back {n;n;n;n;walk {dtodz;walk {autostart};te};te}
+#**大理城西大街;#al w_back {#8 s;walk {#9 n;e;e;n;walk {dtodz;walk {autostart};te};te};te}
+#**大理城太和西街;#al w_back {n;n;n;n;e;e;n;walk {dtodz;walk {autostart};te};te}
+#**大理城绣楼;#al w_back {e;n;e;e;n;n;walk {dtodz;walk {autostart};te};te}
+#**大理城绸缎庄;#al w_back {e;n;n;e;e;n;n;walk {dtodz;walk {autostart};te};te}
+#**大理城善阐侯府;#al w_back {e;n;n;n;n;e;e;n;n;walk {dtodz;walk {autostart};te};te}
+#**大理城戏园子;#al w_back {e;n;n;n;n;n;e;e;n;n;walk {dtodz;walk {autostart};te};te}
+#**大理城铸剑房;#al w_back {e;n;n;n;n;n;n;e;e;n;n;walk {dtodz;walk {autostart};te};te}
+#**大理城打铁铺;#al w_back {e;n;n;n;n;n;n;n;e;e;n;n;walk {dtodz;walk {autostart};te};te}
+#**大理城书肆;#al w_back {n;n;n;n;n;n;n;n;e;e;n;n;walk {dtodz;walk {autostart};te};te}
+#**大理城南大街;#al w_back {#5 w;e;n;n;n;n;n;n;n;e;e;n;n;walk {dtodz;walk {autostart};te};te}
+#**大理城定安府;#al w_back {n;w;n;n;n;n;n;n;n;e;e;n;n;walk {dtodz;walk {autostart};te};te}
+#**大理城太和南街;#al w_back {w;w;n;n;n;n;n;n;n;e;e;n;n;walk {dtodz;walk {autostart};te};te}
+#**大理城东大街;#al w_back {#8 s;walk {#9 n;w;w;n;walk {dtodz;walk {autostart};te};te};te}
+#**大理城药铺;#al w_back {w;n;w;w;n;n;walk {dtodz;walk {autostart};te};te}
+#**大理城兵营;#al w_back {w;n;n;w;w;n;n;walk {dtodz;walk {autostart};te};te}
+#**大理城太和东街;#al w_back {n;n;n;w;w;n;n;walk {dtodz;walk {autostart};te};te}
+#**大理城茶花园;#al w_back {sw;se;sd;sd;sd;w;n;n;n;n;n;w;w;n;n;walk {dtodz;walk {autostart};te};te}
+#**大理城花店;#al w_back {w;#4 n;n;n;w;w;n;n;walk {dtodz;walk {autostart};te};te}
+#**大理城书院;#al w_back {w;#4 n;n;n;n;w;w;n;n;walk {dtodz;walk {autostart};te};te}
+#**大理城杂货铺;#al w_back {n;#4 n;n;n;n;w;w;n;n;walk {dtodz;walk {autostart};te};te}
+#**大理城大富之家;#al w_back {n;e;#4 n;n;n;n;w;w;n;n;walk {dtodz;walk {autostart};te};te}
+#**大理城马房;#al w_back {e;s;e;e;#4 n;n;n;n;w;w;n;n;walk {dtodz;walk {autostart};te};te}
+#**大理城驿站;#al w_back {w;s;e;e;#4 n;n;n;n;w;w;n;n;walk {dtodz;walk {autostart};te};te}
+#**大理皇宫皇宫正门;#al w_back {s;s;e;e;#4 n;n;n;n;w;w;n;n;walk {dtodz;walk {autostart};te};te}
+#**大理城府衙前厅;#al w_back {s;e;e;n;walk {dtodz;walk {autostart};te};te}
+#**大理城司马堂;#al w_back {e;s;e;e;n;walk {walk {dtodz;walk {autostart};te};te};te} 
+#**大理城司空堂;#al w_back {s;s;e;e;n;walk {walk {dtodz;walk {autostart};te};te};te}
+#**大理城司徒堂;#al w_back {w;s;e;e;n;walk {walk {dtodz;walk {autostart};te};te};te}
+#**大理王府王府大厅;#al w_back {walk {wftod;walk {dtodz;walk {autostart};te};te};te}
+#**大理王府镇南王府大门;#al w_back {s;walk {wftod;walk {dtodz;walk {autostart};te};te};te}
+#**大理王府议政厅;#al w_back {e;n;e;walk {wftod;walk {dtodz;walk {autostart};te};te};te}
+#**大理王府暖阁;#al w_back {w;n;e;walk {wftod;walk {dtodz;walk {autostart};te};te};te}
+#**大理王府书房;#al w_back {w;w;n;e;walk {wftod;walk {dtodz;walk {autostart};te};te};te}
+#**大理王府花园;#al w_back {w;nw;n;n;e;n;walk {wftod;walk {dtodz;walk {autostart};te};te};te}
+#**大理王府帐房;#al w_back {e;n;w;walk {wftod;walk {dtodz;walk {autostart};te};te};te}
+#**大理王府王府厨房;#al w_back {w;n;w;walk {wftod;walk {dtodz;walk {autostart};te};te};te}
+#**大理王府王府兵器房;#al w_back {w;n;n;w;walk {wftod;walk {dtodz;walk {autostart};te};te}
+#**大理王府卧室;#al w_back {e;n;n;e;walk {wftod;walk {dtodz;walk {autostart};te};te};te}
+#**大理王府长廊;#al w_back {#3 s;sw;se;w;w;e;w;nw;n;n;e;n;walk {wftod;walk {dtodz;walk {autostart};te};te};te}
+**
+**华山
+**
+#**华山正气堂;#al w_back {walk {hstohsj;walk {hsjtodz;walk {autostart};te};te};te}
+#**华山前厅;#al w_back {s;walk {hstohsj;walk {hsjtodz;walk {autostart};te};te};te}
+#**华山侧廊;#al w_back {w;w;w;n;n;e;e;s;walk {hstohsj;walk {hsjtodz;walk {autostart};te};te};te}
+#**华山后堂;#al w_back {n;walk {hstohsj;walk {hsjtodz;walk {autostart};te};te};te}
+#**华山练武场;#al w_back {w;w;s;walk {hstohsj;walk {hsjtodz;walk {autostart};te};te};te}
+#**华山药房;#al w_back {n;e;e;s;walk {hstohsj;walk {hsjtodz;walk {autostart};te};te};te}
+#**华山剑房;#al w_back {n;w;w;s;walk {hstohsj;walk {hsjtodz;walk {autostart};te};te};te}
+#**华山饭厅;#al w_back {n;n;e;e;s;walk {hstohsj;walk {hsjtodz;walk {autostart};te};te};te}
+#**华山书院;#al w_back {n;n;w;w;s;walk {hstohsj;walk {hsjtodz;walk {autostart};te};te};te}
+#**华山寝室;#al w_back {n;n;walk {hstohsj;walk {hsjtodz;walk {autostart};te};te};te}
+#**华山台阶;#al w_back {su;s;walk {hstohsj;walk {hsjtodz;walk {autostart};te};te};te}
+#**华山山脚下;#al w_back {walk {hsjtodz;walk {autostart};te};te}
+#**华山玉泉院;#al w_back {s;walk {hsjtodz;walk {autostart};te};te}
+#**华山莎萝坪;#al w_back {nw;walk {hsjtodz;walk {autostart};te};te}
+#**华山山洪瀑布;#al w_back {sw;nw;walk {hsjtodz;walk {autostart};te};te}
+#**华山青柯坪;#al w_back {nd;nw;walk {hsjtodz;walk {autostart};te};te}
+#**华山千尺幢;#al w_back {wd;nd;nw;walk {hsjtodz;walk {autostart};te};te}
+#**华山百尺峡;#al w_back {nd;wd;nd;nw;walk {hsjtodz;walk {autostart};te};te}
+#**华山老君沟;#al w_back {wd;nd;wd;nd;nw;walk {hsjtodz;walk {autostart};te};te}
+#**华山猢狲愁;#al w_back {nd;wd;nd;wd;nd;nw;walk {hsjtodz;walk {autostart};te};te}
+#**华山苍龙岭;#al w_back {nd;nd;wd;nd;wd;nd;nw;walk {hsjtodz;walk {autostart};te};te}
+#**华山舍身崖;#al w_back {ed;nd;nd;wd;nd;wd;nd;nw;walk {hsjtodz;walk {autostart};te};te}
+#**华山镇岳宫;#al w_back {nu;nd;nd;wd;nd;wd;nd;nw;walk {hsjtodz;walk {autostart};te};te}
+#**华山朝阳峰;#al w_back {wd;nu;nd;nd;wd;nd;wd;nd;nw;walk {hsjtodz;walk {autostart};te};te}
+#**华山玉女峰;#al w_back {nd;nu;nd;nd;wd;nd;wd;nd;nw;walk {hsjtodz;walk {autostart};te};te}
+#**华山瀑布;#al w_back {e;nd;nu;nd;nd;wd;nd;wd;nd;nw;walk {hsjtodz;walk {autostart};te};te}
+#**华山玉女祠;#al w_back {w;nd;nu;nd;nd;wd;nd;wd;nd;nw;walk {hsjtodz;walk {autostart};te};te}
+#**华山祭坛;#al w_back {out;w;nd;nu;nd;nd;wd;nd;wd;nd;nw;walk {hsjtodz;walk {autostart};te};te}
+#**华山山路;#al w_back {nw;n;nd;nu;nd;nd;wd;nd;wd;nd;nw;walk {hsjtodz;walk {autostart};te};te}
+#**华山小溪;#al w_back {ne;nw;n;nd;nu;nd;nd;wd;nd;wd;nd;nw;walk {hsjtodz;walk {autostart};te};te}
+#**华山小山路;#al w_back {se;se;nd;nu;nd;nd;wd;nd;wd;nd;nw;walk {hsjtodz;walk {autostart};te};te}
+#**华山思过崖洞口;#al w_back {out;ed;se;se;nd;nu;nd;nd;wd;nd;wd;nd;nw;walk {hsjtodz;walk {autostart};te};te}
+#**华山思过崖;#al w_back {ed;se;se;nd;nu;nd;nd;wd;nd;wd;nd;nw;walk {hsjtodz;walk {autostart};te};te}
+#**华山村村中心;#al w_back {walk {hsctodz;walk {autostart};te};te}
+#**华山村铁匠铺;#al w_back {w;n;walk {hsctodz;walk {autostart};te};te}
+#**华山村酒肆;#al w_back {s;e;walk {hsctodz;walk {autostart};te};te}
+#**华山村玄坛庙;#al w_back {n;e;e;walk {hsctodz;walk {autostart};te};te}
+#**华山村杂货铺;#al w_back {s;w;walk {hsctodz;walk {autostart};te};te}
+#**华山村东村口;#al w_back {#3 w;walk {hsctodz;walk {autostart};te};te}
+#**华山村南村口;#al w_back {#3 n;walk {hsctodz;walk {autostart};te};te}
+#**华山村黄土路;#al w_back {#4 n;walk {hsctodz;walk {autostart};te};te}
+#**华山村民房;#al w_back {#t+ autologin;n;e;set look;l;place}
+#**华山村碎石路;#al w_back {#t+ autologin;n;e;set look;l;place}
+#**华山石屋;#al w_back {w;s;#4 w;walk {hsctodz;walk {autostart};te};te}
+#**华山村菜地;#al w_back {#t+ autologin;s;set look;l;#wa 2000;bb {place}}
+#**华山松树林;#al w_back {#t+ autologin;n;#5 e;set look;l;place}
+#**华山树林;#al w_back {#t+ autologin;n;#5 e;set look;l;place}
+#**华山空地;#al w_back {#t+ autologin;n;#5 e;set look;l;place}
+#**华山女休息室;#al w_back {#t+ autologin;n;e;set look;l;place}
+**
+**少林寺
+**
+#**嵩山少林戒律院;#al w_back {w;w;sw;s;w;bsl;ta;setdo {gxy;ta;setdo {autostart}}}
+#**嵩山少林小屋;#al w_back {n;jump out;d;out;jump xiaoxi;w;nw;sw;w;w;s;sd;s;w;s;sw;s;e;s;s;sd;s;s;s;s;s;s;s;open gate;#3 s;ta;setdo {sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}}
+#**嵩山少林石阶;#al w_back {sd;ed;#2 sd;#2 ed;#3 sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林汝州城;#al w_back {#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林迎客亭;#al w_back {sd;#2 ed;#3 sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林佛心井;#al w_back {wd;sd;sd;#2 ed;#3 sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林石坊;#al w_back {s;sd;ed;sd;sd;#2 ed;#3 sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林寺前广场;#al w_back {e;e;w;s;s;sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林山坡;#al w_back {e;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林田埂边;#al w_back {sd;e;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林小院;#al w_back {e;sd;e;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林小土屋;#al w_back {s;e;sd;e;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林卧室;#al w_back {s;s;e;sd;e;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林猪舍;#al w_back {se;e;sd;e;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林天王殿;#al w_back {s;s;s;open gate;s;s;s;sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林山门殿;#al w_back {open gate;s;s;s;sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林前殿;#al w_back {s;s;open gate;s;s;s;sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林西侧廊;#al w_back {s;s;e;s;open gate;s;s;s;sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林东侧廊;#al w_back {s;s;w;s;open gate;s;s;s;sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林广场西侧;#al w_back {e;s;open gate;s;s;s;sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林广场东侧;#al w_back {w;s;open gate;s;s;s;sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林香炉;#al w_back {s;s;s;s;s;open gate;s;s;s;sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林西侧殿;#al w_back {e;e;s;open gate;s;s;s;sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林东侧殿;#al w_back {w;w;s;open gate;s;s;s;sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林证道院;#al w_back {e;s;s;e;s;open gate;s;s;s;sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林禅房;#al w_back {s;e;e;s;s;e;s;open gate;s;s;s;sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林鼓楼七层;#al w_back {#6 d;out;e;s;e;s;open gate;s;s;s;sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林鼓楼六层;#al w_back {#5 d;out;e;s;e;s;open gate;s;s;s;sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林鼓楼五层;#al w_back {#4 d;out;e;s;e;s;open gate;s;s;s;sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林鼓楼四层;#al w_back {#3 d;out;e;s;e;s;open gate;s;s;s;sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林鼓楼三层;#al w_back {#2 d;out;e;s;e;s;open gate;s;s;s;sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林鼓楼二层;#al w_back {d;out;e;s;e;s;open gate;s;s;s;sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林鼓楼一层;#al w_back {out;e;s;e;s;open gate;s;s;s;sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林鼓楼小院;#al w_back {e;s;e;s;open gate;s;s;s;sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林钟楼七层;#al w_back {#6 d;out;w;s;w;s;open gate;s;s;s;sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林钟楼六层;#al w_back {#5 d;out;w;s;w;s;open gate;s;s;s;sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林钟楼五层;#al w_back {#4 d;out;w;s;w;s;open gate;s;s;s;sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林钟楼四层;#al w_back {#3 d;out;w;s;w;s;open gate;s;s;s;sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林钟楼三层;#al w_back {#2 d;out;w;s;w;s;open gate;s;s;s;sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林钟楼二层;#al w_back {d;out;w;s;w;s;open gate;s;s;s;sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林钟楼一层;#al w_back {out;w;s;w;s;open gate;s;s;s;sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林钟楼小院;#al w_back {w;s;w;s;open gate;s;s;s;sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+#**嵩山少林罗汉堂一部;#al w_back {#4 n;#6 e;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林罗汉堂二部;#al w_back {#3 n;#6 e;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林罗汉堂三部;#al w_back {#2 n;#6 e;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林罗汉堂四部;#al w_back {n;#6 e;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林罗汉堂五部;#al w_back {#6 e;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林罗汉堂六部;#al w_back {s;#6 e;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林罗汉堂七部;#al w_back {s;s;#6 e;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林罗汉堂八部;#al w_back {s;s;s;#6 e;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林罗汉堂九部;#al w_back {#4 s;#6 e;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林般若堂一部;#al w_back {#4 n;#6 w;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林般若堂二部;#al w_back {#3 n;#6 w;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林般若堂三部;#al w_back {#2 n;#6 w;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林般若堂四部;#al w_back {n;#6 w;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林般若堂五部;#al w_back {#6 w;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林般若堂六部;#al w_back {s;#6 w;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林般若堂七部;#al w_back {s;s;#6 w;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林般若堂八部;#al w_back {s;s;s;#6 w;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林般若堂九部;#al w_back {#4 s;#6 w;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林方丈室;#al w_back {s;d;e;e;e;e;s;sd;s;w;s;sw;s;e;s;s;sd;s;s;s;s;s;s;s;open gate;#3 s;ta;setdo {sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}}
+#**嵩山少林茶室;#al w_back {d;e;e;e;e;s;sd;s;w;s;sw;s;e;s;s;sd;s;s;s;s;s;s;s;open gate;#3 s;ta;setdo {sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}}
+#**嵩山少林方丈精舍;#al w_back {e;e;e;e;s;sd;s;w;s;sw;s;e;s;s;sd;s;s;s;s;s;s;s;open gate;#3 s;ta;setdo {sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}}
+#**嵩山少林林中小路;#al w_back {#10 w;#t+ autologin;set look;l;place}
+#**嵩山少林小溪;#al w_back {w;nw;sw;w;w;s;sd;s;w;s;sw;s;e;s;s;sd;s;s;s;s;s;s;s;open gate;#3 s;ta;setdo {sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}}
+#**嵩山少林溪旁空地;#al w_back {jump xiaoxi;w;nw;sw;w;w;s;sd;s;w;s;sw;s;e;s;s;sd;s;s;s;s;s;s;s;open gate;#3 s;ta;setdo {sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}}
+#**嵩山少林藏经阁一楼;#al w_back {d;out;jump xiaoxi;w;nw;sw;w;w;s;sd;s;w;s;sw;s;e;s;s;sd;s;s;s;s;s;s;s;open gate;#3 s;ta;setdo {sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}}
+#**嵩山少林藏经阁二楼;#al w_back {d;out;jump xiaoxi;w;nw;sw;w;w;s;sd;s;w;s;sw;s;e;s;s;sd;s;s;s;s;s;s;s;open gate;#3 s;ta;setdo {sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}}
+#**嵩山少林小径;#al w_back {jump out;d;out;jump xiaoxi;w;nw;sw;w;w;s;sd;s;w;s;sw;s;e;s;s;sd;s;s;s;s;s;s;s;open gate;#3 s;ta;setdo {sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}}
+#**嵩山少林罗汉堂;#al w_back {e;e;bsl;ta;setdo {gxy;ta;setdo {autostart}}}
+#**嵩山少林般若堂;#al w_back {w;w;bsl;ta;setdo {gxy;ta;setdo {autostart}}}
+#**嵩山少林练武场;#al w_back {s;s;n;#11 e;ta;setdo {#t+ autologin;set look;l;place}}
+#**嵩山少林中心武场;#al w_back {#11 e;ta;setdo {#t+ autologin;set look;l;place}}
+#**嵩山少林槐树林;#al w_back {s;s;w;w;e;e;se;s;e;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林舍利院;#al w_back {e;s;se;s;e;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林菩提院;#al w_back {e;e;se;s;e;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}}
+#**嵩山少林龙树院;#al w_back {e;s;s;se;s;e;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林武器库;#al w_back {s;e;s;s;se;s;e;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林防具库;#al w_back {n;e;s;s;se;s;e;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林松树林;#al w_back {s;s;e;e;w;w;sw;s;w;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林药王院;#al w_back {w;s;s;sw;s;w;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林演武堂;#al w_back {#7 e;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林后殿;#al w_back {w;s;sw;s;s;se;s;e;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林立雪亭;#al w_back {sd;s;w;s;sw;s;s;se;s;e;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林台阶;#al w_back {s;w;s;sw;s;s;se;s;e;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林后殿广场;#al w_back {w;w;n;s;sw;s;s;se;s;e;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林大悲殿;#al w_back {s;s;s;sd;s;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林须弥殿;#al w_back {e;s;s;s;sd;s;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林大雄宝殿;#al w_back {s;sd;s;bsl;ta;setdo {gxy;ta;setdo {autostart}}}
+#**嵩山少林平台;#al w_back {sd;s;bsl;ta;setdo {gxy;ta;setdo {autostart}}}
+#**嵩山少林六祖殿;#al w_back {e;sd;s;bsl;ta;setdo {gxy;ta;setdo {autostart}}}
+#**嵩山少林紧那罗王殿;#al w_back {w;sd;s;bsl;ta;setdo {gxy;ta;setdo {autostart}}}
+#**嵩山少林石板路;#al w_back {w;sw;nw;#t+ autologin;set look;l;place}
+#**嵩山少林侧廊;#al w_back {s;#3 e;#t+ autologin;set look;l;place}
+#**嵩山少林僧舍;#al w_back {n;n;s;e;nw;w;ne;#t+ autologin;set look;l;place}
+#**嵩山少林斋堂;#al w_back {w;nw;n;n;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林粥室;#al w_back {s;w;nw;n;n;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林饭厅;#al w_back {n;w;w;nw;n;n;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林香积厨;#al w_back {n;w;w;w;nw;n;n;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林小路;#al w_back {n;nw;n;n;w;w;w;nw;n;n;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林菜园子;#al w_back {w;n;n;nw;n;n;w;w;w;nw;n;n;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林回廊;#al w_back {s;e;#t+ autologin;set look;l;place}
+#**嵩山少林法堂;#al w_back {se;s;sw;s;s;sd;s;e;s;w;s;s;s;s;sd;s;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林心禅堂;#al w_back {s;w;se;s;sw;s;s;sd;s;e;s;w;s;s;s;s;sd;s;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林心禅坪;#al w_back {w;se;s;sw;s;s;sd;s;e;s;w;s;s;s;s;sd;s;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林戒坛;#al w_back {s;sw;se;s;s;sd;s;e;s;w;s;s;s;s;sd;s;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林空场;#al w_back {s;se;s;sw;s;s;sd;s;e;s;w;s;s;s;s;sd;s;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林地藏殿;#al w_back {e;s;se;s;sw;s;s;sd;s;e;s;w;s;s;s;s;sd;s;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林白衣殿;#al w_back {w;s;se;s;sw;s;s;sd;s;e;s;w;s;s;s;s;sd;s;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林千佛殿;#al w_back {s;s;se;s;sw;s;s;sd;s;e;s;w;s;s;s;s;sd;s;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林初祖庵;#al w_back {s;s;sd;s;s;s;s;se;s;sw;s;s;sd;s;e;s;w;s;s;s;s;sd;s;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林达摩院;#al w_back {s;e;e;s;s;e;se;s;sw;s;s;sd;s;e;s;w;s;s;s;s;sd;s;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林达摩院后殿;#al w_back {s;s;e;e;s;s;e;se;s;sw;s;s;sd;s;e;s;w;s;s;s;s;sd;s;ta;setdo {bsl;ta;setdo {gxy;ta;setdo {autostart}}}}
+#**嵩山少林山路;#al w_back {s;sd;sw;#t+ autologin;set look;l;place}
+#**嵩山少林广场;#al w_back {s;s;sd;ed;sd;sd;ed;ed;sd;sd;sd;ed;sd;e;#6 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}
+**
+**苏州城
+**
+#**丐帮杏子林;#al w_back {#3 s;e;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**丐帮空地;#al w_back {e;#3 s;e;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**丐帮后院;#al w_back {open door;#5 s;e;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**丐帮土地庙;#al w_back {#4 s;e;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城兵营;#al w_back {n;n;ne;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城北门;#al w_back {n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城苏州北郊;#al w_back {nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城虎丘山;#al w_back {ne;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城头门山;#al w_back {n;ne;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城试剑石;#al w_back {wd;e;n;ne;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城枕石;#al w_back {s;wd;e;n;ne;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城真娘墓;#al w_back {sw;wd;e;n;ne;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城孙武亭;#al w_back {s;sw;wd;e;n;ne;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城白莲池;#al w_back {s;w;n;wd;e;n;ne;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城二仙亭;#al w_back {s;w;n;wd;e;n;ne;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城千人石;#al w_back {n;wd;e;n;ne;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城致爽阁;#al w_back {se;n;wd;e;n;ne;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城万景山庄;#al w_back {wd;e;n;ne;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城憨憨泉;#al w_back {ed;e;n;ne;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城翰林府门;#al w_back {s;e;n;ne;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城翰林府院;#al w_back {s;s;e;n;ne;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城后院;#al w_back {s;s;s;e;n;ne;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城田径;#al w_back {e;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城北门兵营;#al w_back {e;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城监狱;#al w_back {e;e;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城北大街;#al w_back {n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城春在楼;#al w_back {w;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城紫金庵;#al w_back {e;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城客店;#al w_back {w;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城马厩;#al w_back {e;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城戏园子;#al w_back {ne;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城沧浪亭;#al w_back {n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城宝带桥;#al w_back {n;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城东大街;#al w_back {ne;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城胡同;#al w_back {w;w;sw;s;nw;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城立春堂;#al w_back {s;w;nw;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城宝和记;#al w_back {n;nw;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城打铁铺;#al w_back {n;w;nw;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城东门;#al w_back {w;w;nw;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城西门;#al w_back {e;e;e;e;ne;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城西大街;#al w_back {e;ne;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城兵营大门;#al w_back {n;n;ne;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城玄妙观;#al w_back {n;e;ne;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城衙门西厅;#al w_back {e;s;s;ne;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城衙门内宅;#al w_back {s;s;s;ne;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城衙门正厅;#al w_back {s;s;ne;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城衙门东厅;#al w_back {w;s;s;ne;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城衙门大门;#al w_back {s;ne;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城书场;#al w_back {s;e;ne;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城西门外官道;#al w_back {e;e;e;e;ne;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城西门官道;#al w_back {e;e;e;e;ne;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城寒山寺门;#al w_back {se;e;e;e;e;e;ne;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城寒山寺正殿;#al w_back {out;se;e;e;e;e;e;ne;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城寒拾殿;#al w_back {w;out;se;e;e;e;e;e;ne;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城枫桥;#al w_back {s;w;out;se;e;e;e;e;e;ne;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城铁玲关;#al w_back {s;s;w;out;se;e;e;e;e;e;ne;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城枫桥镇;#al w_back {e;e;e;e;e;ne;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城土路;#al w_back {ne;n;e;e;e;e;e;ne;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城江边;#al w_back {ne;ne;n;e;e;e;e;e;ne;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城曹娥碑;#al w_back {n;ne;ne;n;e;e;e;e;e;ne;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城农舍;#al w_back {w;n;ne;ne;n;e;e;e;e;e;ne;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城南大街;#al w_back {#7 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城聚宝斋;#al w_back {e;n;n;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城茶馆;#al w_back {sw;n;n;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城狮子林;#al w_back {w;n;n;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城揖峰指柏轩;#al w_back {sw;w;n;n;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城燕誉堂;#al w_back {w;w;n;n;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城真趣亭;#al w_back {nw;w;w;n;n;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城问梅阁;#al w_back {w;nw;w;w;n;n;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城立雪堂;#al w_back {n;w;nw;w;w;n;n;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城书院;#al w_back {ne;n;n;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城留园;#al w_back {e;n;n;n;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城荷花厅;#al w_back {e;e;n;n;n;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城古木交诃;#al w_back {e;e;e;n;n;n;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城池塘;#al w_back {ne;e;e;e;n;n;n;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城听雨轩;#al w_back {w;n;n;n;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城南门;#al w_back {n;n;n;n;n;n;n;n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城行春桥;#al w_back {e;s;ne;n;sw;#4 n;#5 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城石湖;#al w_back {s;ne;n;sw;#4 n;#5 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城天平山;#al w_back {ne;n;sw;#4 n;#5 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城白云泉;#al w_back {wd;ne;n;sw;#4 n;#5 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城灵岩山;#al w_back {nw;ne;n;sw;#4 n;#5 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城迎笑亭;#al w_back {wd;nw;ne;n;sw;#4 n;#5 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城划船坞;#al w_back {s;s;s;s;ne;s;sw;se;eu;su;wd;#5 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城石鼋;#al w_back {nd;wd;nw;ne;n;sw;#4 n;#5 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城采香径;#al w_back {nw;wu;nd;wd;nw;ne;n;sw;#4 n;#5 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城坟墓;#al w_back {ne;nd;wd;nw;ne;n;sw;#4 n;#5 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城灵岩寺;#al w_back {nd;nd;wd;nw;ne;n;sw;#4 n;#5 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城钟楼小院;#al w_back {e;nd;nd;wd;nw;ne;n;sw;#4 n;#5 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城灵岩塔;#al w_back {w;nd;nd;wd;nw;ne;n;sw;#4 n;#5 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城大雄宝殿;#al w_back {out;nd;nd;wd;nw;ne;n;sw;#4 n;#5 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城藏经阁;#al w_back {s;out;nd;nd;wd;nw;ne;n;sw;#4 n;#5 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城青石大道;#al w_back {#3 n;nw;ne;n;sw;#4 n;#5 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城湖边;#al w_back {#3 w;n;nw;ne;n;sw;#4 n;#5 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城小石桥;#al w_back {nw;#3 w;n;nw;ne;n;sw;#4 n;#5 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城码头;#al w_back {n;nw;#3 w;n;nw;ne;n;sw;#4 n;#5 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城湖边大道;#al w_back {#4 n;nw;ne;n;sw;#4 n;#5 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**苏州城青石官道;#al w_back {n;sw;#4 n;#5 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}
+**
+**武当山
+**
+#**武当山汉水东岸;#al w_back {e;walk {hytodz;walk {autostart};te};te}
+#**武当山汉水西岸;#al w_back {dujiang;e;walk {hytodz;walk {autostart};te};te}
+#**武当山黄土路;#al w_back {e;e;dujiang;e;walk {hytodz;walk {autostart};te};te}
+#**武当山玄岳门;#al w_back {#4 e;dujiang;e;walk {hytodz;walk {autostart};te};te}
+#**武当山山脚下;#al w_back {#3 e;dujiang;e;walk {hytodz;walk {autostart};te};te}
+#**武当山元和观大殿;#al w_back {w;#3 nd;#4 e;dujiang;e;walk {hytodz;walk {autostart};te};te}
+#**武当山遇真宫;#al w_back {#2 nd;#3 nd;#4 e;dujiang;e;walk {hytodz;walk {autostart};te};te}
+#**武当山武当柏林;#al w_back {ed;#2 nd;#3 nd;#4 e;dujiang;e;walk {hytodz;walk {autostart};te};te}
+#**武当山玉虚宫;#al w_back {ed;nd;ed;#2 nd;#3 nd;#4 e;dujiang;e;walk {hytodz;walk {autostart};te};te}
+#**武当山磨针井;#al w_back {nd;ed;nd;ed;#2 nd;#3 nd;#4 e;dujiang;e;walk {hytodz;walk {autostart};te};te}
+#**武当山玉虚岩;#al w_back {wd;nd;ed;nd;ed;#2 nd;#3 nd;#4 e;dujiang;e;walk {hytodz;walk {autostart};te};te}
+#**武当山望背坡;#al w_back {nd;nd;ed;nd;ed;#2 nd;#3 nd;#4 e;dujiang;e;walk {hytodz;walk {autostart};te};te}
+#**武当山雨后彩虹;#al w_back {nu;nd;nd;ed;nd;ed;#2 nd;#3 nd;#4 e;dujiang;e;walk {hytodz;walk {autostart};te};te}
+#**武当山十八盘;#al w_back {nd;nu;nd;nd;ed;nd;ed;#2 nd;#3 nd;#4 e;dujiang;e;walk {hytodz;walk {autostart};te};te}
+#**武当山复真观;#al w_back {nd;nd;nu;nd;nd;ed;nd;ed;#2 nd;#3 nd;#4 e;dujiang;e;walk {hytodz;walk {autostart};te};te}
+#**武当山老君岩;#al w_back {e;nd;nd;nu;nd;nd;ed;nd;ed;#2 nd;#3 nd;#4 e;dujiang;e;walk {hytodz;walk {autostart};te};te}
+#**武当山展旗峰;#al w_back {nd;ed;nd;nd;nu;nd;nd;ed;nd;ed;#2 nd;#3 nd;#4 e;dujiang;e;walk {hytodz;walk {autostart};te};te}
+#**武当山雷神洞;#al w_back {ne;e;nd;ed;nd;nd;nu;nd;nd;ed;nd;ed;#2 nd;#3 nd;#4 e;dujiang;e;walk {hytodz;walk {autostart};te};te}
+#**武当山茶亭;#al w_back {nw;#3 e;dujiang;e;walk {hytodz;walk {autostart};te};te}
+#**武当山元和观;#al w_back {#3 nd;#4 e;dujiang;e;walk {hytodz;walk {autostart};te};te}
+#**武当山紫霄宫大门;#al w_back {nd;nd;nd;ed;nd;nd;nu;nd;nd;ed;nd;ed;walk {zktodz;walk {autostart};te};te}
+#**武当山紫霄宫;#al w_back {out;nd;nd;nd;ed;nd;nd;nu;nd;nd;ed;nd;ed;walk {zktodz;walk {autostart};te};te}
+#**武当山大圣南岩宫;#al w_back {nd;out;nd;nd;nd;ed;nd;nd;nu;nd;nd;ed;nd;ed;walk {zktodz;walk {autostart};te};te}
+#**武当山武当广场;#al w_back {n;nd;out;nd;nd;nd;ed;nd;nd;nu;nd;nd;ed;nd;ed;walk {zktodz;walk {autostart};te};te}
+#**武当山天乙真庆宫;#al w_back {n;n;nd;out;nd;nd;nd;ed;nd;nd;nu;nd;nd;ed;nd;ed;walk {zktodz;walk {autostart};te};te}
+#**武当山飞升崖;#al w_back {ne;n;n;nd;out;nd;nd;nd;ed;nd;nd;nu;nd;nd;ed;nd;ed;walk {zktodz;walk {autostart};te};te}
+#**武当山榔梅祠;#al w_back {#4 nd;n;n;nd;out;nd;nd;nd;ed;nd;nd;nu;nd;nd;ed;nd;ed;walk {zktodz;walk {autostart};te};te}
+#**武当山琼台观;#al w_back {ed;#4 nd;n;n;nd;out;nd;nd;nd;ed;nd;nd;nu;nd;nd;ed;nd;ed;walk {zktodz;walk {autostart};te};te}
+#**武当山隐仙岩;#al w_back {se;#4 nd;n;n;nd;out;nd;nd;nd;ed;nd;nd;nu;nd;nd;ed;nd;ed;walk {zktodz;walk {autostart};te};te}
+#**武当山五龙宫;#al w_back {ed;se;#4 nd;n;n;nd;out;nd;nd;nd;ed;nd;nd;nu;nd;nd;ed;nd;ed;walk {zktodz;walk {autostart};te};te}
+#**武当山黄龙洞;#al w_back {wd;wd;ed;#4 nd;n;n;nd;out;nd;nd;nd;ed;nd;nd;nu;nd;nd;ed;nd;ed;walk {zktodz;walk {autostart};te};te}
+#**武当山大岳太和宫;#al w_back {nd;wd;wd;ed;#4 nd;n;n;nd;out;nd;nd;nd;ed;nd;nd;nu;nd;nd;ed;nd;ed;walk {zktodz;walk {autostart};te};te}
+#**武当山金殿;#al w_back {e;nd;wd;wd;ed;#4 nd;n;n;nd;out;nd;nd;nd;ed;nd;nd;nu;nd;nd;ed;nd;ed;walk {zktodz;walk {autostart};te};te}
+#**武当山石阶;#al w_back {#2 nd;n;n;nd;out;nd;nd;nd;ed;nd;nd;nu;nd;nd;ed;nd;ed;walk {zktodz;walk {autostart};te};te}
+#**武当山山路;#al w_back {w;#4 nd;n;n;nd;out;nd;nd;nd;ed;nd;nd;nu;nd;nd;ed;nd;ed;walk {zktodz;walk {autostart};te};te}
+#**武当山三清殿;#al w_back {walk {wdtozk;walk {zktodz;walk {autostart};te};te};te}
+#**武当山练功房;#al w_back {s;s;walk {wdtozk;walk {zktodz;walk {autostart};te};te};te}
+#**武当山走廊;#al w_back {s;walk {wdtozk;walk {zktodz;walk {autostart};te};te};te}
+#**武当山西厢走廊;#al w_back {e;#t+ autologin;set look;l;place}
+#**武当山东厢走廊;#al w_back {w;#t+ autologin;set look;l;place}
+#**武当山男休息室;#al w_back {n;w;#t+ autologin;set look;l;place}
+#**武当山女休息室;#al w_back {n;e;#t+ autologin;set look;l;place}
+#**武当山炼丹房;#al w_back {w;w;s;walk {wdtozk;walk {zktodz;walk {autostart};te};te};te}
+#**武当山药房;#al w_back {e;e;s;walk {wdtozk;walk {zktodz;walk {autostart};te};te};te}
+#**武当山藏经阁;#al w_back {e;e;n;walk {wdtozk;walk {zktodz;walk {autostart};te};te};te}
+#**武当山厨房;#al w_back {w;w;n;walk {wdtozk;walk {zktodz;walk {autostart};te};te};te}
+#**武当山院门;#al w_back {open door;#10 {n;out};ta;setdo {#2 n;nd;out;#3 nd;ed;#2 nd;nu;#2 nd;ed;nd;ed;ta;setdo {#5 nd;#5 e;dujiang;e;#9 s;e;n;ta;setdo {autostart}}}}
+#**武当山后山小院;#al w_back {open door;#10 {n;out};ta;setdo {#2 n;nd;out;#3 nd;ed;#2 nd;nu;#2 nd;ed;nd;ed;ta;setdo {#5 nd;#5 e;dujiang;e;#9 s;e;n;ta;setdo {autostart}}}}
+#**武当山小径;#al w_back {#10 n;ta;setdo {#10 n;#t+ autologin;set look;l;place}}
+#**武当山古神道;#al w_back {wd;ed;#4 nd;n;n;nd;out;nd;nd;nd;ed;nd;nd;nu;nd;nd;ed;nd;ed;walk {zktodz;walk {autostart};te};te}
+**
+**襄阳城
+**
+#**襄阳城万金赌坊;#al w_back {w;#4 s;e;n;ta;setdo {autostart}}
+#**襄阳城东门外;#al w_back {w;w;w;w;n;ta;setdo {autostart}}
+#**襄阳城吟淼阁;#al w_back {w;n;n;n;e;n;n;w;w;n;ta;setdo {autostart}}
+#**襄阳城茶楼二楼;#al w_back {d;w;s;s;s;e;n;ta;setdo {autostart}}
+#**襄阳城江湖客栈;#al w_back {s;e;e;e;s;s;s;s;e;n;ta;setdo {autostart}}
+#**襄阳城猪肉店;#al w_back {s;e;e;s;s;s;s;e;n;ta;setdo {autostart}}
+#**襄阳城玄武门内街;#al w_back {s;s;s;s;s;s;e;n;ta;setdo {autostart}}
+#**襄阳城玄武门;#al w_back {s;s;s;s;s;s;e;n;ta;setdo {autostart}}
+#**襄阳城东城巷;#al w_back {#5 s;w;n;ta;setdo {autostart}}
+#**襄阳城废宅;#al w_back {w;w;s;s;s;s;s;e;n;ta;setdo {autostart}}
+#**襄阳城杂货铺;#al w_back {w;n;w;s;s;s;s;s;e;n;ta;setdo {autostart}}
+#**襄阳城赌坊;#al w_back {w;s;s;s;s;e;n;ta;setdo {autostart}}
+#**襄阳城北城巷;#al w_back {n;n;s;#4 e;w;s;s;s;s;e;n;ta;setdo {autostart}}
+#**襄阳城鲜鱼店;#al w_back {e;e;e;e;s;s;s;s;e;n;ta;setdo {autostart}}
+#**襄阳城小吃店;#al w_back {e;n;e;e;e;s;s;s;s;e;n;ta;setdo {autostart}}
+#**襄阳城擂台前广场;#al w_back {n;e;e;s;s;s;s;e;n;ta;setdo {autostart}}
+#**襄阳城北街;#al w_back {s;s;s;s;e;n;ta;setdo {autostart}}
+#**襄阳城天香楼;#al w_back {w;s;s;s;e;n;ta;setdo {autostart}}
+#**襄阳城成衣铺;#al w_back {w;s;s;s;w;n;ta;setdo {autostart}}
+#**襄阳城戏院;#al w_back {w;s;s;w;n;ta;setdo {autostart}}
+#**襄阳城北丁字街;#al w_back {e;s;s;e;n;ta;setdo {autostart}}
+#**襄阳城西街;#al w_back {e;e;s;s;e;n;ta;setdo {autostart}}
+#**襄阳城白虎门内街;#al w_back {e;e;e;e;s;s;e;n;ta;setdo {autostart}}
+#**襄阳城白虎门;#al w_back {e;e;e;e;s;s;e;n;ta;setdo {autostart}}
+#**襄阳城茶叶店;#al w_back {e;n;e;e;e;s;s;e;n;ta;setdo {autostart}}
+#**襄阳城西城巷;#al w_back {#5 s;n;e;n;n;n;e;e;n;ta;setdo {autostart}}
+#**襄阳城西牌楼;#al w_back {s;e;e;n;ta;setdo {autostart}}
+#**襄阳城东牌楼;#al w_back {s;e;n;ta;setdo {autostart}}
+#**襄阳城当铺;#al w_back {ta;setdo {autostart}}
+#**襄阳城武馆大门;#al w_back {s;w;w;n;ta;setdo {autostart}}
+#**襄阳城武馆;#al w_back {s;w;w;n;ta;setdo {autostart}}
+#**襄阳城青龙门内街;#al w_back {w;w;n;ta;setdo {autostart}}
+#**襄阳城青龙门;#al w_back {w;w;w;n;ta;setdo {autostart}}
+#**襄阳城东街;#al w_back {#4 w;#3 e;n;ta;setdo {autostart}}
+#**襄阳城南丁字街;#al w_back {e;n;ta;setdo {autostart}}
+#**襄阳城南街;#al w_back {#4 n;e;s;s;e;n;ta;setdo {autostart}}
+#**襄阳城衙门;#al w_back {e;e;e;n;ta;setdo {autostart}}
+#**襄阳城豆腐坊;#al w_back {e;s;s;s;e;n;n;n;e;e;n;ta;setdo {autostart}}
+#**襄阳城烧饼铺;#al w_back {e;s;s;e;n;n;n;e;e;n;ta;setdo {autostart}}
+#**襄阳城储藏室;#al w_back {n;e;e;e;n;ta;setdo {autostart}}
+#**襄阳城说书馆;#al w_back {s;w;n;n;e;e;n;ta;setdo {autostart}}
+#**襄阳城车马行;#al w_back {s;w;w;n;n;e;e;n;ta;setdo {autostart}}
+#**襄阳城兵营;#al w_back {s;w;w;w;n;n;e;e;n;ta;setdo {autostart}}
+#**襄阳城南城巷;#al w_back {#4 e;w;#3 n;s;w;w;n;ta;setdo {autostart}}
+#**襄阳城打铁铺;#al w_back {w;n;w;w;n;ta;setdo {autostart}}
+#**襄阳城木匠铺;#al w_back {w;n;n;w;w;n;ta;setdo {autostart}}
+#**襄阳城宝龙斋;#al w_back {e;n;n;e;e;n;ta;setdo {autostart}}
+#**襄阳城包子铺;#al w_back {e;s;e;n;n;n;e;e;n;ta;setdo {autostart}}
+#**襄阳城药材铺;#al w_back {e;e;n;n;n;e;e;n;ta;setdo {autostart}}
+#**襄阳城朱雀门内街;#al w_back {n;n;n;n;e;e;n;ta;setdo {autostart}}
+#**襄阳城朱雀门;#al w_back {n;n;n;n;e;e;n;ta;setdo {autostart}}
+#**襄阳城世德堂;#al w_back {n;n;e;n;n;w;w;n;ta;setdo {autostart}}
+#**襄阳城卧房;#al w_back {w;n;n;e;n;n;w;w;n;ta;setdo {autostart}}
+#**襄阳城闺房;#al w_back {w;n;n;n;e;n;n;w;w;n;ta;setdo {autostart}}
+#**襄阳城练武场;#al w_back {e;n;n;n;e;n;n;w;w;n;ta;setdo {autostart}}
+#**襄阳城私塾;#al w_back {n;e;n;n;n;e;e;n;ta;setdo {autostart}}
+#**襄阳城后花园;#al w_back {n;n;n;n;e;n;n;w;w;n;ta;setdo {autostart}}
+#**襄阳城天井;#al w_back {w;autologin}
+#**襄阳城温府大门;#al w_back {n;e;n;n;w;w;n;ta;setdo {autostart}}
+#**襄阳城蔡邕庄;#al w_back {e;#4 se;#9 s;e;n;ta;setdo {autostart}}
+#**襄阳城官道;#al w_back {#4 se;#9 s;e;n;ta;setdo {autostart}}
+#**襄阳城蓝田;#al w_back {#3 se;#9 s;e;n;ta;setdo {autostart}}
+#**襄阳城土路;#al w_back {sw;sw;#9 s;e;n;ta;setdo {autostart}}
+#**襄阳城汉水西岸;#al w_back {dujiang;e;#9 s;e;n;ta;setdo {autostart}}
+#**襄阳城汉水东岸;#al w_back {e;#9 s;e;n;ta;setdo {autostart}}
+#**襄阳城蒙古军营;#al w_back {sw;#8 s;e;n;ta;setdo {autostart}}
+#**襄阳城营帐中;#al w_back {out;sw;#8 s;e;n;ta;setdo {autostart}}
+#**襄阳城青石大道;#al w_back {#6 n;e;e;n;ta;setdo {autostart}}
+#**襄阳城南门外;#al w_back {n;n;n;n;n;e;e;n;ta;setdo {autostart}}
+#**襄阳城湘鄂土路;#al w_back {n;n;n;n;n;n;n;e;e;n;ta;setdo {autostart}}
+#**襄阳城湘鄂交界;#al w_back {n;n;n;n;n;n;n;n;e;e;n;ta;setdo {autostart}}
+#**襄阳城泸溪北;#al w_back {ne;n;n;n;n;n;n;n;n;e;e;n;ta;setdo {autostart}}
+#**襄阳城山路;#al w_back {se;#4 ed;n;n;n;n;n;n;n;e;e;n;ta;setdo {autostart}}
+#**襄阳城西门外;#al w_back {e;e;e;e;e;s;s;e;n;ta;setdo {autostart}}
+#**襄阳城檀溪;#al w_back {e;e;e;e;e;e;s;s;e;n;ta;setdo {autostart}}
+#**襄阳城小路;#al w_back {s;ne;e;e;e;e;e;e;s;s;e;n;ta;setdo {autostart}}
+#**襄阳城山间小路;#al w_back {se;se;s;e;e;e;e;e;s;s;e;n;ne;nd;n;#t+ autologin;set look;l;place}
+#**襄阳城正厅;#al w_back {s;e;e;e;n;ta;setdo {autostart}}
+#**襄阳城山间空地;#al w_back {#4 ed;#7 n;e;e;n;ta;setdo {autostart}}
+#**襄阳城侧廊;#al w_back {e;e;#6 s;ne;e;e;e;e;e;e;s;s;e;n;ta;setdo {autostart}}
+#**柳宗镇花园;#al w_back {s;s;e;e;#6 s;ne;e;e;e;e;e;e;s;s;e;n;ta;setdo {autostart}}
+#**柳宗镇小路;#al w_back {s;ne;e;e;e;e;e;e;s;s;e;n;ta;setdo {autostart}}
+#**柳宗镇后院;#al w_back {s;e;e;#6 s;ne;e;e;e;e;e;e;s;s;e;n;ta;setdo {autostart}}
+#**柳宗镇正厅;#al w_back {s;#6 s;ne;e;e;e;e;e;e;s;s;e;n;ta;setdo {autostart}}
+#**柳宗镇天井;#al w_back {#6 s;ne;e;e;e;e;e;e;s;s;e;n;ta;setdo {autostart}}
+#**柳宗镇药房;#al w_back {n;e;#6 s;ne;e;e;e;e;e;e;s;s;e;n;ta;setdo {autostart}}
+#**柳宗镇前厅;#al w_back {#5 s;ne;e;e;e;e;e;e;s;s;e;n;ta;setdo {autostart}}
+#**柳宗镇薛府大门;#al w_back {#4 s;ne;e;e;e;e;e;e;s;s;e;n;ta;setdo {autostart}}
+#**柳宗镇柳宗镇;#al w_back {#2 s s;ne;e;e;e;e;e;e;s;s;e;n;ta;setdo {autostart}}
+#**柳宗镇四季小吃店;#al w_back {e;#2 s;ne;e;e;e;e;e;e;s;s;e;n;ta;setdo {autostart}}
+#**柳宗镇小河;#al w_back {#3 s;ne;e;e;e;e;e;e;s;s;e;n;ta;setdo {autostart}}
+#**柳宗镇小溪边;#al w_back {s;se;se;s;w;e;e;e;e;e;e;s;s;e;n;ta;setdo {autostart}}
+#**柳宗镇侧廊;#al w_back {#t+ autologin;set look;s;s;e;e;n;e;e;l;place}
+**
+**扬州城
+**
+#**极乐世界会客室;#al w_back {se;e;s;s;#13 w;n;ta;setdo {autostart}}
+#**扬州城青石大道;#al w_back {#6 w;n;ta;setdo {autostart}}
+#**扬州城茶馆;#al w_back {e;#3 n;#11 w;n;ta;setdo {autostart}}
+#**扬州城西门;#al w_back {#8 w;n;ta;setdo {autostart}}
+#**扬州城东门;#al w_back {#6 w;n;n;#11 w;n;ta;setdo {autostart}}
+#**扬州城赌场大厅;#al w_back {e;e;#2 n;#11 w;n;ta;setdo {autostart}}
+#**扬州城赌场;#al w_back {n;e;#2 n;#11 w;n;ta;setdo {autostart}}
+#**扬州城墓室;#al w_back {s;jump well;se;#4 s;w;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城南门;#al w_back {#5 n;#11 w;n;ta;setdo {autostart}}
+#**扬州城西大街;#al w_back {#5 e;#14 w;n;ta;setdo {autostart}}
+#**扬州城得胜山;#al w_back {se;#7 w;n;ta;setdo {autostart}}
+#**扬州城杂货铺;#al w_back {n;w;w;w;n;n;#11 w;n;ta;setdo {autostart}}
+#**扬州城丽春院;#al w_back {s;s;#11 w;n;ta;setdo {autostart}}
+#**扬州城广场北;#al w_back {w;#11 w;n;ta;setdo {autostart}}
+#**扬州城药铺;#al w_back {s;#4 w;n;n;#11 w;n;ta;setdo {autostart}}
+#**扬州城兵营;#al w_back {e;e;n;#11 w;n;ta;setdo {autostart}}
+#**扬州城北大街;#al w_back {w;#t+ autologin;set look;l;place}
+#**扬州城天阁斋;#al w_back {e;s;w;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城大驿道;#al w_back {sw;nw;#8 w;n;n;#wa 1000;#11 w;n;ta;setdo {autostart}}
+#**扬州城土路;#al w_back {#5 w;n;ta;setdo {autostart}}
+#**扬州城乐器店;#al w_back {n;w;w;n;n;#11 w;n;ta;setdo {autostart}}
+#**扬州城南大街;#al w_back {#4 s;#6 n;ta;setdo {#11 w;n;ta;setdo {autostart}}}
+#**扬州城北门;#al w_back {s;s;s;s;w;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城东大街;#al w_back {#7 w;e;e;ta;setdo {n;n;#11 w;n;ta;setdo {autostart}}}
+#**扬州城书院;#al w_back {s;w;w;w;n;n;#11 w;n;ta;setdo {autostart}}
+#**扬州城西郊;#al w_back {#7 w;n;ta;setdo {autostart}}
+#**扬州城英烈夫人庙;#al w_back {e;se;w;#6 w;n;ta;setdo {autostart}}
+#**扬州城瘦西湖;#al w_back {s;s;#10 w;n;ta;setdo {autostart}}
+#**扬州城大虹桥;#al w_back {s;s;s;#10 w;n;ta;setdo {autostart}}
+#**扬州城小金山;#al w_back {w;s;s;s;#10 w;n;ta;setdo {autostart}}
+#**扬州城瘦西湖边;#al w_back {s;s;s;s;#10 w;n;ta;setdo {autostart}}
+#**扬州城莲性寺白塔;#al w_back {e;s;s;s;s;#10 w;n;ta;setdo {autostart}}
+#**扬州城湖畔;#al w_back {s;#10 w;n;ta;setdo {autostart}}
+#**扬州城鸣玉坊;#al w_back {s;w;#10 w;n;ta;setdo {autostart}}
+#**扬州城东厢房;#al w_back {w;s;s;w;#10 w;n;ta;setdo {autostart}}
+#**扬州城广场;#al w_back {sw;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城衙门大门;#al w_back {s;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城门廊;#al w_back {s;s;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城班房;#al w_back {w;s;s;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城衙门正厅;#al w_back {s;s;s;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城东厅;#al w_back {w;s;s;s;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城西厅;#al w_back {e;s;s;s;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城府衙后院;#al w_back {se;s;s;s;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城牢房;#al w_back {give 20 silver to yu zu;give 1 gold to yu zu;#t+ autologin;set look;l;place}
+#**扬州城地牢;#al w_back {su;se;s;s;s;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城驿站;#al w_back {w;w;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城鲜花店;#al w_back {s;w;w;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城广场东;#al w_back {n;w;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城车马行;#al w_back {w;n;w;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城品棋亭;#al w_back {#4 n;w;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城广场南;#al w_back {n;n;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城当铺;#al w_back {n;n;n;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城中央广场;#al w_back {n;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城广场西;#al w_back {n;#11 w;n;ta;setdo {autostart}}
+#**扬州城兵营大门;#al w_back {e;e;n;#11 w;n;ta;setdo {autostart}}
+#**扬州城兵器库;#al w_back {n;e;e;n;#11 w;n;ta;setdo {autostart}}
+#**扬州城拱猪北房;#al w_back {s;d;e;n;n;#11 w;n;ta;setdo {autostart}}
+#**扬州城拱猪东房;#al w_back {w;d;e;n;n;#11 w;n;ta;setdo {autostart}}
+#**扬州城拱猪南房;#al w_back {n;d;e;n;n;#11 w;n;ta;setdo {autostart}}
+#**扬州城拱猪西房;#al w_back {e;d;e;n;n;#11 w;n;ta;setdo {autostart}}
+#**扬州城赛龟房;#al w_back {s;e;e;n;n;#11 w;n;ta;setdo {autostart}}
+#**扬州城扬州盐局;#al w_back {w;w;n;n;n;#11 w;n;ta;setdo {autostart}}
+#**扬州城盐局东厅;#al w_back {w;w;n;n;n;#11 w;n;ta;setdo {autostart}}
+#**扬州城小盘古;#al w_back {w;n;n;n;n;#11 w;n;ta;setdo {autostart}}
+#**扬州城个园;#al w_back {e;n;n;n;n;#11 w;n;ta;setdo {autostart}}
+#**扬州城假山;#al w_back {e;e;n;n;n;n;#11 w;n;ta;setdo {autostart}}
+#**扬州城长江北岸;#al w_back {w;w;e;#6 n;#11 w;n;ta;setdo {autostart}}
+#**扬州城长江南岸;#al w_back {w;w;e;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**扬州城江南官道;#al w_back {n;dj do;setdo {bcj;ta;setdo {autostart}}}
+#**扬州城宝昌客栈1;#al w_back {w;s;w;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城偏厅;#al w_back {w;w;s;w;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城小吃店;#al w_back {w;s;s;w;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城城隍庙;#al w_back {e;s;s;w;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城北门外;#al w_back {s;s;s;s;w;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城山冈;#al w_back {se;#4 s;w;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城坟墓;#al w_back {s;se;#4 s;w;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城墓室通道;#al w_back {s;jump well;se;#4 s;w;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城小墓室;#al w_back {e;s;jump well;se;#4 s;w;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城巫师雕像陈列室;#al w_back {d;s;w;n;n;w;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城杂货铺;#al w_back {n;w;n;n;w;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城月老亭外;#al w_back {n;nw;w;w;n;n;w;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城月老亭;#al w_back {n;nw;w;w;n;n;w;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城寄卖店;#al w_back {n;w;w;n;n;w;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城陈列室;#al w_back {e;n;w;w;n;n;w;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城打铁铺;#al w_back {s;w;w;w;n;n;w;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城兵器铺;#al w_back {n;w;w;w;n;n;w;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城龙门镖局;#al w_back {s;#4 w;n;n;w;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城码头;#al w_back {n;#4 w;n;n;w;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城关帝庙;#al w_back {sw;#4 w;n;n;w;w;#11 w;n;ta;setdo {autostart}}
+#**扬州城盐局;#al w_back {w;n;n;n;#11 w;n;ta;setdo {autostart}}
+**
+**成都城
+**
+#**成都城子爵府门;#al w_back {n;w;w;n;n;e;ta;setdo {cd_xy;ta;setdo {autostart}}}
+#**成都城材料行;#al w_back {s;w;n;n;e;ta;setdo {cd_xy;ta;setdo {autostart}}}
+#**成都城城中心;#al w_back {e;n;n;e;ta;setdo {cd_xy;ta;setdo {autostart}}}
+#**成都城大厅;#al w_back {n;n;w;w;n;n;e;ta;setdo {cd_xy;ta;setdo {autostart}}}
+#**成都城大东门;#al w_back {#5 w;n;n;e;ta;setdo {cd_xy;ta;setdo {autostart}}}
+#**成都城大西门;#al w_back {e;e;e;n;n;e;ta;setdo {cd_xy;ta;setdo {autostart}}}
+#**成都城关帝庙;#al w_back {s;e;e;n;n;e;ta;setdo {cd_xy;ta;setdo {autostart}}}
+#**成都城后院;#al w_back {s;s;e;e;n;n;e;ta;setdo {cd_xy;ta;setdo {autostart}}}
+#**成都城药店;#al w_back {e;e;ta;setdo {cd_xy;ta;setdo {autostart}}}
+#**成都城制药作坊;#al w_back {say;ta;setdo {cd_xy;ta;setdo {autostart}}}
+#**成都城大北门;#al w_back {s;s;s;e;ta;setdo {cd_xy;ta;setdo {autostart}}}
+#**成都城小南门;#al w_back {#3 n;#3 w;n;n;e;ta;setdo {cd_xy;ta;setdo {autostart}}}
+#**成都城墨玉斋;#al w_back {e;#4 n;e;ta;setdo {cd_xy;ta;setdo {autostart}}}
+#**成都城东大街;#al w_back {#t+ autologin;set look;w;l;place}
+#**成都城南侧街;#al w_back {n;n;#3 w;n;n;e;ta;setdo {cd_xy;ta;setdo {autostart}}}
+#**成都城西大街;#al w_back {#t+ autologin;set look;e;l;place}
+#**成都城北大街;#al w_back {#t+ autologin;set look;s;l;place}
+#**成都城南大街;#al w_back {#t+ autologin;set look;n;l;place}
+#**成都城大南门;#al w_back {n;n;n;n;n;e;ta;setdo {cd_xy;ta;setdo {autostart}}}
+#**成都城南门外;#al w_back {n;n;n;n;n;n;e;ta;setdo {cd_xy;ta;setdo {autostart}}}
+#**成都城土路;#al w_back {ne;ne;n;n;n;n;n;n;e;ta;setdo {cd_xy;ta;setdo {autostart}}}
+#**成都城峨嵋山脚下;#al w_back {ne;ne;ne;n;n;n;n;n;n;e;ta;setdo {cd_xy;ta;setdo {autostart}}}
+#**成都城大道;#al w_back {#t+ autologin;set look;sw;sw;e;e;w;s;l;place}
+#**成都城城根路;#al w_back {w;s;s;e;ta;setdo {cd_xy;ta;setdo {autostart}}}
+**
+**峨嵋山
+**
+#**峨嵋山万年庵;#al w_back {walk {out;sd;se;walk {emtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山报国寺山门;#al w_back {walk {bgtocd;walk {cdtodz;walk {autostart};te};te};te}
+#**峨嵋山报国寺西墙;#al w_back {walk {e;walk {bgtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山报国寺大雄殿;#al w_back {walk {out;walk {bgtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山报国寺禅房;#al w_back {walk {e;out;walk {bgtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山休息室;#al w_back {walk {w;out;walk {bgtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山青石阶;#al w_back {walk {bgtocd;walk {cdtodz;walk {autostart};te};te};te}
+#**峨嵋山峨嵋山脚下;#al w_back {walk {bgtocd;walk {cdtodz;walk {autostart};te};te};te}
+#**峨嵋山草棚;#al w_back {walk {bgtocd;walk {cdtodz;walk {autostart};te};te};te}
+#**峨嵋山密林;#al w_back {walk {ed;e;ne;walk {bgtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山伏虎寺;#al w_back {walk {e;ne;walk {bgtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山解脱坡;#al w_back {walk {ed;ed;e;ne;walk {bgtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山观音桥;#al w_back {walk {e;ed;ed;e;ne;walk {bgtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山观音堂;#al w_back {walk {e;e;ed;ed;e;ne;walk {bgtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山归云阁;#al w_back {walk {ed;e;e;ed;ed;e;ne;walk {bgtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山玉女峰;#al w_back {walk {nd;ed;e;e;ed;ed;e;ne;walk {bgtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山纯阳殿;#al w_back {walk {ed;ed;e;e;ed;ed;e;ne;walk {bgtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山神水庵;#al w_back {walk {ed;ed;ed;e;e;ed;ed;e;ne;walk {bgtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山灵文阁;#al w_back {walk {out;n;ed;ed;ed;e;e;ed;ed;e;ne;walk {bgtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山福寿庵斋堂;#al w_back {walk {e;out;n;ed;ed;ed;e;e;ed;ed;e;ne;walk {bgtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山禅房;#al w_back {walk {w;out;n;ed;ed;ed;e;e;ed;ed;e;ne;walk {bgtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山中峰寺;#al w_back {walk {ed;ed;ed;ed;e;e;ed;ed;e;ne;walk {bgtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山清音阁;#al w_back {walk {se;ed;ed;ed;ed;e;e;ed;ed;e;ne;walk {bgtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山睹光台;#al w_back {walk {e;n;nd;nd;ed;nw;nd;ne;nd;nd;nd;#4 ed;d;ne;ed;ne;ed;sd;se;walk {emtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山福寿庵;#al w_back {walk {n;ed;ed;ed;e;e;ed;ed;e;ne;walk {bgtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山报国寺;#al w_back {walk {bgtocd;walk {cdtodz;walk {autostart};te};te};te}
+#**峨嵋山白龙洞;#al w_back {walk {se;emtocd;walk {cdtodz;walk {autostart};te};te};te}
+#**峨嵋山古德林;#al w_back {walk {n;s;s;se;walk {emtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山万年庵砖殿;#al w_back {walk {out;sd;se;walk {emtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山十二盘;#al w_back {walk {ne;ed;ne;ed;sd;se;walk {emtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山华严顶;#al w_back {walk {d;ne;ed;ne;ed;sd;se;walk {emtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山仙峰寺;#al w_back {walk {wd;d;ne;ed;ne;ed;sd;se;walk {emtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山马厩;#al w_back {walk {s;d;ne;ed;ne;ed;sd;se;walk {emtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山莲花石;#al w_back {walk {ed;d;ne;ed;ne;ed;sd;se;walk {emtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山钻天坡;#al w_back {walk {#3 ed;d;ne;ed;ne;ed;sd;se;walk {emtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山凌云梯;#al w_back {walk {nd;#4 ed;d;ne;ed;ne;ed;sd;se;walk {emtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山雷洞坪;#al w_back {walk {nd;nd;#4 ed;d;ne;ed;ne;ed;sd;se;walk {emtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山八十四盘;#al w_back {walk {nd;ne;nd;nd;nd;#4 ed;d;ne;ed;ne;ed;sd;se;walk {emtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山接引殿;#al w_back {walk {nw;nd;ne;nd;nd;nd;#4 ed;d;ne;ed;ne;ed;sd;se;walk {emtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山万行庵;#al w_back {walk {ed;nw;nd;ne;nd;nd;nd;#4 ed;d;ne;ed;ne;ed;sd;se;walk {emtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山黑龙江栈道;#al w_back {walk {n;ne;se;ed;ed;ed;ed;e;e;ed;ed;e;ne;walk {bgtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山千佛庵大殿;#al w_back {walk {out;n;n;ne;se;ed;ed;ed;ed;e;e;ed;ed;e;ne;walk {bgtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山千佛庵;#al w_back {walk {out;n;n;ne;se;ed;ed;ed;ed;e;e;ed;ed;e;ne;walk {bgtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山金顶;#al w_back {walk {nd;ed;nw;nd;ne;nd;nd;nd;#4 ed;d;ne;ed;ne;ed;sd;se;walk {emtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山卧云庵;#al w_back {walk {ne;nd;ed;nw;nd;ne;nd;nd;nd;#4 ed;d;ne;ed;ne;ed;sd;se;walk {emtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山睹光台舍身崖;#al w_back {walk {e;n;nd;nd;ed;nw;nd;ne;nd;nd;nd;#4 ed;d;ne;ed;ne;ed;sd;se;walk {emtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山华藏庵正殿;#al w_back {walk {out;nd;nd;ed;nw;nd;walk {ne;nd;nd;nd;#4 ed;d;ne;ed;ne;ed;sd;se;walk {emtocd;walk {cdtodz;walk {autostart};te};te};te};te};te}
+#**峨嵋山西侧殿;#al w_back {walk {e;out;nd;nd;ed;nw;nd;walk {ne;nd;nd;nd;#4 ed;d;ne;ed;ne;ed;sd;se;walk {emtocd;walk {cdtodz;walk {autostart};te};te};te};te};te}
+#**峨嵋山东侧殿;#al w_back {walk {w;out;nd;nd;ed;nw;nd;walk {ne;nd;nd;nd;#4 ed;d;ne;ed;ne;ed;sd;se;walk {emtocd;walk {cdtodz;walk {autostart};te};te};te};te};te}
+#**峨嵋山华藏庵广场;#al w_back {walk {n;out;nd;nd;ed;nw;nd;walk {ne;nd;nd;nd;#4 ed;d;ne;ed;ne;ed;sd;se;walk {emtocd;walk {cdtodz;walk {autostart};te};te};te};te};te}
+#**峨嵋山西侧廊;#al w_back {walk {e;n;out;nd;nd;ed;nw;nd;walk {ne;nd;nd;nd;#4 ed;d;ne;ed;ne;ed;sd;se;walk {emtocd;walk {cdtodz;walk {autostart};te};te};te};te};te}
+#**峨嵋山东侧廊;#al w_back {walk {w;n;out;nd;nd;ed;nw;nd;walk {ne;nd;nd;nd;#4 ed;d;ne;ed;ne;ed;sd;se;walk {emtocd;walk {cdtodz;walk {autostart};te};te};te};te};te}
+#**峨嵋山华藏庵大雄宝殿;#al w_back {walk {nd;n;out;nd;nd;ed;nw;nd;walk {ne;nd;nd;nd;#4 ed;d;ne;ed;ne;ed;sd;se;walk {emtocd;walk {cdtodz;walk {autostart};te};te};te};te};te}
+#**峨嵋山后殿;#al w_back {walk {open door;n;nd;n;out;nd;nd;ed;nw;nd;walk {ne;nd;nd;nd;#4 ed;d;ne;ed;ne;ed;sd;se;walk {emtocd;walk {cdtodz;walk {autostart};te};te};te};te};te}
+#**峨嵋山斋堂;#al w_back {walk {w;nd;n;out;nd;nd;ed;nw;nd;walk {ne;nd;nd;nd;#4 ed;d;ne;ed;ne;ed;sd;se;walk {emtocd;walk {cdtodz;walk {autostart};te};te};te};te};te}
+#**峨嵋山储物间;#al w_back {walk {n;w;nd;n;out;nd;nd;ed;nw;nd;walk {ne;nd;nd;nd;#4 ed;d;ne;ed;ne;ed;sd;se;walk {emtocd;walk {cdtodz;walk {autostart};te};te};te};te};te}
+#**峨嵋山藏经楼;#al w_back {out;d;n;w;nd;n;out;nd;nd;ed;nw;nd;ne;nd;nd;nd;ed;ed;ed;ed;d;ne;ed;ne;ed;sd;se;ta;setdo {bem;ta;setdo {cd_xy;ta;setdo {autostart}}}}
+#**峨嵋山禅房;#al w_back {d;n;w;nd;n;out;nd;nd;ed;nw;nd;ne;nd;nd;nd;ed;ed;ed;ed;d;ne;ed;ne;ed;sd;se;ta;setdo {bem;ta;setdo {cd_xy;ta;setdo {autostart}}}}
+#**峨嵋山后山小路;#al w_back {ne;nd;e;nd;nd;#5 move stone;nd;bem;ta;setdo {cd_xy;ta;setdo {autostart}}}
+#**峨嵋山华藏庵;#al w_back {walk {nd;nd;ed;nw;nd;ne;nd;nd;nd;#4 ed;d;ne;ed;ne;ed;sd;se;walk {emtocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**峨嵋山炭窑;#al w_back {sw;e;nd;nd;#5 move stone;nd;bem;ta;setdo {cd_xy;ta;setdo {autostart}}}
+#**峨嵋山后山树林;#al w_back {nd;nd;#5 move stone;nd;bem;ta;setdo {cd_xy;ta;setdo {autostart}}}
+#**峨嵋山后山;#al w_back {e;nd;nd;#5 move stone;nd;bem;ta;setdo {cd_xy;ta;setdo {autostart}}}
+**
+**黄河流域
+**
+#**黄河流域黄河帮寨门;#al w_back {walk {hhbtodz;walk {autostart};te};te}
+#**黄河流域广场;#al w_back {e;walk {hhbtodz;walk {autostart};te};te}
+#**黄河流域侠义厅;#al w_back {e;e;walk {hhbtodz;walk {autostart};te};te}
+#**黄河流域采石场;#al w_back {nu;walk {hhbtodz;walk {autostart};te};te}
+#**黄河流域渭汾流域;#al w_back {s;w;walk {hhbtodz;walk {autostart};te};te}
+#**黄河流域河套;#al w_back {s;s;w;walk {hhbtodz;walk {autostart};te};te}
+#**黄河流域黄土高原;#al w_back {se;se;s;s;w;walk {hhbtodz;walk {autostart};te};te}
+#**黄河流域黄河岸边;#al w_back {#3 sw;#6 w;e;e;walk {hhbtodz;walk {autostart};te};te}
+#**黄河流域黄河大堤;#al w_back {sd;#3 sw;#4 w;walk {hhbtodz;walk {autostart};te};te}
+#**黄河流域黄河入海口;#al w_back {#4 sw;#4 w;walk {hhbtodz;walk {autostart};te};te}
+#**黄河流域大渡口;#al w_back {s;#4 sw;#4 w;walk {hhbtodz;walk {autostart};te};te}
+#**黄河流域田地;#al w_back {ne;n;e;ne;n;e;ne;n;#5 w;e;e;walk {hhbtodz;walk {autostart};te};te}
+#**黄河流域树林;#al w_back {e;ne;n;n;w;e;e;ne;n;w;walk {hhbtodz;walk {autostart};te};te}
+#**黄河流域墓地;#al w_back {s;e;ne;e;e;ne;n;w;walk {hhbtodz;walk {autostart};te};te}
+#**黄河流域黄河;#al w_back {se;s;s;w;walk {hhbtodz;walk {autostart};te};te}
+#**黄河流域草地;#al w_back {e;w;w;n;n;e;ne;n;w;walk {hhbtodz;walk {autostart};te};te}
+**
+**南阳城
+**
+#**南阳城驿道;#al w_back {s;s;sw;walk {hytodz;walk {autostart};te};te}
+#**南阳城南门;#al w_back {s;s;sw;sw;walk {hytodz;walk {autostart};te};te}
+#**南阳城岔路;#al w_back {w;s;sw;sw;walk {hytodz;walk {autostart};te};te}
+#**南阳城许家集;#al w_back {sw;w;s;sw;sw;walk {hytodz;walk {autostart};te};te}
+#**南阳城客栈;#al w_back {w;sw;w;s;sw;sw;walk {hytodz;walk {autostart};te};te}
+#**南阳城青石路;#al w_back {#2 n;s;sw;w;s;sw;sw;walk {hytodz;walk {autostart};te};te}
+#**南阳城小路;#al w_back {w;s;sw;w;s;sw;sw;walk {hytodz;walk {autostart};te};te}
+#**南阳城聚贤庄大门;#al w_back {sw;w;s;sw;w;s;sw;sw;walk {hytodz;walk {autostart};te};te}
+#**南阳城聚贤庄大厅;#al w_back {s;sw;w;s;sw;w;s;sw;sw;walk {hytodz;walk {autostart};te};te}
+#**南阳城聚贤庄后院;#al w_back {w;s;sw;w;s;sw;w;s;sw;sw;walk {hytodz;walk {autostart};te};te}
+#**南阳城石板路;#al w_back {s;s;s;sw;sw;walk {hytodz;walk {autostart};te};te}
+#**南阳城城中心;#al w_back {s;s;s;s;sw;sw;walk {hytodz;walk {autostart};te};te}
+#**南阳城迎宾楼二楼;#al w_back {d;e;s;s;s;s;sw;sw;walk {hytodz;walk {autostart};te};te}
+#**南阳城迎宾楼;#al w_back {d;e;s;s;s;s;sw;sw;walk {hytodz;walk {autostart};te};te}
+#**南阳城大驿道;#al w_back {s;s;s;s;s;sw;sw;walk {hytodz;walk {autostart};te};te}
+#**南阳城密林;#al w_back {w;s;s;s;s;s;sw;sw;walk {hytodz;walk {autostart};te};te}
+#**南阳城断崖;#al w_back {n;w;s;s;s;s;s;sw;sw;walk {hytodz;walk {autostart};te};te}
+**
+**桃源县
+**
+#**桃源县小饭铺;#al w_back {e;n;nw;nd;n;n;n;e;walk {zhutod;walk {dtodz;walk {autostart}
+#**桃源县山间小路;#al w_back {ne;e;n;nw;nd;n;n;n;e;walk {zhutod;walk {dtodz;walk {autostart};te};te};te}
+#**桃源县徒路上岭;#al w_back {ne;ne;e;n;nw;nd;n;n;n;e;walk {zhutod;walk {dtodz;walk {autostart};te};te};te}
+#**桃源县山谷瀑布;#al w_back {n;ne;ne;e;n;nw;nd;n;n;n;e;walk {zhutod;walk {dtodz;walk {autostart};te};te};te}
+#**桃源县茅屋;#al w_back {e;n;ne;ne;e;n;nw;nd;n;n;n;e;walk {zhutod;walk {dtodz;walk {autostart};te};te};te}
+**
+**终南山
+**
+#**终南山樊川;#al w_back {walk {e;se;walk {hytodz;walk {autostart};te};te};te}
+#**终南山田间小路;#al w_back {walk {e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**终南山终南小道;#al w_back {walk {n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**终南山终南广场;#al w_back {walk {nw;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**终南山集市;#al w_back {walk {nw;nw;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**终南山乡间小道;#al w_back {walk {n;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**终南山终南山下;#al w_back {walk {nw;n;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**终南山洞口;#al w_back {walk {out;nw;n;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**终南山山麓;#al w_back {walk {nd;n;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**终南山岗顶;#al w_back {walk {nd;nd;n;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**终南山山路;#al w_back {walk {nd;nd;nd;n;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**终南山中天门;#al w_back {walk {wd;nd;nd;nd;n;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**终南山金莲阁;#al w_back {nu;walk {wd;nd;nd;nd;n;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**终南山日月岩;#al w_back {nd;nu;walk {wd;nd;nd;nd;n;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**终南山抱子岩;#al w_back {ed;nd;nu;walk {wd;nd;nd;nd;n;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**终南山老妪岩;#al w_back {nd;ed;nd;nu;walk {wd;nd;nd;nd;n;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**终南山树林;#al w_back {w;nd;ed;nd;nu;walk {wd;nd;nd;nd;n;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**终南山黑林;#al w_back {#7 w;w;nd;ed;nd;nu;walk {wd;nd;nd;nd;n;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**终南山灌木丛;#al w_back {#7 w;w;nd;ed;nd;nu;walk {wd;nd;nd;nd;n;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**终南山深沟;#al w_back {#8 w;w;nd;ed;nd;nu;walk {wd;nd;nd;nd;n;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**襄阳郊外樊川;#al w_back {walk {e;se;walk {hytodz;walk {autostart};te};te};te}
+#**襄阳郊外田间小路;#al w_back {walk {e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**襄阳郊外终南小道;#al w_back {walk {n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**襄阳郊外终南广场;#al w_back {walk {nw;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**襄阳郊外集市;#al w_back {walk {nw;nw;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**襄阳郊外乡间小道;#al w_back {walk {n;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**襄阳郊外终南山下;#al w_back {walk {nw;n;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**襄阳郊外洞口;#al w_back {walk {out;nw;n;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**襄阳郊外山麓;#al w_back {walk {nd;n;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**襄阳郊外岗顶;#al w_back {walk {nd;nd;n;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**襄阳郊外山路;#al w_back {walk {nd;nd;nd;n;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**襄阳郊外中天门;#al w_back {walk {wd;nd;nd;nd;n;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**襄阳郊外金莲阁;#al w_back {nu;walk {wd;nd;nd;nd;n;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**襄阳郊外日月岩;#al w_back {nd;nu;walk {wd;nd;nd;nd;n;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**襄阳郊外抱子岩;#al w_back {ed;nd;nu;walk {wd;nd;nd;nd;n;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**襄阳郊外老妪岩;#al w_back {nd;ed;nd;nu;walk {wd;nd;nd;nd;n;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**襄阳郊外树林;#al w_back {w;nd;ed;nd;nu;walk {wd;nd;nd;nd;n;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**襄阳郊外黑林;#al w_back {#7 w;w;nd;ed;nd;nu;walk {wd;nd;nd;nd;n;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**襄阳郊外灌木丛;#al w_back {#7 w;w;nd;ed;nd;nu;walk {wd;nd;nd;nd;n;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+#**襄阳郊外深沟;#al w_back {#8 w;w;nd;ed;nd;nu;walk {wd;nd;nd;nd;n;n;e;e;se;walk {hytodz;walk {autostart};te};te};te}
+**
+**嵩山
+**
+#**嵩山青岗峰;#al w_back {walk {sd;sd;su;ed;se;e;d;#3 sd;ed;sd;walk {rtodz;walk {autostart};te};te};te}
+#**嵩山青岗坪;#al w_back {walk {sd;sd;su;ed;se;e;d;#3 sd;ed;sd;walk {rtodz;walk {autostart};te};te};te}
+#**嵩山大铁梁峡;#al w_back {walk {sd;sd;sd;su;ed;se;e;d;#3 sd;ed;sd;walk {rtodz;walk {autostart};te};te};te}
+#**嵩山小铁梁峡;#al w_back {walk {sd;sd;sd;sd;su;ed;se;e;d;#3 sd;ed;sd;walk {rtodz;walk {autostart};te};te};te}
+#**嵩山朝天门;#al w_back {walk {se;se;sd;sd;sd;sd;su;ed;se;e;d;#3 sd;ed;sd;walk {rtodz;walk {autostart};te};te};te}
+#**嵩山太室阙;#al w_back {walk {sd;sw;se;se;sd;sd;sd;sd;su;ed;se;e;d;#3 sd;ed;sd;walk {rtodz;walk {autostart};te};te};te}
+#**嵩山旷地;#al w_back {walk {s;sd;sw;se;se;sd;sd;sd;sd;su;ed;se;e;d;#3 sd;ed;sd;walk {rtodz;walk {autostart};te};te};te}
+#**嵩山峻极宫大门;#al w_back {walk {s;s;s;sd;sw;se;se;sd;sd;sd;sd;su;ed;se;e;d;#3 sd;ed;sd;walk {rtodz;walk {autostart};te};te};te}
+#**嵩山峻极禅院;#al w_back {walk {s;s;s;sd;sw;se;se;sd;sd;sd;sd;su;ed;se;e;d;#3 sd;ed;sd;walk {rtodz;walk {autostart};te};te};te}
+#**嵩山山路;#al w_back {walk {sw;se;se;#4 sd;su;ed;se;e;d;sd;sd;sd;ed;sd;walk {rtodz;walk {autostart};te};te};te}
+#**嵩山遥参亭;#al w_back {s;s;s;walk {sstor;walk {rtodz;walk {autostart};te};te};te}
+#**嵩山观胜峰下;#al w_back {ed;se;e;d;#3 sd;ed;sd;walk {rtodz;walk {autostart};te};te}
+#**嵩山观胜峰;#al w_back {ed;se;e;d;#3 sd;ed;sd;walk {rtodz;walk {autostart};te};te}
+#**嵩山天中阁;#al w_back {s;s;s;s;walk {sstor;walk {rtodz;walk {autostart};te};te};te}
+#**嵩山药房;#al w_back {e;e;s;s;s;s;walk {sstor;walk {rtodz;walk {autostart};te};te};te}
+#**嵩山膳房;#al w_back {w;w;s;s;s;s;walk {sstor;walk {rtodz;walk {autostart};te};te};te}
+#**嵩山崇高峻极坊;#al w_back {sd;s;s;s;s;s;walk {sstor;walk {rtodz;walk {autostart};te};te};te}
+#**嵩山峻极殿;#al w_back {s;sd;s;s;s;s;s;walk {sstor;walk {rtodz;walk {autostart};te};te};te}
+#**嵩山御书楼;#al w_back {e;e;s;sd;s;s;s;s;s;walk {sstor;walk {rtodz;walk {autostart};te};te};te}
+#**嵩山掌门书房;#al w_back {e;e;e;s;sd;s;s;s;s;s;walk {sstor;walk {rtodz;walk {autostart};te};te};te}
+#**嵩山轩辕剑阁;#al w_back {n;e;e;s;sd;s;s;s;s;s;walk {sstor;walk {rtodz;walk {autostart};te};te};te}
+#**嵩山藏书阁;#al w_back {s;e;e;s;sd;s;s;s;s;s;walk {sstor;walk {rtodz;walk {autostart};te};te};te}
+#**嵩山寝殿;#al w_back {w;w;s;sd;s;s;s;s;s;walk {sstor;walk {rtodz;walk {autostart};te};te};te}
+#**嵩山掌门卧室;#al w_back {w;w;w;s;sd;s;s;s;s;s;walk {sstor;walk {rtodz;walk {autostart};te};te};te}
+#**嵩山配天作镇坊;#al w_back {#2 sd;s;sd;s;s;s;s;s;walk {sstor;walk {rtodz;walk {autostart};te};te};te}
+#**嵩山封禅台;#al w_back {#3 sd;s;sd;s;s;s;s;s;walk {sstor;walk {rtodz;walk {autostart};te};te};te}
+#**嵩山石道;#al w_back {sd;s;sd;#3 s;s;s;walk {sstor;walk {rtodz;walk {autostart};te};te};te}
+#**嵩山碎石路;#al w_back {#t+ autologin;w;set look;l;place}
+**
+**铁掌山
+**
+#**铁掌山泸溪;#al w_back {n;ne;#8 n;e;e;n;autostart}
+#**铁掌山客店;#al w_back {e;n;ne;#8 n;e;e;n;autostart}
+#**铁掌山山门;#al w_back {walk {tztodz;walk {autostart};te};te}
+#**铁掌山山脚下;#al w_back {nu;walk {tztodz;walk {autostart};te};te}
+#**铁掌山黄土路;#al w_back {sw;w;nw;nu;walk {tztodz;walk {autostart};te};te}
+#**铁掌山寨沟;#al w_back {#4 w;e;e;walk {tztodz;walk {autostart};te};te}
+#**铁掌山广场;#al w_back {s;s;sd;walk {tztodz;walk {autostart};te};te}
+#**铁掌山瓜架;#al w_back {w;s;s;sd;walk {tztodz;walk {autostart};te};te}
+#**铁掌山蝴蝶泉;#al w_back {nw;w;s;s;sd;walk {tztodz;walk {autostart};te};te}
+#**铁掌山练功房;#al w_back {e;s;s;sd;walk {tztodz;walk {autostart};te};te}
+#**铁掌山五指堂;#al w_back {sd;s;s;sd;walk {tztodz;walk {autostart};te};te}
+#**铁掌山厨房;#al w_back {s;e;e;sd;s;s;sd;walk {tztodz;walk {autostart};te};te}
+#**铁掌山工具房;#al w_back {w;w;w;sd;s;s;sd;walk {tztodz;walk {autostart};te};te}
+#**铁掌山兵器室;#al w_back {s;w;sd;s;s;sd;walk {tztodz;walk {autostart};te};te}
+#**铁掌山走廊;#al w_back {#4 w;e;e;sd;s;s;sd;walk {tztodz;walk {autostart};te};te}
+#**铁掌山后厢房;#al w_back {s;sd;s;s;sd;walk {tztodz;walk {autostart};te};te}
+#**铁掌山后花园;#al w_back {s;s;sd;s;s;sd;walk {tztodz;walk {autostart};te};te}
+#**铁掌山假山;#al w_back {e;s;s;sd;s;s;sd;walk {tztodz;walk {autostart};te};te}
+#**铁掌山花圃;#al w_back {w;s;s;sd;s;s;sd;walk {tztodz;walk {autostart};te};te}
+#**铁掌山山间平台;#al w_back {#2 sd;s;s;s;sd;s;s;sd;walk {tztodz;walk {autostart};te};te}
+#**铁掌山拇指峰;#al w_back {sd;#3 wd;#2 sd;s;s;s;sd;s;s;sd;walk {tztodz;walk {autostart};te};te}
+#**铁掌山小指峰;#al w_back {sd;#3 ed;#2 sd;s;s;s;sd;s;s;sd;walk {tztodz;walk {autostart};te};te}
+#**铁掌山山谷;#al w_back {sw;sw;#2 sd;s;s;s;sd;s;s;sd;walk {tztodz;walk {autostart};te};te}
+#**铁掌山绝壁;#al w_back {#3 sw;#2 sd;s;s;s;sd;s;s;sd;walk {tztodz;walk {autostart};te};te}
+#**铁掌山瀑布;#al w_back {#3 ed;#2 sd;s;s;s;sd;s;s;sd;walk {tztodz;walk {autostart};te};te}
+#**铁掌山无名峰;#al w_back {se;sd;se;sd;sd;se;sd;se;#2 sd;s;s;s;sd;s;s;sd;walk {tztodz;walk {autostart};te};te}
+#**铁掌山荒草路;#al w_back {sd;se;sd;sd;se;sd;se;#2 sd;s;s;s;sd;s;s;sd;walk {tztodz;walk {autostart};te};te}
+#**铁掌山石板路;#al w_back {ed;ed;#2 sd;s;s;s;sd;s;s;sd;walk {tztodz;walk {autostart};te};te}
+#**铁掌山碎石路;#al w_back {#3 wd;#2 sd;s;s;s;sd;s;s;sd;walk {tztodz;walk {autostart};te};te}
+#**铁掌山第二指节;#al w_back {ertotz;walk {tztodz;walk {autostart};te};te}
+#**铁掌山中指峰;#al w_back {#3 sd;ertotz;walk {tztodz;walk {autostart};te};te}
+#**铁掌山山路;#al w_back {#t+ autologin;sd;s;set look;l;place}
+#**铁掌山松树林;#al w_back {ertotz;walk {tztodz;walk {autostart};te};te}
+**
+**天龙寺
+**
+#**天龙寺山路;#al w_back {n;enter;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺点苍山;#al w_back {ed;walk {xmtod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺点苍十九峰;#al w_back {sd;ed;sd;ed;walk {xmtod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺怒江;#al w_back {ne;ed;walk {xmtod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺轿子雪山;#al w_back {nd;ne;ed;walk {xmtod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺虎跳峡;#al w_back {e;ne;ed;walk {xmtod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺梅里雪山;#al w_back {se;e;ne;ed;walk {xmtod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺天池;#al w_back {ne;se;e;ne;ed;walk {xmtod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺天池半山;#al w_back {d;ne;se;e;ne;ed;walk {xmtod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺宁浪泸沽湖;#al w_back {ne;e;ne;ed;walk {xmtod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺玉龙雪山;#al w_back {nd;ne;e;ne;ed;walk {xmtod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺应乐峰南;#al w_back {su;sd;s;sd;ed;sd;ed;walk {xmtod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺应乐峰;#al w_back {su;sd;s;sd;ed;sd;ed;walk {xmtod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺应乐峰北;#al w_back {su;sd;s;sd;ed;sd;ed;walk {xmtod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺诵经堂;#al w_back {e;su;s;sd;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺圆通殿;#al w_back {w;su;s;sd;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺千寻宝塔;#al w_back {s;su;s;sd;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺大光明殿;#al w_back {e;s;s;su;s;sd;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺须弥殿;#al w_back {w;s;s;su;s;sd;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺斗母宫;#al w_back {e;sd;s;s;su;s;sd;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺白石阶;#al w_back {sd;e;sd;s;s;su;s;sd;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺慈悲院;#al w_back {w;sd;s;s;su;s;sd;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺物品房;#al w_back {s;w;sd;s;s;su;s;sd;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺兵器房;#al w_back {w;w;sd;s;s;su;s;sd;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺般若台;#al w_back {w;w;wd;walk {qingtotl;walk {tltod;walk {dtodz;walk {autostart};te};te};te};te}
+#**天龙寺无无境;#al w_back {s;sd;walk {qingtotl;walk {tltod;walk {dtodz;walk {autostart};te};te};te};te}
+#**天龙寺长廊;#al w_back {#4 w;s;sd;walk {qingtotl;walk {tltod;walk {dtodz;walk {autostart};te};te};te};te}
+#**天龙寺牟尼堂;#al w_back {out;#4 w;s;sd;walk {qingtotl;walk {tltod;walk {dtodz;walk {autostart};te};te};te};te}
+#**天龙寺雨花院;#al w_back {s;s;sd;walk {qingtotl;walk {tltod;walk {dtodz;walk {autostart};te};te};te};te}
+#**天龙寺雨花阁;#al w_back {out;s;s;sd;walk {qingtotl;walk {tltod;walk {dtodz;walk {autostart};te};te};te};te}
+#**天龙寺西练武场-龙象台;#al w_back {ed;#4 e;s;sd;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺龙树院;#al w_back {out;#12 s;out;s;s;sd;walk {qingtotl;walk {tltod;walk {dtodz;walk {autostart};te};te};te};te}
+#**天龙寺崇圣寺;#al w_back {enter;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺斑竹院;#al w_back {w;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺天王殿;#al w_back {sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺大雄宝殿;#al w_back {sd;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺钟楼;#al w_back {e;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺鼓楼;#al w_back {w;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺地藏殿;#al w_back {s;e;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺药师殿;#al w_back {s;w;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺天龙寺斋堂;#al w_back {e;s;w;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺光佛宝殿;#al w_back {s;sd;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺翔鹤门;#al w_back {e;s;sd;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺瑞鹤门;#al w_back {w;s;sd;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺青竹院;#al w_back {#t+ autologin;w;set look;l;place}
+#**天龙寺无住宝塔;#al w_back {s;e;e;s;sd;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺无我阁;#al w_back {s;e;s;sd;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺无净阁;#al w_back {s;w;s;sd;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺无相宝塔;#al w_back {s;w;w;s;sd;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺荡天门;#al w_back {#3 e;s;sd;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺晃天门;#al w_back {#3 w;s;sd;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺三无宫;#al w_back {#4 e;s;sd;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺清都瑶台;#al w_back {#4 w;s;sd;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺药房;#al w_back {n;#4 w;s;sd;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺龙象台;#al w_back {ed;#4 e;s;sd;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺兜率大士院;#al w_back {sd;#4 e;s;sd;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺清心阁;#al w_back {e;sd;#4 e;s;sd;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺石板路;#al w_back {s;sd;#4 w;#6 e;ed;#4 e;s;sd;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺百丈桥边;#al w_back {s;s;sd;#4 e;s;sd;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺百丈桥;#al w_back {s;s;s;s;sd;#4 e;s;sd;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺飞泉沟;#al w_back {s;s;s;s;s;sd;#4 e;s;sd;su;sd;walk {tltod;walk {dtodz;walk {autostart};te};te};te}
+#**天龙寺白石路;#al w_back {#t+ autologin;sd;out;w;set look;l;place}
+#**天龙寺松树院;#al w_back {#t+ autologin;n;set look;l;place}
+#**天龙寺休息室;#al w_back {#t+ autologin;w;w;e;s;sd;w;n;set look;l;place}
+**
+**沧州城
+**
+#**沧州城官道;#al w_back {#t+ autologin;s;set look;l;place}
+#**沧州城沧州当铺;#al w_back {walk {cztoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**沧州城西街;#al w_back {s;walk {cztoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**沧州城西门;#al w_back {e;s;walk {cztoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**沧州城驿站;#al w_back {s;s;walk {cztoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**沧州城民居;#al w_back {e;sw;s;walk {cztoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**沧州城废园;#al w_back {out;w;sw;s;walk {cztoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**沧州城大客栈;#al w_back {n;sw;s;walk {cztoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**沧州城沧州府衙;#al w_back {e;s;sw;s;walk {cztoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**沧州城工地;#al w_back {w;s;sw;s;walk {cztoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**沧州城府衙正厅;#al w_back {e;e;s;sw;s;walk {cztoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**沧州城北门;#al w_back {s;s;s;walk {cztoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**沧州城东街;#al w_back {nw;sw;s;walk {cztoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**沧州城东门;#al w_back {w;nw;sw;s;walk {cztoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**沧州城南街;#al w_back {nw;s;walk {cztoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**沧州城戏园;#al w_back {e;nw;s;walk {cztoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**沧州城花店;#al w_back {w;nw;s;walk {cztoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**沧州城南门;#al w_back {n;nw;s;walk {cztoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**沧州城官道;#al w_back {n;nw;nw;n;n;n;nw;s;walk {cztoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**沧州城北街;#al w_back {s;s;sw;s;walk {cztoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**沧州城驿道;#al w_back {e;ne;e;e;e;s;walk {cztoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**沧州城大驿道;#al w_back {sw;sw;w;w;w;nw;sw;s;walk {cztoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**沧州城米行;#al w_back {e;#4 s;nw;s;walk {cztoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**沧州城天音阁;#al w_back {w;#4 s;nw;s;walk {cztoyre;walk {yretodz;walk {autostart};te};dh te};te}
+**
+**兰州城
+**
+#**兰州城大道;#al w_back {#t+ autologin;s;se;se;w;set look;l;place}
+#**兰州城南城门;#al w_back {s;s;se;se;walk {qctocd;walk {cdtodz;walk {autostart};te};te};te}
+#**兰州城城中心;#al w_back {s;s;s;se;se;walk {qctocd;walk {cdtodz;walk {autostart};te};te};te}
+#**兰州城东城门;#al w_back {w;s;s;s;se;se;walk {qctocd;walk {cdtodz;walk {autostart};te};te};te}
+#**兰州城西城门;#al w_back {e;s;s;s;se;se;walk {qctocd;walk {cdtodz;walk {autostart};te};te};te}
+#**兰州城青城;#al w_back {walk {qctocd;walk {cdtodz;walk {autostart};te};te};te}
+#**兰州城靖远;#al w_back {sw;sw;w;w;s;s;s;se;se;walk {qctocd;walk {cdtodz;walk {autostart};te};te};te}
+#**兰州城崆峒山;#al w_back {sw;sw;sw;w;w;s;s;s;se;se;walk {qctocd;walk {cdtodz;walk {autostart};te};te};te}
+#**兰州城山脚下;#al w_back {su;sw;sw;sw;w;w;s;s;s;se;se;walk {qctocd;walk {cdtodz;walk {autostart};te};te};te}
+#**兰州城六盘山;#al w_back {wd;sw;sw;w;w;s;s;s;se;se;walk {qctocd;walk {cdtodz;walk {autostart};te};te};te}
+#**兰州城西夏渡口;#al w_back {se;su;sw;sw;sw;w;w;s;s;s;se;se;walk {qctocd;walk {cdtodz;walk {autostart};te};te};te}
+#**兰州城大渡口;#al w_back {#t+ autologin;nw;w;nw;nw;e;se;set look;l;place}
+#**兰州城永登;#al w_back {e;se;dh walknext;walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}
+#**兰州城客店;#al w_back {e;e;se;dh walknext;walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}
+#**兰州城萧家桥;#al w_back {se;e;se;dh walknext;walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}
+#**兰州城古浪;#al w_back {se;se;e;se;dh walknext;walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}
+#**兰州城皮货药材店;#al w_back {w;se;se;e;se;dh walknext;walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}
+#**兰州城打柴沟;#al w_back {se;se;se;e;se;dh walknext;walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}
+#**兰州城乌鞘岭;#al w_back {s;se;se;se;e;se;dh walknext;walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}
+#**兰州城武威;#al w_back {se;s;se;se;se;e;se;dh walknext;walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}
+#**兰州城土门子;#al w_back {w;se;s;se;se;se;e;se;dh walknext;walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}
+#**兰州城石峡子;#al w_back {sw;w;se;s;se;se;se;e;se;dh walknext;walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}
+#**兰州城冰草湾;#al w_back {sw;sw;w;se;s;se;se;se;e;se;dh walknext;walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}
+#**兰州城营盘水;#al w_back {sw;sw;sw;w;se;s;se;se;se;e;se;dh walknext;walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}
+#**兰州城古长城;#al w_back {w;sw;sw;sw;w;se;s;se;se;se;e;se;dh walknext;walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}
+#**兰州城石门;#al w_back {w;w;sw;sw;sw;w;se;s;se;se;se;e;se;dh walknext;walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}
+#**兰州城五佛寺;#al w_back {s;w;w;sw;sw;sw;w;se;s;se;se;se;e;se;dh walknext;walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}
+#**兰州城红山峡;#al w_back {n;w;w;sw;sw;sw;w;se;s;se;se;se;e;se;dh walknext;walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}
+#**兰州城景泰;#al w_back {nw;n;w;w;sw;sw;sw;w;se;s;se;se;se;e;se;dh walknext;walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}
+**
+**苗疆
+**
+#**苗疆山脚;#al w_back {walk {wdjtodz;walk {autostart};te};te}
+#**苗疆果园;#al w_back {#4 w;walk {wdjtodz;walk {autostart};te};te}
+#**苗疆练武场;#al w_back {nw;#3 w;walk {wdjtodz;walk {autostart};te};te}
+#**苗疆杂货店;#al w_back {w;s;s;w;w;walk {wdjtodz;walk {autostart};te};te}
+#**苗疆明月屏;#al w_back {s;e;#3 s;w;w;walk {wdjtodz;walk {autostart};te};te}
+#**苗疆苗屋;#al w_back {s;w;walk {wdjtodz;walk {autostart};te};te}
+#**苗疆苗居;#al w_back {n;w;w;walk {wdjtodz;walk {autostart};te};te}
+#**苗疆小摊;#al w_back {w;s;w;w;walk {wdjtodz;walk {autostart};te};te}
+#**苗疆药王居;#al w_back {s;nw;s;w;w;walk {wdjtodz;walk {autostart};te};te}
+#**苗疆小镇;#al w_back {#t+ autologin;#3 w;#3 s;set look;l;place}
+#**苗疆小路;#al w_back {se;e;s;s;s;w;w;walk {wdjtodz;walk {autostart};te};te}
+#**苗疆山道;#al w_back {e;sw;s;e;#3 s;w;w;walk {wdjtodz;walk {autostart};te};te}
+**
+**明教
+**
+#**明教树林深处;#al w_back {#t+ autologin;w;nw;n;set look;l;place}
+#**明教树林;#al w_back {#t+ autologin;w;nw;n;set look;l;place}
+#**明教勒马斋;#al w_back {e;e;e;htp_jyg;kk {bing} {官兵} {te};walk {e;e;kk {bing} {官兵} {te};walk {jyg_yr;dh {te};walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}}}
+#**明教大沙漠;#al w_back {e;e;htp_jyg;kk {bing} {官兵} {te};walk {e;e;kk {bing} {官兵} {te};walk {jyg_yr;dh {te};walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}}}
+#**明教沙漠绿洲;#al w_back {e;htp_jyg;kk {bing} {官兵} {te};walk {e;e;kk {bing} {官兵} {te};walk {jyg_yr;dh {te};walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}}}
+#**明教大沙丘;#al w_back {htp_jyg;kk {bing} {官兵} {te};walk {e;e;kk {bing} {官兵} {te};walk {jyg_yr;dh {te};walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}}}
+#**明教黄土坪;#al w_back {htp_jyg;kk {bing} {官兵} {te};walk {e;e;kk {bing} {官兵} {te};walk {jyg_yr;dh {te};walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}}}
+#**明教小沙丘;#al w_back {htp_jyg;kk {bing} {官兵} {te};walk {e;e;kk {bing} {官兵} {te};walk {jyg_yr;dh {te};walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}}}
+#**明教山脚下;#al w_back {ed;s;e;e;htp_jyg;kk {bing} {官兵} {te};walk {e;e;kk {bing} {官兵} {te};walk {jyg_yr;dh {te};walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}}}
+#**明教山路;#al w_back {mj_htp;te;walk {htp_jyg;kk {bing} {官兵} {te};walk {e;e;kk {bing} {官兵} {te};walk {jyg_yr;dh {te};walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}}}}
+#**明教栈道;#al w_back {mj_htp;te;walk {htp_jyg;kk {bing} {官兵} {te};walk {e;e;kk {bing} {官兵} {te};walk {jyg_yr;dh {te};walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}}}}
+#**明教山亭;#al w_back {mj_htp;te;walk {htp_jyg;kk {bing} {官兵} {te};walk {e;e;kk {bing} {官兵} {te};walk {jyg_yr;dh {te};walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}}}}
+#**明教半山腰;#al w_back {mj_htp;te;walk {htp_jyg;kk {bing} {官兵} {te};walk {e;e;kk {bing} {官兵} {te};walk {jyg_yr;dh {te};walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}}}}
+#**明教林间小路;#al w_back {mj_htp;te;walk {htp_jyg;kk {bing} {官兵} {te};walk {e;e;kk {bing} {官兵} {te};walk {jyg_yr;dh {te};walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}}}}
+#**明教总坛前厅;#al w_back {te;walk {mj_htp;te;walk {htp_jyg;kk {bing} {官兵} {te};walk {e;e;kk {bing} {官兵} {te};walk {jyg_yr;dh {te};walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}}}}}
+#**明教栈道;#al w_back {te;walk {mj_htp;te;walk {htp_jyg;kk {bing} {官兵} {te};walk {e;e;kk {bing} {官兵} {te};walk {jyg_yr;dh {te};walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}}}}}
+#**明教厅堂;#al w_back {te;walk {mj_htp;te;walk {htp_jyg;kk {bing} {官兵} {te};walk {e;e;kk {bing} {官兵} {te};walk {jyg_yr;dh {te};walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}}}}}
+#**明教茶室;#al w_back {e;te;walk {mj_htp;te;walk {htp_jyg;kk {bing} {官兵} {te};walk {e;e;kk {bing} {官兵} {te};walk {jyg_yr;dh {te};walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}}}}}
+#**明教厢房;#al w_back {w;te;walk {mj_htp;te;walk {htp_jyg;kk {bing} {官兵} {te};walk {e;e;kk {bing} {官兵} {te};walk {jyg_yr;dh {te};walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}}}}}
+#**明教巨木旗;#al w_back {te;walk {mj_htp;te;walk {htp_jyg;kk {bing} {官兵} {te};walk {e;e;kk {bing} {官兵} {te};walk {jyg_yr;dh {te};walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}}}}}
+#**明教光明顶;#al w_back {te;walk {mj_htp;te;walk {htp_jyg;kk {bing} {官兵} {te};walk {e;e;kk {bing} {官兵} {te};walk {jyg_yr;dh {te};walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}}}}}
+#**明教烈火旗;#al w_back {e;e;mj_htp;ta;setdo {htp_jyg;ta;setdo {wipe b {guan bing} {e;e;wipe b {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**明教洪水旗;#al w_back {w;w;mj_htp;ta;setdo {htp_jyg;ta;setdo {wipe b {guan bing} {e;e;wipe b {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**明教练武场;#al w_back {#t+ autologin;#4 n;sd;set look;l;place}
+#**明教长廊;#al w_back {#t+ autologin;w;s;set look;l;place}
+#**明教走廊;#al w_back {#t+ autologin;#3 w;#3 s;set look;l;place}
+#**明教兵器库;#al w_back {n;e;e;mj_htp;ta;setdo {htp_jyg;ta;setdo {wipe b {guan bing} {e;e;wipe b {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**明教山间小路;#al w_back {wu;wu;w;w;mj_htp;ta;setdo {htp_jyg;ta;setdo {wipe b {guan bing} {e;e;wipe b {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**明教碧水寒潭;#al w_back {w;wu;wu;w;w;mj_htp;ta;setdo {htp_jyg;ta;setdo {wipe b {guan bing} {e;e;wipe b {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**明教广场;#al w_back {s;mj_htp;ta;setdo {htp_jyg;ta;setdo {wipe b {guan bing} {e;e;wipe b {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**明教书院;#al w_back {e;s;s;mj_htp;ta;setdo {htp_jyg;ta;setdo {wipe b {guan bing} {e;e;wipe b {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**明教药房;#al w_back {w;s;s;mj_htp;ta;setdo {htp_jyg;ta;setdo {wipe b {guan bing} {e;e;wipe b {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**明教小厅;#al w_back {#3 s;mj_htp;ta;setdo {htp_jyg;ta;setdo {wipe b {guan bing} {e;e;wipe b {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**明教厨房;#al w_back {e;#3 s;mj_htp;ta;setdo {htp_jyg;ta;setdo {wipe b {guan bing} {e;e;wipe b {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**明教休息室;#al w_back {w;#3 s;mj_htp;ta;setdo {htp_jyg;ta;setdo {wipe b {guan bing} {e;e;wipe b {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**明教龙王殿;#al w_back {e;#4 s;mj_htp;ta;setdo {htp_jyg;ta;setdo {wipe b {guan bing} {e;e;wipe b {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**明教狮王殿;#al w_back {w;#4 s;mj_htp;ta;setdo {htp_jyg;ta;setdo {wipe b {guan bing} {e;e;wipe b {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**明教厚土旗;#al w_back {e;e;#4 s;mj_htp;ta;setdo {htp_jyg;ta;setdo {wipe b {guan bing} {e;e;wipe b {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**明教锐金旗;#al w_back {w;w;#4 s;mj_htp;ta;setdo {htp_jyg;ta;setdo {wipe b {guan bing} {e;e;wipe b {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**明教监狱入口;#al w_back {sw;s;s;w;w;mj_htp;ta;setdo {htp_jyg;ta;setdo {wipe b {guan bing} {e;e;wipe b {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**明教聚议厅;#al w_back {#4 s;mj_htp;ta;setdo {htp_jyg;ta;setdo {wipe b {guan bing} {e;e;wipe b {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**明教圣火堂;#al w_back {sd;#4 s;mj_htp;ta;setdo {htp_jyg;ta;setdo {wipe b {guan bing} {e;e;wipe b {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**明教光明宝塔;#al w_back {sd;sd;#4 s;mj_htp;ta;setdo {htp_jyg;ta;setdo {wipe b {guan bing} {e;e;wipe b {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**明教宝塔一楼;#al w_back {out;sd;sd;#4 s;mj_htp;ta;setdo {htp_jyg;ta;setdo {wipe b {guan bing} {e;e;wipe b {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**明教紫杉林;#al w_back {#t+ autologin;se;#3 e;set look;l;place}
+**
+**泰山
+**
+#**泰山岱宗坊;#al w_back {walk {tstodz;walk {autostart};te};te}
+#**泰山白鹤泉;#al w_back {walk {sd;tstodz;walk {autostart};te};te}
+#**泰山一天门;#al w_back {walk {sd;sd;tstodz;walk {autostart};te};te}
+#**泰山斗母宫;#al w_back {walk {sd;sd;sd;tstodz;walk {autostart};te};te}
+#**泰山石经峪;#al w_back {walk {wd;sd;sd;sd;tstodz;walk {autostart};te};te}
+#**泰山回马岭;#al w_back {walk {sd;wd;sd;sd;sd;tstodz;walk {autostart};te};te}
+#**泰山二天门;#al w_back {sd;sd;wd;sd;sd;sd;walk {tstodz;walk {autostart};te};te}
+#**泰山五大夫松;#al w_back {sd;sd;sd;wd;sd;sd;sd;walk {tstodz;walk {autostart};te};te}
+#**泰山龙门;#al w_back {#4 sd;wd;sd;sd;sd;walk {tstodz;walk {autostart};te};te}
+#**泰山升仙坊;#al w_back {walk {tstodz;walk {autostart};te};te};#al w_go {walk {dztots;walk {arrive};te};te};pfm;multi_position=1;#al multi_go {walk2 {nu;nu;nu;eu;nu;nu;nu;nu;nu;multi_next;walk2 {#5 sd;wd;sd;sd;sd;multi_next;walk2 {multi_finish}}}}
+#**泰山南天门;#al w_back {#6 sd;wd;sd;sd;sd;walk {tstodz;walk {autostart};te};te}
+#**泰山玉皇顶;#al w_back {#7 sd;wd;sd;sd;sd;walk {tstodz;walk {autostart};te};te}
+#**泰山封禅台;#al w_back {walk {d;#7 sd;wd;sd;sd;sd;tstodz;walk {autostart};te};te} 
+#**泰山日观峰;#al w_back {wu;#7 sd;wd;sd;sd;sd;walk {tstodz;walk {autostart};te};te}
+#**泰山探海石;#al w_back {wd;wu;#7 sd;wd;sd;sd;sd;walk {tstodz;walk {autostart};te};te}
+#**泰山东天门;#al w_back {w;wd;wu;#7 sd;wd;sd;sd;sd;walk {tstodz;walk {autostart};te};te}
+#**泰山丈人峰;#al w_back {e;#7 sd;wd;sd;sd;sd;walk {tstodz;walk {autostart};te};te}
+#**泰山北天门;#al w_back {sd;e;#7 sd;wd;sd;sd;sd;multi_next;walk {tstodz;walk {autostart};te};te}
+#**泰山海滩;#al w_back {walk {w;tstodz;walk {autostart};te};te}
+#**泰山大驿道;#al w_back {nw;w;nw;w;se;e;n;walk {tstodz;walk {autostart};te};te}
+#**泰山杨树林;#al w_back {walk {se;e;n;tstodz;walk {autostart};te};te}
+#**泰山单家庄;#al w_back {walk {s;se;e;n;tstodz;walk {autostart};te};te}
+#**泰山青石大道;#al w_back {walk {e;e;n;tstodz;walk {autostart};te};te}
+**
+**无量山
+**
+#**无量山山中小溪;#al w_back {walk {sw;#5 n;#3 e;ne;ne;e;e;ne;ne;#6 e;s;s;e;n;walk {autostart};te};te}
+#**无量山无量山路;#al w_back {nd;walk {sw;#5 n;#3 e;ne;ne;e;e;ne;ne;#6 e;s;s;e;n;walk {autostart};te};te}
+#**无量山青石小路;#al w_back {sd;wd;wd;nd;walk {sw;#5 n;#3 e;ne;ne;e;e;ne;ne;#6 e;s;s;e;n;walk {autostart};te};te}
+#**无量山青石台阶;#al w_back {ed;sd;sd;wd;wd;nd;walk {sw;#5 n;#3 e;ne;ne;e;e;ne;ne;#6 e;s;s;e;n;walk {autostart};te};te}
+#**无量山无量剑宗;#al w_back {sd;ed;sd;sd;wd;wd;nd;walk {sw;#5 n;#3 e;ne;ne;e;e;ne;ne;#6 e;s;s;e;n;walk {autostart};te};te}
+#**无量山石板路;#al w_back {out;sd;ed;sd;sd;wd;wd;nd;walk {sw;#5 n;#3 e;ne;ne;e;e;ne;ne;#6 e;s;s;e;n;walk {autostart};te};te}
+#**无量山西厅;#al w_back {e;out;sd;ed;sd;sd;wd;wd;nd;walk {sw;#5 n;#3 e;ne;ne;e;e;ne;ne;#6 e;s;s;e;n;walk {autostart};te};te}
+#**无量山东厅;#al w_back {w;out;sd;ed;sd;sd;wd;wd;nd;walk {sw;#5 n;#3 e;ne;ne;e;e;ne;ne;#6 e;s;s;e;n;walk {autostart};te};te}
+#**无量山剑湖宫;#al w_back {s;out;sd;ed;sd;sd;wd;wd;nd;walk {sw;#5 n;#3 e;ne;ne;e;e;ne;ne;#6 e;s;s;e;n;walk {autostart};te};te}
+#**无量山西练武厅;#al w_back {e;s;out;sd;ed;sd;sd;wd;wd;nd;walk {sw;#5 n;#3 e;ne;ne;e;e;ne;ne;#6 e;s;s;e;n;walk {autostart};te};te}
+#**无量山东练武厅;#al w_back {w;s;out;sd;ed;sd;sd;wd;wd;nd;walk {sw;#5 n;#3 e;ne;ne;e;e;ne;ne;#6 e;s;s;e;n;walk {autostart};te};te}
+#**无量山后院;#al w_back {s;s;out;sd;ed;sd;sd;wd;wd;nd;walk {sw;#5 n;#3 e;ne;ne;e;e;ne;ne;#6 e;s;s;e;n;walk {autostart};te};te}
+#**无量山乱石堆;#al w_back {sw;wd;wd;nd;walk {sw;#5 n;#3 e;ne;ne;e;e;ne;ne;#6 e;s;s;e;n;walk {autostart};te};te}
+#**无量山澜沧江畔;#al w_back {w;s;walk {sw;#5 n;#3 e;ne;ne;e;e;ne;ne;#6 e;s;s;e;n;walk {autostart};te};te}
+#**无量山江岸;#al w_back {w;w;s;walk {sw;#5 n;#3 e;ne;ne;e;e;ne;ne;#6 e;s;s;e;n;walk {autostart};te};te}
+#**无量山铁索桥;#al w_back {s;w;w;s;walk {sw;#5 n;#3 e;ne;ne;e;e;ne;ne;#6 e;s;s;e;n;walk {autostart};te};te}
+#**无量山黑森林;#al w_back {s;s;w;w;s;walk {sw;#5 n;#3 e;ne;ne;e;e;ne;ne;#6 e;s;s;e;n;walk {autostart};te};te}
+#**无量山万劫谷谷口;#al w_back {out;s;s;w;w;s;walk {sw;#5 n;#3 e;ne;ne;e;e;ne;ne;#6 e;s;s;e;n;walk {autostart};te};te}
+#**无量山万劫谷;#al w_back {n;n;out;s;s;w;w;s;walk {sw;#5 n;#3 e;ne;ne;e;e;ne;ne;#6 e;s;s;e;n;walk {autostart};te};te}
+#**无量山谷中小径;#al w_back {n;out;s;s;w;w;s;walk {sw;#5 n;#3 e;ne;ne;e;e;ne;ne;#6 e;s;s;e;n;walk {autostart};te};te}
+#**无量山小厅;#al w_back {e;n;n;out;s;s;w;w;s;walk {sw;#5 n;#3 e;ne;ne;e;e;ne;ne;#6 e;s;s;e;n;walk {autostart};te};te}
+#**无量山客厅;#al w_back {n;n;n;out;s;s;w;w;s;walk {sw;#5 n;#3 e;ne;ne;e;e;ne;ne;#6 e;s;s;e;n;walk {autostart};te};te}
+#**无量山厢房;#al w_back {w;n;n;n;out;s;s;w;w;s;walk {sw;#5 n;#3 e;ne;ne;e;e;ne;ne;#6 e;s;s;e;n;walk {autostart};te};te}
+**
+**塘沽城
+**
+#**塘沽城中心广场;#al w_back {walk {tgtoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**塘沽城东街;#al w_back {walk {w;tgtoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**塘沽城纤云阁;#al w_back {walk {n;w;tgtoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**塘沽城杂货铺;#al w_back {walk {s;w;tgtoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**塘沽城港口;#al w_back {walk {w;w;tgtoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**塘沽城大药房;#al w_back {s;walk {tgtoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**塘沽城喜发客栈;#al w_back {n;walk {tgtoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**塘沽城木器店;#al w_back {n;walk {tgtoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**塘沽城小酒馆;#al w_back {s;walk {tgtoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**塘沽城西城门;#al w_back {walk {tgtoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**塘沽城南城门;#al w_back {walk {n;n;n;tgtoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**塘沽城北城门;#al w_back {walk {s;s;s;tgtoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**塘沽城武器铺;#al w_back {walk {e;s;tgtoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**塘沽城万福典当;#al w_back {walk {w;s;tgtoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**塘沽城地藏庙;#al w_back {walk {w;s;s;tgtoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**塘沽城仙家楼;#al w_back {walk {e;s;s;tgtoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**塘沽城钱庄;#al w_back {walk {e;n;tgtoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**塘沽城金银珠宝行;#al w_back {w;n;walk {tgtoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**塘沽城普通人家;#al w_back {walk {e;n;n;tgtoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**塘沽城北街;#al w_back {walk {n;n;s;s;s;tgtoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**塘沽城西街;#al w_back {walk {tgtoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**塘沽城石头南街;#al w_back {walk {s;s;n;n;n;tgtoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**塘沽城大驿道;#al w_back {walk {tgtoyre;walk {yretodz;walk {autostart};te};dh te};te}
+**
+**嘉兴城
+**
+#**嘉兴城北门;#al w_back {walk {jxtocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**嘉兴城北街;#al w_back {n;walk {jxtocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**嘉兴城市集;#al w_back {n;n;walk {jxtocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**嘉兴城西街;#al w_back {e;e;n;n;walk {jxtocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**嘉兴城有间客栈;#al w_back {s;e;e;n;n;walk {jxtocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**嘉兴城客栈;#al w_back {s;e;e;n;n;walk {jxtocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**嘉兴城西门;#al w_back {e;e;e;n;n;walk {jxtocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**嘉兴城小巷;#al w_back {w;n;e;e;n;n;walk {jxtocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**嘉兴城旧园;#al w_back {n;n;e;e;n;n;walk {jxtocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**嘉兴城南街;#al w_back {n;n;n;walk {jxtocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**嘉兴城东街;#al w_back {w;n;n;walk {jxtocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**嘉兴城东边门;#al w_back {w;w;n;n;walk {jxtocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**嘉兴城杂货铺;#al w_back {s;w;w;n;n;walk {jxtocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**嘉兴城南湖;#al w_back {nw;w;w;w;n;n;walk {jxtocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**嘉兴城湖边;#al w_back {s;w;w;n;n;walk {jxtocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**嘉兴城烟雨楼;#al w_back {d;n;nw;w;w;w;n;n;walk {jxtocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**嘉兴城青石官道;#al w_back {se;se;se;walk {jxtocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**嘉兴城南门;#al w_back {n;n;n;n;walk {jxtocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**嘉兴城乡间小径;#al w_back {n;n;n;n;n;n;walk {jxtocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**嘉兴城铁枪庙;#al w_back {w;n;n;n;n;n;walk {jxtocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**嘉兴城河岸;#al w_back {w;n;n;n;n;n;n;walk {jxtocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**嘉兴城树林;#al w_back {nw;n;n;n;n;n;n;walk {jxtocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**嘉兴城坟墓;#al w_back {w;nw;n;n;n;n;n;n;walk {jxtocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**嘉兴城陆家庄;#al w_back {n;nw;n;n;n;n;n;n;walk {jxtocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**嘉兴城天井;#al w_back {e;n;nw;n;n;n;n;n;n;walk {jxtocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**嘉兴城大厅;#al w_back {e;e;n;nw;n;n;n;n;n;n;walk {jxtocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**嘉兴城后院;#al w_back {n;e;e;n;nw;n;n;n;n;n;n;walk {jxtocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**嘉兴城後院;#al w_back {n;e;e;n;nw;n;n;n;n;n;n;walk {jxtocr;walk {crtodz;walk {autostart};te};gj te};te}
+**
+**平定州
+**
+#**平定州平定客店;#al w_back {walk {pdtojs;walk {jstodz;walk {autostart};te};dh te};te}
+#**平定州客房;#al w_back {s;walk {pdtojs;walk {jstodz;walk {autostart};te};dh te};te}
+#**平定州药铺;#al w_back {e;se;walk {pdtojs;walk {jstodz;walk {autostart};te};dh te};te}
+#**平定州北门;#al w_back {s;s;se;walk {pdtojs;walk {jstodz;walk {autostart};te};dh te};te}
+#**平定州东门;#al w_back {w;w;se;walk {pdtojs;walk {jstodz;walk {autostart};te};dh te};te}
+#**平定州小吃店;#al w_back {n;ne;se;walk {pdtojs;walk {jstodz;walk {autostart};te};dh te};te}
+#**平定州西门;#al w_back {e;e;ne;se;walk {pdtojs;walk {jstodz;walk {autostart};te};dh te};te}
+#**平定州长街;#al w_back {#t+ autologin;s;se;e;s;set look;l;place}
+#**平定州土路;#al w_back {#t+ autologin;se;s;e;ne;eu;e;se;e;set look;l;place}
+**
+**恒山
+**
+#**恒山金龙峡;#al w_back {sd;s;s;dh do;setdo {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}}
+#**恒山翠屏谷;#al w_back {nw;ne;sd;s;s;dh do;setdo {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}}
+#**恒山翠屏山道;#al w_back {ed;d;nw;ne;sd;s;s;dh do;setdo {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}}
+#**恒山悬空寺北楼;#al w_back {s;wd;sd;sd;sd;sd;sw;sw;w;nd;nd;n;n;wd;ed;d;nw;ne;sd;s;s;dh do;setdo {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}}
+#**恒山三教殿;#al w_back {wd;ed;d;nw;ne;sd;s;s;dh do;setdo {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}}
+#**恒山悬空栈桥;#al w_back {n;wd;ed;d;nw;ne;sd;s;s;dh do;setdo {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}}
+#**恒山悬空寺南楼;#al w_back {n;n;wd;ed;d;nw;ne;sd;s;s;dh do;setdo {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}}
+#**恒山梯式栈道;#al w_back {nd;n;n;wd;ed;d;nw;ne;sd;s;s;dh do;setdo {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}}
+#**恒山云阁虹桥;#al w_back {nd;nd;n;n;wd;ed;d;nw;ne;sd;s;s;dh do;setdo {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}}
+#**恒山大字岭;#al w_back {w;nd;nd;n;n;wd;ed;d;nw;ne;sd;s;s;dh do;setdo {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}}
+#**恒山虎风口;#al w_back {sw;w;nd;nd;n;n;wd;ed;d;nw;ne;sd;s;s;dh do;setdo {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}}
+#**恒山悬根松;#al w_back {e;sw;w;nd;nd;n;n;wd;ed;d;nw;ne;sd;s;s;dh do;setdo {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}}
+#**恒山果老岭;#al w_back {sw;sw;w;nd;nd;n;n;wd;ed;d;nw;ne;sd;s;s;dh do;setdo {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}}
+#**恒山通元谷;#al w_back {eu;sw;sw;w;nd;nd;n;n;wd;ed;d;nw;ne;sd;s;s;dh do;setdo {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}}
+#**恒山北岳庙;#al w_back {sd;sw;sw;w;nd;nd;n;n;wd;ed;d;nw;ne;sd;s;s;dh do;setdo {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}}
+#**恒山北岳殿;#al w_back {sd;sd;sw;sw;w;nd;nd;n;n;wd;ed;d;nw;ne;sd;s;s;dh do;setdo {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}}
+#**恒山鸡叫石;#al w_back {e;sd;sw;sw;w;nd;nd;n;n;wd;ed;d;nw;ne;sd;s;s;dh do;setdo {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}}
+#**恒山苦甜井;#al w_back {w;sd;sw;sw;w;nd;nd;n;n;wd;ed;d;nw;ne;sd;s;s;dh do;setdo {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}}
+#**恒山会仙台;#al w_back {ed;sd;sd;sw;sw;w;nd;nd;n;n;wd;ed;d;nw;ne;sd;s;s;dh do;setdo {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}}
+#**恒山玉羊游云;#al w_back {wd;sd;sd;sw;sw;w;nd;nd;n;n;wd;ed;d;nw;ne;sd;s;s;dh do;setdo {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}}
+#**恒山见性峰山道;#al w_back {sd;sd;sd;sw;sw;w;nd;nd;n;n;wd;ed;d;nw;ne;sd;s;s;dh do;setdo {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}}
+#**恒山见性峰广场;#al w_back {wd;sd;sd;sd;sd;sw;sw;w;nd;nd;n;n;wd;ed;d;nw;ne;sd;s;s;dh do;setdo {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}}
+#**恒山白云庵;#al w_back {s;wd;sd;sd;sd;sd;sw;sw;w;nd;nd;n;n;wd;ed;d;nw;ne;sd;s;s;dh do;setdo {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;ta;setdo {autostart}}}
+**
+**大雪山
+**
+#**大雪山来福杂货;#al w_back {walk {e;s;zptocd;walk {cdtodz;walk {autostart};te};te};te}
+#**大雪山赞普广场;#al w_back {walk {zptocd;walk {cdtodz;walk {autostart};te};te};te}
+#**大雪山王大力记;#al w_back {walk {w;s;zptocd;walk {cdtodz;walk {autostart};te};te};te}
+#**大雪山巨水门;#al w_back {walk {s;s;zptocd;walk {cdtodz;walk {autostart};te};te};te}
+#**大雪山皇宫;#al w_back {walk {w;zptocd;walk {cdtodz;walk {autostart};te};te};te}
+#**大雪山佛照门;#al w_back {walk {e;zptocd;walk {cdtodz;walk {autostart};te};te};te}
+#**大雪山吐蕃织造作坊;#al w_back {e;walk {zptocd;walk {cdtodz;walk {autostart};te};te};te}
+#**大雪山溢香楼;#al w_back {walk {w;zptocd;walk {cdtodz;walk {autostart};te};te};te}
+#**大雪山招财大车店;#al w_back {walk {w;zptocd;walk {cdtodz;walk {autostart};te};te};te}
+#**大雪山猛虎营;#al w_back {walk {e;zptocd;walk {cdtodz;walk {autostart};te};te};te}
+#**大雪山明霞门;#al w_back {walk {zptocd;walk {cdtodz;walk {autostart};te};te};te}
+#**大雪山藏边土路;#al w_back {sw;w;n;n;n;walk {zptocd;walk {cdtodz;walk {autostart};te};te};te}
+#**大雪山川西土路;#al w_back {sw;sw;w;n;n;n;walk {zptocd;walk {cdtodz;walk {autostart};te};te};te}
+#**大雪山湖边小路;#al w_back {se;e;e;e;walk {zptocd;walk {cdtodz;walk {autostart};te};te};te}
+#**大雪山湖边;#al w_back {s;e;e;walk {zptocd;walk {cdtodz;walk {autostart};te};te};te}
+#**大雪山天云马场;#al w_back {s;s;s;walk {zptocd;walk {cdtodz;walk {autostart};te};te};te}
+#**大雪山采石场;#al w_back {w;s;s;s;walk {zptocd;walk {cdtodz;walk {autostart};te};te};te}
+#**大雪山藏民部落;#al w_back {#t+ autologin;wu;set look;l;place}
+#**大雪山牧场;#al w_back {#t+ autologin;w;set look;l;place}
+#**大雪山街道;#al w_back {#2 n;#4 s;walk {zptocd;walk {cdtodz;walk {autostart};te};te};te}
+#**大雪山湖边小店;#al w_back {walk {choutozp;zptocd;walk {cdtodz;walk {autostart};te};te};te}
+#**大雪山天湖;#al w_back {walk {s;choutozp;zptocd;walk {cdtodz;walk {autostart};te};te};te}
+#**大雪山天溪;#al w_back {walk {s;s;choutozp;zptocd;walk {cdtodz;walk {autostart};te};te};te}
+#**大雪山善禅渡;#al w_back {walk {e;s;choutozp;zptocd;walk {cdtodz;walk {autostart};te};te};te}
+#**大雪山千步岭;#al w_back {walk {ed;se;e;s;choutozp;zptocd;walk {cdtodz;walk {autostart};te};te};te}
+#**大雪山入幽口;#al w_back {walk {eu;ed;se;e;s;choutozp;zptocd;walk {cdtodz;walk {autostart};te};te};te}
+#**大雪山风见台;#al w_back {walk {ed;eu;ed;se;e;s;choutozp;walk {zptocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**大雪山落风岗;#al w_back {walk {e;ed;eu;ed;se;e;s;choutozp;walk {zptocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**大雪山雪灵泉;#al w_back {walk {sd;ed;eu;ed;se;e;s;choutozp;walk {zptocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**大雪山雪积古道;#al w_back {walk {wd;nw;sw;sd;ed;eu;ed;se;e;s;walk {choutozp;zptocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**大雪山猴子洞;#al w_back {walk {wu;wd;nw;sw;sd;ed;eu;ed;se;e;s;walk {choutozp;zptocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**大雪山绞盘;#al w_back {walk {nw;wu;wd;nw;sw;sd;ed;eu;ed;se;e;s;choutozp;zptocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**大雪山雪谷;#al w_back {walk {ed;se;e;s;choutozp;walk {zptocd;walk {cdtodz;walk {autostart};te};te};te};te}
+#**大雪山大轮寺山门;#al w_back {walk {zptocd;walk {cdtodz;walk {autostart};te};te};dlstozpte}
+#**大雪山殿前广场;#al w_back {walk {zptocd;walk {cdtodz;walk {autostart};te};te};dlstozpte}
+#**大雪山礼佛大殿;#al w_back {walk {zptocd;walk {cdtodz;walk {autostart};te};te};sd;dlstozpte}
+#**大雪山却日殿;#al w_back {walk {zptocd;walk {cdtodz;walk {autostart};te};te};s;sd;dlstozpte}
+#**大雪山珠都巴殿;#al w_back {walk {zptocd;walk {cdtodz;walk {autostart};te};te};s;s;sd;dlstozpte}
+#**大雪山钟楼;#al w_back {walk {zptocd;walk {cdtodz;walk {autostart};te};te};e;e;dlstozpte}
+#**大雪山鼓楼;#al w_back {walk {zptocd;walk {cdtodz;walk {autostart};te};te};w;w;dlstozpte}
+#**大雪山结缘堂;#al w_back {walk {zptocd;walk {cdtodz;walk {autostart};te};te};e;s;e;dlstozpte}
+#**大雪山洛微堂;#al w_back {walk {zptocd;walk {cdtodz;walk {autostart};te};te};w;s;w;dlstozpte}
+#**大雪山大日法堂;#al w_back {walk {zptocd;walk {cdtodz;walk {autostart};te};te};w;w;s;w;dlstozpte}
+#**大雪山积善堂;#al w_back {walk {zptocd;walk {cdtodz;walk {autostart};te};te};e;s;s;e;dlstozpte}
+#**大雪山怡摩宫;#al w_back {walk {zptocd;walk {cdtodz;walk {autostart};te};te};w;s;s;w;dlstozpte}
+#**大雪山波罗蜜院;#al w_back {walk {zptocd;walk {cdtodz;walk {autostart};te};te};w;s;s;s;w;dlstozpte}
+#**大雪山谢客亭;#al w_back {walk {zptocd;walk {cdtodz;walk {autostart};te};te};su;s;s;sd;dlstozpte}
+#**大雪山遮雨廊;#al w_back {#t+ autologin;e;eu;set look;l;place}
+#**大雪山御圣殿;#al w_back {#t+ autologin;e;set look;l;place}
+#**大雪山日木伦殿;#al w_back {open door;out;dlsd;dlstozpte;walk {zptocd;te;walk {cdtodz;te;walk {autostart}}}}
+#**大雪山斋堂;#al w_back {nw;open door;out;dlsd;dlstozpte;walk {zptocd;te;walk {cdtodz;te;walk {autostart}}}}
+#**大雪山厨房;#al w_back {s;nw;open door;out;dlsd;dlstozpte;walk {zptocd;te;walk {cdtodz;te;walk {autostart}}}}
+#**大雪山月亮门;#al w_back {e;open door;out;dlsd;dlstozpte;walk {zptocd;te;walk {cdtodz;te;walk {autostart}}}}
+#**大雪山绝尘院;#al w_back {out;e;open door;out;dlsd;dlstozpte;walk {zptocd;te;walk {cdtodz;te;walk {autostart}}}}
+#**大雪山炽阳门;#al w_back {w;open door;out;dlsd;dlstozpte;walk {zptocd;te;walk {cdtodz;te;walk {autostart}}}}
+#**大雪山清心舍;#al w_back {out;w;open door;out;dlsd;dlstozpte;walk {zptocd;te;walk {cdtodz;te;walk {autostart}}}}
+#**大雪山护法扎仓;#al w_back {s;open door;out;dlsd;dlstozpte;walk {zptocd;te;walk {cdtodz;te;walk {autostart}}}}
+#**大雪山精进扎仓;#al w_back {w;s;open door;out;dlsd;dlstozpte;walk {zptocd;te;walk {cdtodz;te;walk {autostart}}}}
+#**大雪山苦修扎仓;#al w_back {e;s;open door;out;dlsd;dlstozpte;walk {zptocd;te;walk {cdtodz;te;walk {autostart}}}}
+#**大雪山金刚院;#al w_back {s;e;s;open door;out;dlsd;dlstozpte;walk {zptocd;te;walk {cdtodz;te;walk {autostart}}}}
+#**大雪山大经堂;#al w_back {s;w;s;open door;out;dlsd;dlstozpte;walk {zptocd;te;walk {cdtodz;te;walk {autostart}}}}
+#**大雪山梵音阁;#al w_back {sd;s;open door;out;dlsd;dlstozpte;walk {zptocd;te;walk {cdtodz;te;walk {autostart}}}}
+#**大雪山萨迦法堂;#al w_back {s;sd;s;open door;out;dlsd;dlstozpte;walk {zptocd;te;walk {cdtodz;te;walk {autostart}}}}
+#**大雪山法堂二楼;#al w_back {d;s;sd;s;open door;out;dlsd;dlstozpte;walk {zptocd;te;walk {cdtodz;te;walk {autostart}}}}
+**
+**佛山镇
+**
+#**佛山镇林间道;#al w_back {walk {nw;sw;sw;sw;#13 w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**佛山镇西门;#al w_back {walk {w;w;w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**佛山镇佛山西街;#al w_back {#t+ autologin;w;set look;l;place}
+#**佛山镇北帝庙;#al w_back {walk {s;#4 w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**佛山镇佛山广场;#al w_back {walk {#6 w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**佛山镇佛山东街;#al w_back {#t+ autologin;w;set look;l;place}
+#**佛山镇英雄会馆;#al w_back {walk {n;#5 w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**佛山镇杂货店;#al w_back {walk {s;w;#6 w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**佛山镇铁匠铺;#al w_back {walk {n;#8 w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**佛山镇烧饼摊;#al w_back {walk {s;#8 w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**佛山镇当铺;#al w_back {walk {n;#9 w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**佛山镇佛山东门;#al w_back {walk {#10 w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**佛山镇南门吊桥;#al w_back {walk {s;sw;sw;sw;#13 w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**佛山镇树林;#al w_back {walk {e;ne;#5 n;w;w;w;w;w;w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**佛山镇草莓地;#al w_back {walk {ne;n;n;n;n;n;#6 w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**佛山镇南门;#al w_back {walk {#5 n;w;w;w;w;w;w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**佛山镇钟家;#al w_back {walk {n;w;n;n;n;w;w;w;w;w;w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**佛山镇菜地;#al w_back {walk {open door;w;n;w;n;n;n;w;w;w;w;w;w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**佛山镇佛山南街;#al w_back {#t+ autologin;n;set look;l;place}
+#**佛山镇老渡口;#al w_back {walk {n;ne;n;n;n;n;n;#6 w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**佛山镇小吃店;#al w_back {walk {e;n;n;n;w;w;w;w;w;w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**佛山镇小巷;#al w_back {walk {w;n;n;n;w;w;w;w;w;w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**佛山镇英雄客栈;#al w_back {walk {e;n;n;w;w;w;w;w;w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**佛山镇凤府大门;#al w_back {walk {w;n;n;w;w;w;w;w;w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**佛山镇凤府大院;#al w_back {walk {w;w;n;n;w;w;w;w;w;w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**佛山镇凤府大厅;#al w_back {walk {w;w;w;n;n;w;w;w;w;w;w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**佛山镇书房;#al w_back {walk {n;w;w;w;n;n;w;w;w;w;w;w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**佛山镇英雄楼二楼;#al w_back {walk {d;n;#6 w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**佛山镇英雄楼;#al w_back {walk {n;#6 w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**佛山镇佛山北街;#al w_back {walk {s;#6 w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**佛山镇佛山北门;#al w_back {walk {s;s;#6 w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**佛山镇岭南;#al w_back {walk {s;s;s;#6 w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**佛山镇小路;#al w_back {walk {sd;sd;#4 s;#6 w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**佛山镇佛山祖庙;#al w_back {walk {se;#4 s;#6 w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**佛山镇坟场;#al w_back {walk {sw;#4 s;#6 w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**佛山镇密林;#al w_back {walk {sw;sd;sd;#4 s;#6 w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+**
+**福州城
+**
+#**福州城南门吊桥;#al w_back {walk {s;sw;sw;sw;#13 w;nw;sw;w;w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**福州城民宅;#al w_back {walk {fztohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**福州城西巷;#al w_back {walk {fztohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**福州城杂货铺;#al w_back {walk {w;s;s;e;e;fztohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**福州城药铺;#al w_back {walk {e;s;e;e;fztohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**福州城当铺;#al w_back {#t+ autologin;s;set look;l;place}
+#**福州城西街;#al w_back {#t+ autologin;e;set look;l;place}
+#**福州城西门;#al w_back {walk {e;e;e;fztohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**福州城花店;#al w_back {walk {e;n;e;e;fztohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**福州城茶楼;#al w_back {walk {d;e;n;n;e;e;fztohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**福州城吉祥客栈;#al w_back {walk {n;n;n;e;e;fztohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**福州城福威镖局;#al w_back {walk {n;e;fztohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**福州城镖局帐房;#al w_back {walk {w;n;e;fztohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**福州城镖局正厅;#al w_back {walk {n;n;e;fztohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**福州城南街;#al w_back {walk {n;fztohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**福州城南门;#al w_back {walk {n;n;fztohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**福州城武夷山路;#al w_back {walk {fztohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**福州城北门;#al w_back {walk {fztohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**福州城北街;#al w_back {walk {fztohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**福州城城中心;#al w_back {walk {fztohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**福州城东街;#al w_back {walk {w;fztohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**福州城东巷;#al w_back {#t+ autologin;s;set look;l;place}
+#**福州城石桥;#al w_back {walk {n;w;fztohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**福州城向阳老宅;#al w_back {walk {w;n;n;n;w;fztohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**福州城向阳巷;#al w_back {#t+ autologin;n;set look;l;place}
+#**福州城废园;#al w_back {walk {w;n;n;w;fztohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**福州城通宝斋;#al w_back {walk {w;s;s;w;fztohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**福州城酒馆;#al w_back {walk {w;s;w;fztohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**福州城海港;#al w_back {walk {w;w;fztohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**福州城渔港码头;#al w_back {walk {w;w;w;fztohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**福州城小路;#al w_back {walk {#2 sw;w;#4 sw;w;s;#2 sd;#4 s;#6 w;nw;sw;#2 w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**福州城小酒馆;#al w_back {walk {e;#2 sw;w;#4 sw;w;s;#2 sd;#4 s;#6 w;nw;sw;#2 w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**福州城山坡;#al w_back {walk {s;#2 sw;w;#4 sw;w;s;#2 sd;#4 s;#6 w;nw;sw;#2 w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+#**福州城船舱;#al w_back {walk {out;w;w;w;w;out;w;w;w;fztohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**福州城渔船;#al w_back {walk {w;w;w;w;out;w;w;w;fztohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**福州城山路;#al w_back {walk {nw;#2 sw;w;#4 sw;w;s;#2 sd;#4 s;#6 w;nw;sw;#2 w;walk {lctozhu;walk {zhutod;walk {dtodz;walk {autostart};te};te};te};lcgj te};te}
+**
+**杭州城
+**
+#**杭州城北门;#al w_back {walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城山路;#al w_back {#t+ autologin;su;#7 s;set look;l;place}
+#**杭州城青石大道;#al w_back {#t+ autologin;nw;nw;#7 s;set look;l;place}
+#**杭州城天香楼;#al w_back {walk {e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城书院;#al w_back {walk {w;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城杂货铺;#al w_back {walk {e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城万年春;#al w_back {walk {w;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城金华斋;#al w_back {walk {e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城翠合斋;#al w_back {walk {w;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城马厩;#al w_back {walk {w;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城鸿昌客栈;#al w_back {walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城宝淑塔;#al w_back {walk {sd;s;se;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城雷锋塔;#al w_back {walk {wd;su;sd;s;se;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城黄龙洞;#al w_back {walk {sd;su;sd;s;se;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城小筑;#al w_back {walk {e;nw;sd;su;sd;s;se;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城水池;#al w_back {walk {nw;sd;su;sd;s;se;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城长廊;#al w_back {#t+ autologin;n;e;w;s;w;s;e;n;w;sd;su;sd;s;se;e;set look;l;place}
+#**杭州城柳林;#al w_back {walk {#4 n;ne;#9 n;nw;n;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城精忠柏;#al w_back {walk {w;out;e;#7 n;ne;#9 n;nw;n;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城岳飞墓;#al w_back {walk {n;w;out;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城园门;#al w_back {walk {out;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城西湖边;#al w_back {#t+ autologin;nw;s;s;w;s;set look;l;place}
+#**杭州城白堤;#al w_back {walk {se;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城岳王庙;#al w_back {e;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城泉屋;#al w_back {walk {s;e;nw;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城玉泉;#al w_back {walk {e;nw;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城苏堤;#al w_back {walk {n;nw;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城映波桥;#al w_back {walk {e;n;nw;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城曲园风荷;#al w_back {walk {se;w;n;nw;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城跨虹桥;#al w_back {walk {n;e;nw;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城迎熏阁;#al w_back {walk {w;se;w;n;nw;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城牡丹园;#al w_back {walk {e;n;n;nw;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城花港观鱼;#al w_back {walk {n;n;nw;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城红鱼池;#al w_back {walk {w;n;n;nw;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城柳浪闻莺;#al w_back {walk {n;sw;se;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城净慈寺;#al w_back {walk {nw;nw;n;n;nw;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城玉皇山;#al w_back {walk {nw;nw;nw;n;n;nw;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城紫来洞;#al w_back {walk {n;#3 nw;n;n;nw;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城虎跑;#al w_back {walk {n;n;n;n;nw;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城龙井;#al w_back {walk {se;#4 n;nw;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城水乐洞;#al w_back {walk {nw;nw;w;nw;nw;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城烟霞洞;#al w_back {walk {e;nw;nw;w;nw;nw;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城石屋洞;#al w_back {walk {nw;w;nw;nw;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城飞来峰;#al w_back {walk {w;nw;nw;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城西冷桥;#al w_back {walk {e;ne;se;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城孤山;#al w_back {walk {ne;se;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城文澜阁;#al w_back {walk {n;ne;se;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城放鹤亭;#al w_back {walk {s;ne;se;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城平湖秋月;#al w_back {walk {e;se;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城断桥残雪;#al w_back {walk {se;se;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城灵隐寺;#al w_back {walk {e;nw;nw;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城天王殿;#al w_back {walk {e;e;nw;nw;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+#**杭州城大雄宝殿;#al w_back {walk {s;e;e;nw;nw;e;hztocr;walk {crtodz;walk {autostart};te};gj te};te}
+**
+**
+**梅庄
+**
+#**梅庄西湖边;#al w_back {#t+ autologin;w;set look;l;place}
+**
+**天山
+**
+#**天山空场;#al w_back {e;se;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};se;zyl {ne;n;xxtoyr};dh te}
+#**天山天山山路;#al w_back {e;e;se;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};se;zyl {ne;n;xxtoyr};dh te}
+#**天山山路;#al w_back {#4 sd;#2 e;se;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};se;zyl {ne;n;xxtoyr};dh te}
+#**天山半山;#al w_back {#4 sd;#2 e;se;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};se;zyl {ne;n;xxtoyr};dh te}
+#**天山断魂崖;#al w_back {e;#4 sd;#2 e;se;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};se;zyl {ne;n;xxtoyr};dh te}
+#**天山失足岩;#al w_back {sd;e;#4 sd;#2 e;se;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};se;zyl {ne;n;xxtoyr};dh te}
+#**天山百丈涧;#al w_back {s;sd;e;#4 sd;#2 e;se;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};se;zyl {ne;n;xxtoyr};dh te}
+#**天山仙愁门;#al w_back {walk {giggle;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};zyl {ne;n;xxtoyr};dh te};tisdte}
+#**天山山径;#al w_back {s;out;sd;su;sd;s;su;#2 sd;#3 w;#2 sd;walk {giggle;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};zyl {ne;n;xxtoyr};dh te};tisdte}
+#**天山缥缈峰;#al w_back {#2 sd;#3 w;#2 sd;walk {giggle;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};zyl {ne;n;xxtoyr};dh te};tisdte}
+#**天山青石大道;#al w_back {#t+ autologin;s;s;w;w;n;n;nw;nu;set look;l;place}
+#**天山赤天部;#al w_back {sd;s;su;#2 sd;#3 w;#2 sd;walk {giggle;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};zyl {ne;n;xxtoyr};dh te};tisdte};#al w_go {walk {dztocd;walk {cdtoyrw;walk {s;sw;walk {arrive};zyl {nw;#2 w;#4 nu;w;nu;n;unwield @fight_weapon;wield @weapon;ge tielian;b {tiao duimian;b {unwield @weapon;wield @fight_weapon;te}}}};dh yrtoxxte};te};te};multi_position=1;#al multi_go {walk2 {#2 nu;#3 e;#2 nu;nd;n;nu;multi_next;walk2 {sd;s;su;#2 sd;#3 w;#2 sd;multi_finish}}}
+#**天山朱天部;#al w_back {ne;e;su;sd;s;su;#2 sd;#3 w;#2 sd;walk {giggle;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};zyl {ne;n;xxtoyr};dh te};tisdte}
+#**天山阳天部;#al w_back {nw;w;su;sd;s;su;#2 sd;#3 w;#2 sd;walk {giggle;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};zyl {ne;n;xxtoyr};dh te};tisdte}
+#**天山昊天部;#al w_back {wd;s;w;su;sd;s;su;#2 sd;#3 w;#2 sd;walk {giggle;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};zyl {ne;n;xxtoyr};dh te};tisdte}
+#**天山钧天部;#al w_back {sd;su;sd;s;su;#2 sd;#3 w;#2 sd;walk {giggle;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};zyl {ne;n;xxtoyr};dh te};tisdte}
+#**天山成天部;#al w_back {ed;s;e;su;sd;s;su;#2 sd;#3 w;#2 sd;walk {giggle;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};zyl {ne;n;xxtoyr};dh te};tisdte}
+#**天山幽天部;#al w_back {se;s;s;e;su;sd;s;su;#2 sd;#3 w;#2 sd;walk {giggle;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};zyl {ne;n;xxtoyr};dh te};tisdte}
+#**天山玄天部;#al w_back {sd;su;sd;su;sd;s;su;#2 sd;#3 w;#2 sd;walk {giggle;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};zyl {ne;n;xxtoyr};dh te};tisdte}
+#**天山鸾天部;#al w_back {sw;s;s;w;su;sd;s;su;#2 sd;#3 w;#2 sd;walk {giggle;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};zyl {ne;n;xxtoyr};dh te};tisdte}
+#**天山大殿;#al w_back {#3 s;out;walk {giggle;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};zyl {ne;n;xxtoyr};dh te};tisdte}
+#**天山前殿;#al w_back {s;out;walk {giggle;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};zyl {ne;n;xxtoyr};dh te};tisdte}
+#**天山厨房;#al w_back {e;s;out;walk {giggle;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};zyl {ne;n;xxtoyr};dh te};tisdte}
+#**天山走廊;#al w_back {#4 w;#2 e;#4 s;out;walk {giggle;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};zyl {ne;n;xxtoyr};dh te};tisdte}
+#**天山寝室;#al w_back {n;e;e;s;s;s;out;walk {giggle;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};zyl {ne;n;xxtoyr};dh te};tisdte}
+#**天山封器冢;#al w_back {s;e;e;#3 s;out;walk {giggle;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};zyl {ne;n;xxtoyr};dh te};tisdte}
+#**天山客房;#al w_back {s;e;#3 s;out;walk {giggle;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};zyl {ne;n;xxtoyr};dh te};tisdte}
+#**天山灵心斋;#al w_back {n;e;#3 s;out;walk {giggle;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};zyl {ne;n;xxtoyr};dh te};tisdte}
+#**天山兵器室;#al w_back {n;w;#3 s;out;walk {giggle;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};zyl {ne;n;xxtoyr};dh te};tisdte}
+#**天山防具室;#al w_back {s;w;#3 s;out;walk {giggle;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};zyl {ne;n;xxtoyr};dh te};tisdte}
+#**天山百草堂;#al w_back {s;w;w;#3 s;out;walk {giggle;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};zyl {ne;n;xxtoyr};dh te};tisdte}
+#**天山练功房;#al w_back {n;w;w;#3 s;out;walk {giggle;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};zyl {ne;n;xxtoyr};dh te};tisdte}
+#**天山观雨亭;#al w_back {#6 s;out;walk {giggle;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};zyl {ne;n;xxtoyr};dh te};tisdte}
+#**天山后园;#al w_back {#5 s;out;walk {giggle;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};zyl {ne;n;xxtoyr};dh te};tisdte}
+#**天山花园;#al w_back {e;#7 s;out;walk {giggle;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};zyl {ne;n;xxtoyr};dh te};tisdte}
+#**天山断水桥;#al w_back {#7 s;out;walk {giggle;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};zyl {ne;n;xxtoyr};dh te};tisdte}
+#**天山假山;#al w_back {w;#7 s;out;walk {giggle;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};zyl {ne;n;xxtoyr};dh te};tisdte}
+#**天山灵鹫宫;#al w_back {out;walk {giggle;walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};zyl {ne;n;xxtoyr};dh te};tisdte}
+**
+**黑木崖
+**
+#**黑木崖石道;#al w_back {te;walk {s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh walknext;walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}
+#**黑木崖凉亭;#al w_back {te;walk {w;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh walknext;walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}
+#**黑木崖猩猩滩;#al w_back {te;walk {eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh walknext;walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}
+#**黑木崖长滩;#al w_back {te;walk {dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh walknext;walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}
+#**黑木崖山道;#al w_back {te;walk {ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh walknext;walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}
+#**黑木崖三岔口;#al w_back {te;walk {ed;ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh walknext;walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}
+#**黑木崖石阶;#al w_back {te;walk {ed;ed;ed;ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh walknext;walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}
+#**黑木崖石门;#al w_back {te;walk {#5 ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh walknext;walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}
+#**黑木崖眉毛崖;#al w_back {te;walk {n;ed;ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh walknext;walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}
+#**黑木崖桃花川;#al w_back {te;walk {nu;n;ed;ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh walknext;walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}
+#**黑木崖紫云崖;#al w_back {te;walk {e;nu;n;ed;ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh walknext;walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}
+#**黑木崖五老峰;#al w_back {te;walk {e;e;nu;n;ed;ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh walknext;walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}
+#**黑木崖碧血崖;#al w_back {te;walk {e;e;e;nu;n;ed;ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh walknext;walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}
+#**黑木崖一品崖;#al w_back {te;walk {s;e;e;nu;n;ed;ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh walknext;walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}
+#**黑木崖入胜亭;#al w_back {te;walk {n;e;e;nu;n;ed;ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh walknext;walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}
+#**黑木崖仙人指路;#al w_back {te;walk {wu;e;e;e;nu;n;ed;ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh walknext;walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}
+#**黑木崖玉屏瀑;#al w_back {te;walk {e;e;e;e;nu;n;ed;ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh walknext;walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}
+#**黑木崖仙人洞;#al w_back {te;walk {wd;wu;e;e;e;nu;n;ed;ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh walknext;walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}
+#**黑木崖观瀑亭;#al w_back {te;walk {s;e;e;e;e;nu;n;ed;ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh walknext;walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}
+#**黑木崖百丈泉;#al w_back {te;walk {eu;e;e;e;e;nu;n;ed;ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh walknext;walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}
+#**黑木崖卧云崖;#al w_back {te;walk {sd;s;e;e;e;e;nu;n;ed;ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh walknext;walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}
+#**黑木崖千古石;#al w_back {te;walk {n;eu;e;e;e;e;nu;n;ed;ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh walknext;walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}
+#**黑木崖索道;#al w_back {te;walk {wd;ed;ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh walknext;walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}
+#**黑木崖紫石崖;#al w_back {te;walk {ed;nu;n;ed;ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh walknext;walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}
+#**黑木崖崖顶;#al w_back {#t+ 黑木崖;zong;#al time1 {zong};#ts 4;walk {b {#6 ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh {te};walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}}
+#**黑木崖牌楼;#al w_back {w;#t+ 黑木崖;zong;#al time1 {zong};#ts 4;walk {b {#6 ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh {te};walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}}
+#**黑木崖厢房;#al w_back {w;w;#t+ 黑木崖;zong;#al time1 {zong};#ts 4;walk {b {#6 ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh {te};walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}}
+#**黑木崖石板路;#al w_back {s;w;#t+ 黑木崖;zong;#al time1 {zong};#ts 4;walk {b {#6 ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh {te};walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}}
+#**黑木崖前殿;#al w_back {w;s;w;#t+ 黑木崖;zong;#al time1 {zong};#ts 4;walk {b {#6 ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh {te};walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}}
+#**黑木崖白虎堂;#al w_back {s;w;w;s;w;#t+ 黑木崖;zong;#al time1 {zong};#ts 4;walk {b {#6 ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh {te};walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}}
+#**黑木崖朱雀堂;#al w_back {w;s;w;w;s;w;#t+ 黑木崖;zong;#al time1 {zong};#ts 4;walk {b {#6 ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh {te};walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}}
+#**黑木崖成德殿;#al w_back {w;w;s;w;w;s;w;#t+ 黑木崖;zong;#al time1 {zong};#ts 4;walk {b {#6 ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh {te};walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}}
+#**黑木崖青龙堂;#al w_back {e;s;w;w;s;w;w;s;w;#t+ 黑木崖;zong;#al time1 {zong};#ts 4;walk {b {#6 ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh {te};walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}}
+#**黑木崖千秋殿;#al w_back {w;s;w;w;s;w;w;s;w;#t+ 黑木崖;zong;#al time1 {zong};#ts 4;walk {b {#6 ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh {te};walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}}
+#**黑木崖练功房;#al w_back {s;w;w;s;w;w;s;w;w;s;w;#t+ 黑木崖;zong;#al time1 {zong};#ts 4;walk {b {#6 ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh {te};walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}}
+#**黑木崖膳食房;#al w_back {#3 w;w;s;w;w;s;w;w;s;w;#t+ 黑木崖;zong;#al time1 {zong};#ts 4;walk {b {#6 ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh {te};walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}}
+#**黑木崖大殿;#al w_back {n;w;w;s;w;w;s;w;#t+ 黑木崖;zong;#al time1 {zong};#ts 4;walk {b {#6 ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh {te};walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}}
+#**黑木崖风雷堂;#al w_back {n;w;w;s;w;#t+ 黑木崖;zong;#al time1 {zong};#ts 4;walk {b {#6 ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh {te};walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}}
+#**黑木崖后花园;#al w_back {n;w;n;w;w;s;w;#t+ 黑木崖;zong;#al time1 {zong};#ts 4;walk {b {#6 ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh {te};walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}}
+#**黑木崖小石屋;#al w_back {e;n;w;n;w;w;s;w;#t+ 黑木崖;zong;#al time1 {zong};#ts 4;walk {b {#6 ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh {te};walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}}
+#**黑木崖后殿;#al w_back {w;w;n;w;w;s;w;#t+ 黑木崖;zong;#al time1 {zong};#ts 4;walk {b {#6 ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh {te};walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}}
+#**黑木崖议事厅;#al w_back {w;s;w;w;n;w;w;s;w;#t+ 黑木崖;zong;#al time1 {zong};#ts 4;walk {b {#6 ed;w;dutan;eu;s;#2 se;#3 s;sw;w;w;w;wd;sw;w;s;s;dh {te};walk {#3 se;s;sw;w;#5 s;#2 sw;#9 s;e;n;te;walk {autostart}}}}}
+#**黑木崖长廊;#al w_back {#t+ autologin;#4 w;set look;l;place}
+**
+**星宿海
+**
+#**伊犁城惠远;#al w_back {nw;xx_jyg;ta;setdo {wi {guan bing} {e;e;wi {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}
+#**伊犁城伊犁河;#al w_back {s;nw;xx_jyg;ta;setdo {wi {guan bing} {e;e;wi {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}
+#**伊犁城南城门;#al w_back {s;s;nw;xx_jyg;ta;setdo {wi {guan bing} {e;e;wi {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}
+#**星宿海天山山路;#al w_back {walk {yrwtocd;walk {cdtodz;walk {autostart};te};te};e;e;se;zyl {ne;n;xxtoyr};dh te}
+#**星宿海星宿海;#al w_back {#t+ autologin;#7 s;se;set look;l;place}
+#**星宿海山前荒地;#al w_back {#7 s;xx_jyg;ta;setdo {wi {guan bing} {e;e;wi {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}
+#**星宿海虫谷入口;#al w_back {sw;#7 s;xx_jyg;ta;setdo {wi {guan bing} {e;e;wi {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}
+#**星宿海日月洞口;#al w_back {sd;#7 s;xx_jyg;ta;setdo {wi {guan bing} {e;e;wi {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}
+#**星宿海日月洞;#al w_back {s;sd;#7 s;xx_jyg;ta;setdo {wi {guan bing} {e;e;wi {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}
+#**星宿海石道;#al w_back {e;se;#7 s;xx_jyg;ta;setdo {wi {guan bing} {e;e;wi {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}
+#**星宿海厨房;#al w_back {e;e;se;#7 s;xx_jyg;ta;setdo {wi {guan bing} {e;e;wi {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}
+#**星宿海天然石洞;#al w_back {out;se;#7 s;xx_jyg;ta;setdo {wi {guan bing} {e;e;wi {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}
+#**星宿海海边荒路;#al w_back {e;#6 s;xx_jyg;ta;setdo {wi {guan bing} {e;e;wi {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}
+#**星宿海山石;#al w_back {ed;e;#6 s;xx_jyg;ta;setdo {wi {guan bing} {e;e;wi {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}
+#**星宿海小路;#al w_back {w;#6 s;xx_jyg;ta;setdo {wi {guan bing} {e;e;wi {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}
+#**星宿海山壁;#al w_back {sd;w;#6 s;xx_jyg;ta;setdo {wi {guan bing} {e;e;wi {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}
+#**星宿海天山脚下;#al w_back {xx_jyg;ta;setdo {wi {guan bing} {e;e;wi {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}
+#**星宿海吐谷浑伏俟城;#al w_back {n;n;nw;xx_jyg;ta;setdo {wi {guan bing} {e;e;wi {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}
+#**星宿海万宝斋;#al w_back {e;n;n;nw;xx_jyg;ta;setdo {wi {guan bing} {e;e;wi {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}
+#**星宿海沙洲;#al w_back {w;n;n;nw;xx_jyg;ta;setdo {wi {guan bing} {e;e;wi {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}
+#**星宿海人头疙瘩;#al w_back {sd;w;n;n;nw;xx_jyg;ta;setdo {wi {guan bing} {e;e;wi {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}
+#**星宿海月牙泉;#al w_back {w;sd;w;n;n;nw;xx_jyg;ta;setdo {wi {guan bing} {e;e;wi {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}
+#**星宿海胭脂山;#al w_back {sd;nw;w;n;n;nw;xx_jyg;ta;setdo {wi {guan bing} {e;e;wi {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}
+#**星宿海万象洞;#al w_back {nw;w;sd;w;n;n;nw;xx_jyg;ta;setdo {wi {guan bing} {e;e;wi {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}
+#**星宿海莫高窟;#al w_back {out;w;sd;w;n;n;nw;xx_jyg;ta;setdo {wi {guan bing} {e;e;wi {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}
+#**星宿海鸣沙山;#al w_back {w;nw;w;sd;w;n;n;nw;xx_jyg;ta;setdo {wi {guan bing} {e;e;wi {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}
+#**星宿海颂摩崖;#al w_back {n;w;nw;w;sd;w;n;n;nw;xx_jyg;ta;setdo {wi {guan bing} {e;e;wi {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}
+#**星宿海石门;#al w_back {nw;nw;w;n;n;nw;xx_jyg;ta;setdo {wi {guan bing} {e;e;wi {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}
+#**星宿海兴隆山;#al w_back {n;nw;nw;w;n;n;nw;xx_jyg;ta;setdo {wi {guan bing} {e;e;wi {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}
+#**星宿海仇池山;#al w_back {n;wu;n;w;nw;w;sd;w;n;n;nw;xx_jyg;ta;setdo {wi {guan bing} {e;e;wi {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}
+#**星宿海水帘洞;#al w_back {ne;n;wu;n;w;nw;w;sd;w;n;n;nw;xx_jyg;ta;setdo {wi {guan bing} {e;e;wi {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}
+#**星宿海仙人崖;#al w_back {nw;ne;n;wu;n;w;nw;w;sd;w;n;n;nw;xx_jyg;ta;setdo {wi {guan bing} {e;e;wi {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}
+#**星宿海丝绸之路;#al w_back {#t+ autologin;s;se;set look;l;place}
+#**星宿海嘉峪关东城门;#al w_back {eu;#2 e;se;se;s;#3 se;e;se;dh walknext;walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}
+#**星宿海万里长城;#al w_back {#2 e;se;se;s;#3 se;e;se;dh walknext;walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}
+#**星宿海大方盘城;#al w_back {e;se;se;s;#3 se;e;se;dh walknext;walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}
+#**星宿海雁门关;#al w_back {e;eu;e;e;se;se;s;#3 se;e;se;dh walknext;walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}
+#**星宿海星宿小屋;#al w_back {s;e;eu;e;e;se;se;s;#3 se;e;se;dh walknext;walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}
+#**星宿海天阁斋分店;#al w_back {n;e;eu;e;e;se;se;s;#3 se;e;se;dh walknext;walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}
+#**星宿海嘉峪关西城门;#al w_back {e;e;eu;e;e;se;se;s;#3 se;e;se;dh walknext;walk {yr_cd;te;walk {cd_xy;te;walk {autostart}}}}
+#**星宿海大沙漠;#al w_back {#8 e;xx_jyg;ta;setdo {wi {guan bing} {e;e;wi {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}
+**
+**昆仑山
+**
+#**昆仑山镇远桥;#al w_back {ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山西域山路;#al w_back {ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山巴颜喀拉山;#al w_back {nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山可可西里山;#al w_back {nd;wd;sd;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山昆仑山垭口;#al w_back {se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山麓;#al w_back {e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山红梅山庄;#al w_back {#3 e;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山山溪边;#al w_back {e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山雪山丛林;#al w_back {sd;ed;eu;#3 e;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山悬崖;#al w_back {sd;ed;eu;#3 e;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山大厅;#al w_back {s;#3 e;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山暖阁;#al w_back {s;s;#3 e;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山后院;#al w_back {w;s;#3 e;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山灵獒宫;#al w_back {s;w;s;#3 e;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山广场;#al w_back {w;n;#3 nd;wd;sd;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山昆仑派山门;#al w_back {sd;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山山路;#al w_back {e;e;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山广场西;#al w_back {w;n;#3 nd;wd;sd;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山广场东;#al w_back {w;n;#3 nd;wd;sd;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山石屏风;#al w_back {n;n;#3 nd;wd;sd;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山前厅;#al w_back {n;n;n;#3 nd;wd;sd;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山西走廊;#al w_back {e;n;n;n;#3 nd;wd;sd;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山东走廊;#al w_back {w;n;n;n;#3 nd;wd;sd;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山客厅;#al w_back {e;e;n;n;n;#3 nd;wd;sd;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山石路;#al w_back {n;n;n;n;#3 nd;wd;sd;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山静修室;#al w_back {e;n;n;n;n;#3 nd;wd;sd;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山书房;#al w_back {w;n;n;n;n;#3 nd;wd;sd;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山花园;#al w_back {#5 n;#3 nd;wd;sd;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山小石桥;#al w_back {e;#5 n;#3 nd;wd;sd;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山九曲廊;#al w_back {ne;#7 n;#3 nd;wd;sd;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山铁琴居;#al w_back {ne;e;e;#5 n;#3 nd;wd;sd;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山走廊;#al w_back {#6 n;#3 nd;wd;sd;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山后院门;#al w_back {w;w;#5 n;#3 nd;wd;sd;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山练功房;#al w_back {w;w;#6 n;#3 nd;wd;sd;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山三圣堂;#al w_back {#7 n;#3 nd;wd;sd;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山云杉林;#al w_back {#2 ne;#7 n;#3 nd;wd;sd;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山扶峰山;#al w_back {enter;s;e;#2 ne;#7 n;#3 nd;wd;sd;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山白牛山;#al w_back {sw;enter;s;e;#2 ne;#7 n;#3 nd;wd;sd;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山三圣坳;#al w_back {d;enter;s;e;#2 ne;#7 n;#3 nd;wd;sd;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山惊神峰;#al w_back {s;d;enter;s;e;#2 ne;#7 n;#3 nd;wd;sd;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+#**昆仑山卧室;#al w_back {e;ne;e;e;#5 n;#3 nd;wd;sd;e;se;e;nd;ed;e;e;ed;s;e;e;ta;setdo {htp_jyg;ta;setdo {wipe 兵 {guan bing} {e;e;wipe 兵 {guan bing} {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {autostart}}}}}}
+**
+**莆田少林
+**
+#**莆田少林山路;#al w_back {nd;wd;sw;w;nw;n;nw;ne;ne;ta;setdo {#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}}
+#**莆田少林石阶;#al w_back {nd;nd;wd;sw;w;nw;n;nw;ne;ne;ta;setdo {#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}}
+#**莆田少林小路;#al w_back {wu;#5 w;ne;#3 e;ta;setdo {#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}}
+#**莆田少林山门;#al w_back {nd;nd;nd;wd;sw;w;nw;n;nw;ne;ne;ta;setdo {#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}}
+#**莆田少林麻田地;#al w_back {nu;n;ne;e;e;e;nd;nd;nd;wd;sw;w;nw;n;nw;ne;ne;ta;setdo {#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}}
+#**莆田少林油菜地;#al w_back {s;wu;w;w;nd;nd;nd;wd;sw;w;nw;n;nw;ne;ne;ta;setdo {#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}}
+#**莆田少林凉亭;#al w_back {out;nd;wd;sw;w;nw;n;nw;ne;ne;ta;setdo {#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}}
+#**莆田少林须弥殿;#al w_back {n;n;n;nu;nd;n;n;open gate;n;#3 nd;wd;sw;w;nw;n;nw;ta;setdo {#2 ne;#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}}
+#**莆田少林厨房;#al w_back {s;e;e;n;n;ta;setdo {open gate;n;#3 nd;wd;sw;w;nw;n;nw;#2 ne;#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}}
+#**莆田少林饭厅;#al w_back {s;e;e;n;n;ta;setdo {open gate;n;#3 nd;wd;sw;w;nw;n;nw;#2 ne;#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}}
+#**莆田少林侧廊;#al w_back {#4 e;w;n;n;w;w;e;n;ta;setdo {open gate;n;#3 nd;wd;sw;w;nw;n;nw;#2 ne;#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}}
+#**莆田少林小径;#al w_back {n;#4 e;w;w;n;n;ta;setdo {open gate;n;#3 nd;wd;sw;w;nw;n;nw;#2 ne;#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}}
+#**莆田少林妙法殿;#al w_back {n;n;e;e;n;n;ta;setdo {open gate;n;#3 nd;wd;sw;w;nw;n;nw;#2 ne;#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}}
+#**莆田少林达摩院;#al w_back {w;n;n;e;e;n;n;ta;setdo {open gate;n;#3 nd;wd;sw;w;nw;n;nw;#2 ne;#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}}
+#**莆田少林小院;#al w_back {n;n;w;w;e;ta;setdo {open gate;n;#3 nd;wd;sw;w;nw;n;nw;#2 ne;#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}}
+#**莆田少林紧那罗王殿;#al w_back {n;n;n;e;ta;setdo {open gate;n;#3 nd;wd;sw;w;nw;n;nw;#2 ne;#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}}
+#**莆田少林广场;#al w_back {e;e;n;n;open gate;n;#3 nd;wd;sw;w;nw;n;nw;ta;setdo {#2 ne;#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}}
+#**莆田少林前院;#al w_back {open gate;n;#3 nd;wd;sw;w;nw;n;nw;#2 ne;#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}
+#**莆田少林慈悲殿;#al w_back {n;open gate;n;#3 nd;wd;sw;w;nw;n;nw;#2 ne;#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}
+#**莆田少林大雄宝殿;#al w_back {nd;n;n;open gate;n;#3 nd;wd;sw;w;ta;setdo {nw;n;nw;#2 ne;#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}}
+#**莆田少林前殿;#al w_back {nu;nd;n;n;ta;setdo {open gate;n;#3 nd;wd;sw;w;nw;n;nw;#2 ne;#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}}
+#**莆田少林中殿;#al w_back {n;nu;nd;n;n;ta;setdo {open gate;n;#3 nd;wd;sw;w;nw;n;nw;#2 ne;#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}}
+#**莆田少林后殿;#al w_back {n;n;nu;nd;n;n;ta;setdo {open gate;n;#3 nd;wd;sw;w;nw;n;nw;#2 ne;#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}}
+#**莆田少林法堂;#al w_back {w;n;n;nu;nd;n;n;ta;setdo {open gate;n;#3 nd;wd;sw;w;nw;n;nw;#2 ne;#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}}
+#**莆田少林戒持院;#al w_back {n;n;n;n;nu;nd;n;n;ta;setdo {open gate;n;#3 nd;wd;sw;w;nw;n;nw;#2 ne;#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}}
+#**莆田少林长廊;#al w_back {#t+ autologin;w;set look;l;place}
+#**莆田少林方丈室;#al w_back {e;e;n;n;n;n;nu;nd;n;n;ta;setdo {open gate;n;#3 nd;wd;sw;w;nw;n;nw;#2 ne;#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}}
+#**莆田少林静室;#al w_back {n;n;n;n;n;nu;nd;n;n;ta;setdo {open gate;n;#3 nd;wd;sw;w;nw;n;nw;#2 ne;#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}}
+#**莆田少林暖阁;#al w_back {w;w;n;n;n;n;nu;nd;n;n;ta;setdo {open gate;n;#3 nd;wd;sw;w;nw;n;nw;#2 ne;#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}}
+#**莆田少林六祖殿;#al w_back {n;n;n;w;ta;setdo {open gate;n;#3 nd;wd;sw;w;nw;n;nw;#2 ne;#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}}
+#**莆田少林罗汉堂;#al w_back {e;n;n;w;w;n;n;ta;setdo {open gate;n;#3 nd;wd;sw;w;nw;n;nw;#2 ne;#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}}
+#**莆田少林大乘殿;#al w_back {n;n;w;w;n;n;ta;setdo {open gate;n;#3 nd;wd;sw;w;nw;n;nw;#2 ne;#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}}
+#**莆田少林僧舍;#al w_back {s;w;w;n;n;ta;setdo {open gate;n;#3 nd;wd;sw;w;nw;n;nw;#2 ne;#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}}
+#**莆田少林武功阁;#al w_back {nd;n;n;w;w;n;n;ta;setdo {open gate;n;#3 nd;wd;sw;w;nw;n;nw;#2 ne;#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}}
+#**莆田少林藏经阁;#al w_back {nd;n;n;e;e;n;n;ta;setdo {open gate;n;#3 nd;wd;sw;w;nw;n;nw;#2 ne;#2 n;#2 nw;wu;nd;n;sw;#4 n;nw;ta;setdo {e;#7 n;ne;#9 n;nw;n;dj do;setdo {bcj;ta;setdo {autostart}}}}}
+#**姑苏慕容码头;#al w_back {walk {n;nw;#3 w;n;nw;ne;n;sw;#9 n;nw;n;walk {crtodz;walk {autostart};te};gj te};te}
+#**姑苏慕容小石桥;#al w_back {walk {n;nw;#3 w;n;nw;ne;n;sw;#9 n;nw;n;walk {crtodz;walk {autostart};te};gj te};te}
+#**姑苏慕容湖边;#al w_back {walk {n;nw;#3 w;n;nw;ne;n;sw;#9 n;nw;n;walk {crtodz;walk {autostart};te};gj te};te}
+**
+**宁波城
+**
+#**宁波城报国寺;#al w_back {walk {nd;nbtohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**宁波城石路;#al w_back {walk {nbtohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**宁波城天一阁;#al w_back {walk {nbtohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**宁波城天封塔;#al w_back {n;walk {nbtohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**宁波城阿育王寺;#al w_back {w;n;walk {nbtohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**宁波城天童禅寺;#al w_back {n;n;walk {nbtohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**宁波城城中心;#al w_back {walk {w;n;n;nbtohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**宁波城溪口;#al w_back {walk {w;w;n;nbtohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**宁波城东钱湖;#al w_back {walk {n;w;w;n;nbtohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**宁波城马厩;#al w_back {walk {e;ne;n;w;w;n;nbtohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**宁波城客店;#al w_back {walk {ne;n;w;w;n;nbtohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**宁波城雪窦山;#al w_back {walk {n;n;w;w;n;nbtohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**宁波城青石官道;#al w_back {walk {nbtohz;walk {hztocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+**
+**神龙岛
+**
+#**神龙岛练功房;#al w_back {#t+ autologin;e;set look;l;place}
+#**神龙岛山坡;#al w_back {#t+ autologin;sd;su;d;enter;u;nu;u;nu;u;nu;u;nu;enter;set look;l;place}
+#**神龙岛山路;#al w_back {#t+ autologin;wu;wu;wd;wd;w;w;sd;su;d;enter;u;nu;u;nu;u;nu;u;nu;enter;s;set look;l;place}
+#**神龙岛渡口;#al w_back {walk {sldtoyre;walk {yretodz;walk {autostart};te};dh te};sldout te}
+#**神龙岛沙滩;#al w_back {sw;se;walk {sldtoyre;walk {yretodz;walk {autostart};te};dh te};sldout te}
+#**神龙岛海滩;#al w_back {#2 sw;#2 w;walk {tgtoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**神龙岛小路;#al w_back {#2 sw;#2 w;walk {tgtoyre;walk {yretodz;walk {autostart};te};dh te};te}
+#**神龙岛陆府正厅;#al w_back {out;#3 s;walk {sldtoyre;walk {yretodz;walk {autostart};te};dh te};sldout te}
+#**神龙岛药室;#al w_back {w;out;#3 s;walk {sldtoyre;walk {yretodz;walk {autostart};te};dh te};sldout te}
+#**神龙岛林间空地;#al w_back {#3 s;walk {sldtoyre;walk {yretodz;walk {autostart};te};dh te};sldout te}
+#**神龙岛树林;#al w_back {sw;se;#5 s;walk {sldtoyre;walk {yretodz;walk {autostart};te};dh te};sldout te}
+#**神龙岛厅后;#al w_back {s;walk {sldd;#3 s;walk {sldtoyre;walk {yretodz;walk {autostart};te};dh te};sldout te};te}
+#**神龙岛后厅;#al w_back {s;s;walk {sldd;#3 s;walk {sldtoyre;walk {yretodz;walk {autostart};te};dh te};sldout te};te}
+#**神龙岛大厅;#al w_back {walk {sldd;#3 s;walk {sldtoyre;walk {yretodz;walk {autostart};te};dh te};sldout te};te}
+#**神龙岛厨房;#al w_back {w;s;walk {sldd;#3 s;walk {sldtoyre;walk {yretodz;walk {autostart};te};dh te};sldout te};te}
+#**神龙岛山峰顶;#al w_back {up;enter;n;walk {sldd;#3 s;walk {sldtoyre;walk {yretodz;walk {autostart};te};dh te};sldout te};te}
+#**神龙岛走廊;#al w_back {e;e;e;n;walk {sldd;#3 s;walk {sldtoyre;walk {yretodz;walk {autostart};te};dh te};sldout te};te}
+#**神龙岛白龙门议事厅;#al w_back {walk {baitosld;walk {sldtoyre;walk {yretodz;walk {autostart};te};dh te};sldout te};te}
+#**神龙岛赤龙门议事厅;#al w_back {walk {chitosld;walk {sldtoyre;walk {yretodz;walk {autostart};te};dh te};sldout te};te}
+#**神龙岛黑龙门议事厅;#al w_back {walk {heitosld;walk {sldtoyre;walk {yretodz;walk {autostart};te};dh te};sldout te};te}
+#**神龙岛青龙门议事厅;#al w_back {walk {qingtosld;walk {sldtoyre;walk {yretodz;walk {autostart};te};dh te};sldout te};te}
+#**神龙岛黄龙门议事厅;#al w_back {walk {huangtosld;walk {sldtoyre;walk {yretodz;walk {autostart};te};dh te};sldout te};te}
+**
+**归云庄
+**
+#**归云庄饭厅;#al w_back {n;n;n;e;n;e;e;e;walk {thtogy;walk {gytocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**归云庄厨房;#al w_back {w;n;n;n;e;n;e;e;e;walk {thtogy;walk {gytocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**归云庄茶房;#al w_back {e;n;n;n;e;n;e;e;e;walk {thtogy;walk {gytocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**归云庄练武场;#al w_back {n;n;e;n;e;e;e;walk {thtogy;walk {gytocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**归云庄走廊;#al w_back {n;e;n;e;e;e;walk {thtogy;walk {gytocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**归云庄卧房;#al w_back {e;n;e;e;s;e;e;e;walk {thtogy;walk {gytocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**归云庄后厅;#al w_back {n;e;e;s;e;e;e;walk {thtogy;walk {gytocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**归云庄书房;#al w_back {w;n;e;e;s;e;e;e;walk {thtogy;walk {gytocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**归云庄客房;#al w_back {s;e;s;e;e;e;walk {thtogy;walk {gytocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**归云庄中厅;#al w_back {#3 e;walk {thtogy;walk {gytocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**归云庄前厅;#al w_back {e;e;walk {thtogy;walk {gytocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**归云庄大石桥;#al w_back {e;walk {thtogy;walk {gytocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**归云庄归云庄前;#al w_back {walk {thtogy;walk {gytocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**归云庄湖滨小路;#al w_back {walk {thtogy;walk {gytocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**归云庄小酒馆;#al w_back {n;e;walk {qqz;walk {gytocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**归云庄草地;#al w_back {walk {e;e;w;thtogy;walk {gytocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**归云庄树林;#al w_back {s;e;e;w;walk {thtogy;walk {gytocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**归云庄树林深处;#al w_back {w;s;se;s;s;e;e;wwalk {thtogy;walk {gytocr;walk {crtodz;walk {autostart};te};gj te};te};te}
+#**归云庄小河西岸;#al w_back {w;e;qqz;bbb {gytocr;dj do;setdo {bcj;ta;setdo {autostart}}}}
+#**归云庄小河东岸;#al w_back {gytocr;dj do;setdo {bcj;ta;setdo {autostart}}}
+**
+**回疆
+**
+#**回疆苏鲁克的家;#al w_back {ne;ne;e;ed;#6 e;se;e;#2 se;e;eu;ed;s;se;e;ta;setdo {wipe 官兵 bing {e;e;wipe 官兵 bing {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {arrive_back}}}}}
+#**回疆坎儿井;#al w_back {ne;ne;e;ed;#6 e;se;e;#2 se;e;eu;ed;s;se;e;ta;setdo {wipe 官兵 bing {e;e;wipe 官兵 bing {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {arrive_back}}}}}
+#**回疆跑马场;#al w_back {ne;ne;e;ed;#6 e;se;e;#2 se;e;eu;ed;s;se;e;ta;setdo {wipe 官兵 bing {e;e;wipe 官兵 bing {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {arrive_back}}}}}
+#**回疆小路;#al w_back {#t+ autologin;e;sw;set look;l;place}
+#**回疆小山丘;#al w_back {ed;e;#6 e;se;e;#2 se;e;eu;ed;s;se;e;ta;setdo {wipe 官兵 bing {e;e;wipe 官兵 bing {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {arrive_back}}}}}
+#**回疆哈萨克小店;#al w_back {s;e;ed;#6 e;se;e;#2 se;e;eu;ed;s;se;e;ta;setdo {wipe 官兵 bing {e;e;wipe 官兵 bing {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {arrive_back}}}}}
+#**回疆哈萨克帐篷;#al w_back {w;n;n;ed;#6 e;se;e;#2 se;e;eu;ed;s;se;e;ta;setdo {wipe 官兵 bing {e;e;wipe 官兵 bing {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {arrive_back}}}}}
+#**回疆草棚;#al w_back {s;sw;w;s;e;ed;#6 e;se;e;#2 se;e;eu;ed;s;se;e;ta;setdo {wipe 官兵 bing {e;e;wipe 官兵 bing {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {arrive_back}}}}}
+#**回疆小屋;#al w_back {out;s;sw;w;s;e;ed;#6 e;se;e;#2 se;e;eu;ed;s;se;e;ta;setdo {wipe 官兵 bing {e;e;wipe 官兵 bing {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {arrive_back}}}}}
+#**回疆草场;#al w_back {nd;e;ed;#6 e;se;e;#2 se;e;eu;ed;s;se;e;ta;setdo {wipe 官兵 bing {e;e;wipe 官兵 bing {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {arrive_back}}}}}
+#**回疆马棚;#al w_back {n;n;e;ed;#6 e;se;e;#2 se;e;eu;ed;s;se;e;ta;setdo {wipe 官兵 bing {e;e;wipe 官兵 bing {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {arrive_back}}}}}
+#**回疆车尔库的家;#al w_back {ne;w;n;w;nd;e;ed;#6 e;se;e;#2 se;e;eu;ed;s;se;e;ta;setdo {wipe 官兵 bing {e;e;wipe 官兵 bing {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {arrive_back}}}}}
+#**回疆大草原;#al w_back {#t+ autologin;w;n;n;n;sw;set look;l;place}
+#**回疆草原边缘;#al w_back {wu;w;e;ed;#6 e;se;e;#2 se;e;eu;ed;s;se;e;ta;setdo {wipe 官兵 bing {e;e;wipe 官兵 bing {jyg_yr;dh do}};setdo {yr_cd;ta;setdo {cd_xy;ta;setdo {arrive_back}}}}}
+**
+**慕容
+**
+#**燕子坞小径;#al w_back {#t+ autologin;w;n;w;n;set look;l;place}
+#**燕子坞小门;#al w_back {#t+ autologin;n;w;w;n;e;e;n;set look;l;place}
+#**燕子坞长廊;#al w_back {#t+ autologin;#6 w;n;n;e;e;#4 n;set look;l;place}
+#**燕子坞岸边;#al w_back {e;s;s;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mryzwout te}
+#**燕子坞听香水榭;#al w_back {s;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mryzwout te}
+#**燕子坞后院;#al w_back {s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mryzwout te}
+#**燕子坞院门;#al w_back {w;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mryzwout te}
+#**燕子坞木桥;#al w_back {e;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mryzwout te}
+#**燕子坞碧水亭;#al w_back {e;e;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mryzwout te}
+#**燕子坞练武场;#al w_back {w;w;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mryzwout te}
+#**燕子坞大厅;#al w_back {n;n;w;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mryzwout te}
+#**燕子坞局室;#al w_back {e;n;n;w;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mryzwout te}
+#**燕子坞书房;#al w_back {w;n;n;w;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mryzwout te}
+#**燕子坞私塾;#al w_back {s;w;n;n;w;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mryzwout te}
+#**燕子坞厨房;#al w_back {w;w;w;n;n;w;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mryzwout te}
+#**燕子坞后厅;#al w_back {n;n;n;w;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mryzwout te}
+#**燕子坞厢房;#al w_back {w;w;w;w;e;e;e;n;n;n;w;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mryzwout te}
+#**燕子坞内堂;#al w_back {n;n;n;n;w;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mryzwout te}
+#**燕子坞静音阁;#al w_back {e;n;n;n;n;w;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mryzwout te}
+#**燕子坞赏月斋;#al w_back {w;n;n;n;n;w;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mryzwout te}
+#**燕子坞墓地;#al w_back {w;w;w;w;n;w;n;n;n;n;w;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mryzwout te}
+#**燕子坞观星台;#al w_back {s;w;w;w;n;w;n;n;n;n;w;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mryzwout te}
+#**曼佗罗山庄岸边;#al w_back {s;e;s;s;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mrszout te}
+#**曼佗罗山花丛中;#al w_back {w;w;w;s;e;e;s;s;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mrszout te}
+#**曼佗罗山庄庄门;#al w_back {s;s;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mrszout te}
+#**曼佗罗山庄前院;#al w_back {w;s;s;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mrszout te}
+#**曼佗罗山庄石桥;#al w_back {w;w;s;s;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mrszout te}
+#**曼佗罗山庄水池;#al w_back {#6 w;s;s;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mrszout te}
+#**曼佗罗山庄柳树林;#al w_back {w;w;e;n;s;s;#4 w;s;s;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mrszout te}
+#**曼佗罗山庄后院;#al w_back {n;n;w;w;w;w;s;s;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mrszout te}
+#**曼佗罗山庄云锦楼;#al w_back {n;n;n;w;w;w;w;s;s;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mrszout te}
+#**曼佗罗山庄厢房;#al w_back {n;n;n;w;w;w;s;s;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mrszout te}
+#**曼佗罗山庄客厅;#al w_back {w;n;n;n;w;w;w;w;s;s;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mrszout te}
+#**曼佗罗山庄后花园;#al w_back {n;n;n;n;w;w;w;w;s;s;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mrszout te}
+#**曼佗罗山庄花肥房;#al w_back {e;n;n;n;n;w;w;w;w;s;s;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mrszout te}
+#**曼佗罗山庄杂货室;#al w_back {w;n;n;n;n;w;w;w;w;s;s;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mrszout te}
+#**曼佗罗山庄饭厅;#al w_back {w;w;w;n;n;w;w;w;w;s;s;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mrszout te}
+#**曼佗罗山庄亭子;#al w_back {wd;w;n;#5 w;s;s;s;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mrszout te}
+#**曼佗罗山庄小径;#al w_back {#t+ autologin;n;n;set look;l;place}
+#**曼佗罗山庄长廊;#al w_back {#t+ autologin;n;n;e;n;w;w;n;set look;l;place}
+#**姑苏慕容小岛边;#al w_back {walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mrmrout te}
+#**姑苏慕容小舍;#al w_back {walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mrmrout te}
+#**姑苏慕容听雨居;#al w_back {se;e;e;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mrmrout te}
+#**姑苏慕容小厅;#al w_back {w;sw;w;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mrmrout te}
+#**姑苏慕容厨房;#al w_back {s;w;sw;w;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mrmrout te}
+#**姑苏慕容厢房;#al w_back {w;w;sw;w;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mrmrout te}
+#**姑苏慕容后堂;#al w_back {n;w;sw;w;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mrmrout te}
+#**姑苏慕容小径;#al w_back {sw;#3 e;w;walk {mrtocr;walk {crtodz;walk {autostart};te};gj te};mrmrout te}
+**
+**绝情谷
+**
+#**绝情谷小溪边;#al w_back {s;se;se;s;#5 e;#2 s;e;n;ta;setdo {autostart}}
+#**绝情谷独峰岭;#al w_back {#t+ jqgout1;#al temp {autostart};#loo 1,3 unwield jian %i;tui boat;#wa 2000;jump boat}
+#**绝情谷大室;#al w_back {w;w;out;s;xiao;jump back;#2 wd;#2 w;#al temp {autostart};#t+ jqgout;l;}
+#**绝情谷小室;#al w_back {w;out;s;xiao;jump back;#2 wd;#2 w;#al temp {autostart};#t+ jqgout;l;}
